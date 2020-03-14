@@ -4,7 +4,7 @@ from googlesearch import search
 import csv
 from tldextract import extract as extractTLD
 
-query="endüstri mühendisliği müfredat"
+query="endüstri mühendisliği lisans ders programı müfredat"
 
 urls = []
 
