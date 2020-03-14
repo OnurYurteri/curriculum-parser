@@ -1,0 +1,353 @@
+GÜZ DÖNEMİ,BAHAR DÖNEMİ
+BİRİNCİ YIL
+"
+Ders
+Adı
+Kredi
+ECTS
+MATH 101
+Analiz I
+4
+6
+MATH 201
+Matris Kuramı
+4
+5
+PHYS 121
+Mekanik ve Termodinamik: Giriş
+4
+8
+ENGG 110 
+Teknik Resim
+3
+5
+AE 111-112/221-222
+İleri Düzeyde İngilizce I, II,Eleştirel Okuma I, II*
+3
+3/4
+
+
+
+
+",Ders,Adı,Kredi,ECTS,MATH 101,Analiz I,4,6,MATH 201,Matris Kuramı,4,5,PHYS 121,Mekanik ve Termodinamik: Giriş,4,8,ENGG 110 ,Teknik Resim,3,5,AE 111-112/221-222,"İleri Düzeyde İngilizce I, II,Eleştirel Okuma I, II*",3,3/4,,,,,"
+Ders
+Adı
+Kredi
+ECTS
+MATH 102
+Analiz II
+4
+6
+PHYS 201
+Fizik III
+4
+6
+CmpE 150 
+Bilgi-İşleme Giriş
+3
+5
+CHEM 105
+Kimyanın Temelleri
+4
+6
+ IE 120 
+Endüstri Mühendisliği: Giriş ve Ön Bilgilendirme
+3
+5
+",Ders,Adı,Kredi,ECTS,MATH 102,Analiz II,4,6,PHYS 201,Fizik III,4,6,CmpE 150 ,Bilgi-İşleme Giriş,3,5,CHEM 105,Kimyanın Temelleri,4,6, IE 120 ,Endüstri Mühendisliği: Giriş ve Ön Bilgilendirme,3,5
+Ders,Adı,Kredi,ECTS
+MATH 101,Analiz I,4,6
+MATH 201,Matris Kuramı,4,5
+PHYS 121,Mekanik ve Termodinamik: Giriş,4,8
+ENGG 110 ,Teknik Resim,3,5
+AE 111-112/221-222,"İleri Düzeyde İngilizce I, II,Eleştirel Okuma I, II*",3,3/4
+,,,
+Ders,Adı,Kredi,ECTS
+MATH 102,Analiz II,4,6
+PHYS 201,Fizik III,4,6
+CmpE 150 ,Bilgi-İşleme Giriş,3,5
+CHEM 105,Kimyanın Temelleri,4,6
+ IE 120 ,Endüstri Mühendisliği: Giriş ve Ön Bilgilendirme,3,5
+İKİNCİ YIL
+"
+Ders
+Adı
+Kredi
+ECTS
+IE 201
+Orta Düzey Programlama
+3
+6
+IE 202
+Yöneylem Araştırması I
+4
+7
+IE 255 
+Endüstri Mühendisleri için Olasılık
+3
+6
+AD 216
+Finansal Muhasebe ve Maliyet Muhasebesi
+4
+6
+EC 101
+Mikroekonominin İlkeleri
+3
+6
+TK 221 
+Türkçe I
+2
+3
+",Ders,Adı,Kredi,ECTS,IE 201,Orta Düzey Programlama,3,6,IE 202,Yöneylem Araştırması I,4,7,IE 255 ,Endüstri Mühendisleri için Olasılık,3,6,AD 216,Finansal Muhasebe ve Maliyet Muhasebesi,4,6,EC 101,Mikroekonominin İlkeleri,3,6,TK 221 ,Türkçe I,2,3,"
+Ders
+Adı
+Kredi
+ECTS
+MATH 202
+Diferansiyel Denklemler
+4
+7
+IE 256 
+Endüstri Mühendisleri için İstatistik
+3
+6
+IE 220
+İmalat Malzemeleri ve Süreçleri
+3
+5
+IE 203
+Yöneylem Araştırması II
+4
+7
+EC 102
+Makroekonominin İlkeleri
+3
+6
+TK 222
+Türkçe II
+2
+3
+
+
+
+
+",Ders,Adı,Kredi,ECTS,MATH 202,Diferansiyel Denklemler,4,7,IE 256 ,Endüstri Mühendisleri için İstatistik,3,6,IE 220,İmalat Malzemeleri ve Süreçleri,3,5,IE 203,Yöneylem Araştırması II,4,7,EC 102,Makroekonominin İlkeleri,3,6,TK 222,Türkçe II,2,3,,,,
+Ders,Adı,Kredi,ECTS
+IE 201,Orta Düzey Programlama,3,6
+IE 202,Yöneylem Araştırması I,4,7
+IE 255 ,Endüstri Mühendisleri için Olasılık,3,6
+AD 216,Finansal Muhasebe ve Maliyet Muhasebesi,4,6
+EC 101,Mikroekonominin İlkeleri,3,6
+TK 221 ,Türkçe I,2,3
+Ders,Adı,Kredi,ECTS
+MATH 202,Diferansiyel Denklemler,4,7
+IE 256 ,Endüstri Mühendisleri için İstatistik,3,6
+IE 220,İmalat Malzemeleri ve Süreçleri,3,5
+IE 203,Yöneylem Araştırması II,4,7
+EC 102,Makroekonominin İlkeleri,3,6
+TK 222,Türkçe II,2,3
+,,,
+ÜÇÜNCÜ YIL
+"
+Ders
+Adı
+Kredi
+ECTS
+IE 341
+Mühendislik Ekonomisi
+4
+7
+IE 306 
+Sistem Benzetimi
+4
+7
+IE 312
+Tesis Tasarımı ve Planlama
+4
+7
+HSS
+Sosyal ve Beşerî Bilimler Seçmeli Dersi
+3/4
+4
+HTR 311
+Türkiye Cumhuriyeti Tarihi I
+2
+3
+
+
+
+
+",Ders,Adı,Kredi,ECTS,IE 341,Mühendislik Ekonomisi,4,7,IE 306 ,Sistem Benzetimi,4,7,IE 312,Tesis Tasarımı ve Planlama,4,7,HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3/4,4,HTR 311,Türkiye Cumhuriyeti Tarihi I,2,3,,,,,"
+Ders
+Adı
+Kredi
+ECTS
+IE 313
+Tedarik Zinciri Yönetimi
+4
+7
+IE
+Uzmanlaşma Dersi
+3
+6
+IE
+Bölüm Seçmeli Dersi
+3
+6
+IE
+Bölüm Seçmeli Dersi
+3
+6
+HSS
+Sosyal ve Beşerî Bilimler Seçmeli Dersi
+3
+5
+ HTR 312 
+Türkiye Cumhuriyeti Tarihi II
+2
+3
+",Ders,Adı,Kredi,ECTS,IE 313,Tedarik Zinciri Yönetimi,4,7,IE,Uzmanlaşma Dersi,3,6,IE,Bölüm Seçmeli Dersi,3,6,IE,Bölüm Seçmeli Dersi,3,6,HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3,5, HTR 312 ,Türkiye Cumhuriyeti Tarihi II,2,3
+Ders,Adı,Kredi,ECTS
+IE 341,Mühendislik Ekonomisi,4,7
+IE 306 ,Sistem Benzetimi,4,7
+IE 312,Tesis Tasarımı ve Planlama,4,7
+HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3/4,4
+HTR 311,Türkiye Cumhuriyeti Tarihi I,2,3
+,,,
+Ders,Adı,Kredi,ECTS
+IE 313,Tedarik Zinciri Yönetimi,4,7
+IE,Uzmanlaşma Dersi,3,6
+IE,Bölüm Seçmeli Dersi,3,6
+IE,Bölüm Seçmeli Dersi,3,6
+HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3,5
+ HTR 312 ,Türkiye Cumhuriyeti Tarihi II,2,3
+DÖRDÜNCÜ YIL
+"
+Ders
+Adı
+Kredi
+ECTS
+IE 423
+Kalite Mühendisliği
+3
+6
+IE
+Uzmanlaşma Dersi
+3
+6
+IE
+Uzmanlaşma Dersi
+3
+6
+IE
+Bölüm Seçmeli Dersi
+3
+6
+CC
+Tamamlayıcı Seçmeli Ders
+3
+5
+
+
+
+
+",Ders,Adı,Kredi,ECTS,IE 423,Kalite Mühendisliği,3,6,IE,Uzmanlaşma Dersi,3,6,IE,Uzmanlaşma Dersi,3,6,IE,Bölüm Seçmeli Dersi,3,6,CC,Tamamlayıcı Seçmeli Ders,3,5,,,,,"
+Ders
+Adı
+Kredi
+ECTS
+IE 492
+Bitirme Projesi
+4
+8
+IE
+Bölüm Seçmeli Dersi
+3
+6
+-
+Serbest Seçmeli Ders
+3
+6
+CC
+Tamamlayıcı Seçmeli Ders
+3
+5
+HSS
+Sosyal ve Beşerî Bilimler Seçmeli Dersi
+3
+4
+
+
+
+
+",Ders,Adı,Kredi,ECTS,IE 492,Bitirme Projesi,4,8,IE,Bölüm Seçmeli Dersi,3,6,-,Serbest Seçmeli Ders,3,6,CC,Tamamlayıcı Seçmeli Ders,3,5,HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3,4,,,,
+Ders,Adı,Kredi,ECTS
+IE 423,Kalite Mühendisliği,3,6
+IE,Uzmanlaşma Dersi,3,6
+IE,Uzmanlaşma Dersi,3,6
+IE,Bölüm Seçmeli Dersi,3,6
+CC,Tamamlayıcı Seçmeli Ders,3,5
+,,,
+Ders,Adı,Kredi,ECTS
+IE 492,Bitirme Projesi,4,8
+IE,Bölüm Seçmeli Dersi,3,6
+-,Serbest Seçmeli Ders,3,6
+CC,Tamamlayıcı Seçmeli Ders,3,5
+HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3,4
+,,,
+Ders,Adı,Kredi,ECTS
+MATH 101,Analiz I,4,6
+MATH 201,Matris Kuramı,4,5
+PHYS 121,Mekanik ve Termodinamik: Giriş,4,8
+ENGG 110 ,Teknik Resim,3,5
+AE 111-112/221-222,"İleri Düzeyde İngilizce I, II,Eleştirel Okuma I, II*",3,3/4
+,,,
+Ders,Adı,Kredi,ECTS
+MATH 102,Analiz II,4,6
+PHYS 201,Fizik III,4,6
+CmpE 150 ,Bilgi-İşleme Giriş,3,5
+CHEM 105,Kimyanın Temelleri,4,6
+ IE 120 ,Endüstri Mühendisliği: Giriş ve Ön Bilgilendirme,3,5
+Ders,Adı,Kredi,ECTS
+IE 201,Orta Düzey Programlama,3,6
+IE 202,Yöneylem Araştırması I,4,7
+IE 255 ,Endüstri Mühendisleri için Olasılık,3,6
+AD 216,Finansal Muhasebe ve Maliyet Muhasebesi,4,6
+EC 101,Mikroekonominin İlkeleri,3,6
+TK 221 ,Türkçe I,2,3
+Ders,Adı,Kredi,ECTS
+MATH 202,Diferansiyel Denklemler,4,7
+IE 256 ,Endüstri Mühendisleri için İstatistik,3,6
+IE 220,İmalat Malzemeleri ve Süreçleri,3,5
+IE 203,Yöneylem Araştırması II,4,7
+EC 102,Makroekonominin İlkeleri,3,6
+TK 222,Türkçe II,2,3
+,,,
+Ders,Adı,Kredi,ECTS
+IE 341,Mühendislik Ekonomisi,4,7
+IE 306 ,Sistem Benzetimi,4,7
+IE 312,Tesis Tasarımı ve Planlama,4,7
+HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3/4,4
+HTR 311,Türkiye Cumhuriyeti Tarihi I,2,3
+,,,
+Ders,Adı,Kredi,ECTS
+IE 313,Tedarik Zinciri Yönetimi,4,7
+IE,Uzmanlaşma Dersi,3,6
+IE,Bölüm Seçmeli Dersi,3,6
+IE,Bölüm Seçmeli Dersi,3,6
+HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3,5
+ HTR 312 ,Türkiye Cumhuriyeti Tarihi II,2,3
+Ders,Adı,Kredi,ECTS
+IE 423,Kalite Mühendisliği,3,6
+IE,Uzmanlaşma Dersi,3,6
+IE,Uzmanlaşma Dersi,3,6
+IE,Bölüm Seçmeli Dersi,3,6
+CC,Tamamlayıcı Seçmeli Ders,3,5
+,,,
+Ders,Adı,Kredi,ECTS
+IE 492,Bitirme Projesi,4,8
+IE,Bölüm Seçmeli Dersi,3,6
+-,Serbest Seçmeli Ders,3,6
+CC,Tamamlayıcı Seçmeli Ders,3,5
+HSS,Sosyal ve Beşerî Bilimler Seçmeli Dersi,3,4
+,,,

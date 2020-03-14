@@ -1,291 +1,81 @@
-
-,Toplam kredi:,19,30,
-"
-					AFE 131	  
-				  ","
-					Akademik İngilizce I									  ",3,4,
-"
-					CHEM 101	  
-				  ","
-					Genel Kimya									  ",4,6,
-"
-					ES 161	  
-				  ","
-					Mühendislikte Çizim									  ",2,5,
-"
-					HUM 103	  
-				  ","
-					Uygarlık Tarihi									  ",2,3,
-"
-					MATH 131	  
-				  ","
-					Kalkülüs I									  ",4,6,
-"
-					PHYS 101	  
-				  ","
-					Fizik I									  ",4,6,
-
-,Toplam kredi:,17,30,
-"
-					AFE 132	  
-				  ","
-					Akademik İngilizce II									  ",3,4,AFE 131
-"
-					FE XX1	  
-				  ","
-					Serbest Seçmeli I									  ",3,5,
-"
-ISE 102
-","
-Endüstri ve Sistem Mühendisliğine Giriş
-",3,9,
-"
-					MATH 132	  
-				  ","
-					Kalkülüs II									  ",4,6,MATH 131
-"
-					PHYS 102	  
-				  ","
-					Fizik II									  ",4,6,PHYS 101
-
-,Toplam kredi:,19,29,
-"
-					ECON 294	  
-				  ","
-					Mühendisler için İktisat									  ",3,4,
-"
-					ES 112	  
-				  ","
-					Alg. ve Bilgisayar Programlama									  ",4,6,
-"
-					MATH 221	  
-				  ","
-					Lineer Cebir									  ",3,6,
-"
-					MATH 241	  
-				  ","
-					Diferansiyel Denklemler									  ",4,6,MATH 132
-"
-MATH 281
-","
-Olasılık
-",3,5,MATH 132
-"
-					TKL 201	  
-				  ","
-					Türk Dili I									  ",2,2,
-
-,Toplam kredi:,17,31,
-"
-					ES 222	  
-				  ","
-					Elektrik ve Elektronik Mühendisliğinin Temelleri									  ",3,4,PHYS 102
-"
-ISE 222
-","
-Yöneylem Araştırması I
-",4,9,"MATH 221, ISE 102"
-"
-ISE 232
-","
-Endüstri ve Sistem Mühendisleri İçin Hesaplamalı Yöntemler
-",4,8,"ES 112, MATH 221"
-"
-ISE 254
-","
-Endüstri ve Sistem Mühendisliği için İstatistik
-",4,8,"MATH 281, ISE 102"
-"
-					TKL 202	  
-				  ","
-					Türk Dili II									  ",2,2,
-
-,Toplam kredi:,19,30,
-"
-					HTR 301	  
-				  ","
-					Atatürk İlkeleri ve İnkılap Tarihi I									  ",2,2,
-"
-ISE 311
-","
-Bilgi Teknolojileri
-",4,6,ES 112
-"
-ISE 323
-","
-Yöneylem Araştırması II
-",4,7,MATH 281
-"
-ISE 331
-","
-Mühendisler için Finans
-",3,5,ECON 294
-"
-ISE 361
-","
-Üretim Sistemleri Tasarımı
-",3,5,"ISE 222, ISE 254"
-"
-					ISE XX1	  
-				  ","
-					Teknik Seçmeli I									  ",3,5,
-
-,Toplam kredi:,18,30,
-"
-					HTR 302	  
-				  ","
-					Atatürk İlkeleri ve İnkılap Tarihi II									  ",2,2,
-"
-ISE 304
-","
-DHL ile Sistem Mühendisliği Metodları
-",3,6,ISE 102
-"
-ISE 344
-","
-Benzetim
-",3,5,"ISE 323, ISE 254"
-"
-ISE 352
-","
-Doğrusal Sistemler ve Kontrol
-",3,5,MATH 241
-"
-ISE 362
-","
-Tedarik Zinciri Yönetimi
-",4,7,"ISE 222, ISE 254, ISE 361"
-"
-					ISE XX2	  
-				  ","
-					Teknik Seçmeli II									  ",3,5,
-
-,Toplam kredi:,16,30,
-"
-					FE XX2	  
-				  ","
-					Serbest Seçmeli II									  ",3,5,
-"
-					ISE 400	  
-				  ","
-					Yaz Stajı									  ",0,1,AFE 132
-"
-ISE 401
-","
-Sistem Dinamiği ve Modelleme
-",4,7,"ISE 304, MATH 241"
-"
-ISE 451
-","
-İstatistiksel Kalite Kontrolü
-",3,7,ISE 254
-"
-ISE 491
-","
-Mühendislik Projesine Giriş
-",0,1,"ISE 344, ISE 361"
-"
-					ISE XX3	  
-				  ","
-					Teknik Seçmeli III									  ",3,5,
-"
-					ISE XX4	  
-				  ","
-					Teknik Seçmeli IV									  ",3,5,
-
-,Toplam kredi:,15,30,
-"
-ISE 402
-","
-Sistem Tasarımı
-",3,6,ISE 304
-"
-ISE 416
-","
-Endüstri ve Sistem Mühendisleri için Veri Bilimi
-",3,5,"ISE 254, ISE 232"
-"
-ISE 432
-","
-Karar Analizi
-",3,6,"ISE 323, ISE 254"
-"
-ISE 492
-","
-Mühendislik Projesi
-",3,8,ISE 491
-"
-					ISE XX5	  
-				  ","
-					Teknik Seçmeli V									  ",3,5,
-
-"
-ISE 318
-","
-Endüstri ve Sistem Mühendisliğinde Bilgisayar Uygulamaları
-",3,5,ES 112
-"
-ISE 365
-","
-Verimlilik Analizi
-",3,5,
-"
-ISE 367
-","
-Çizelgeleme
-",3,5,ISE 361
-"
-ISE 368
-","
-Ergonomi
-",3,5,
-"
-ISE 425
-","
-Doğrusal Olmayan Programlamaya Giriş
-",3,5,"MATH 132, ISE 232"
-"
-ISE 426
-","
-Lojistik Sistemleri
-",3,5,ISE 222
-"
-ISE 427
-","
-Matematiksel Modelleme
-",3,5,ISE 222
-"
-ISE 428
-","
-Çizge Kuramı ve Ağ Akışları
-",3,8,ISE 222
-"
-ISE 435
-","
-Girişimcilik ve Yenilikçilik Yönetimi
-",3,5,
-"
-ISE 437
-","
-Proje Yönetimi
-",3,5,
-"
-ISE 455
-","
-Deney Tasarımı
-",3,5,ISE 254
-"
-ISE 457
-","
-Öngörü Teknikleri
-",3,5,ISE 254
-"
-ISE 464
-","
-Bilgisayar Destekli Üretim Sistemleri
-",3,5,
-"
-ISE 475
-","
-Endüstriyel Otomasyon ve Enstrümantasyon
-",3,5,
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+PHYS105,GENEL FİZİK I,4,3,2,6.5
+CHEM107,GENEL KİMYA,4,3,2,6.0
+MATH119,MATEMATİK I (ANALİTİK GEOMETRİ),5,4,2,7.5
+CENG229,C PROGRAMLAMA,4,3,2,6.0
+ENG101,AKADEMİK AMAÇLI İNGİLİZCE I,4,4,1,6.0
+IS100,ENFORMASYON TEKNOLOJİLERİ VE UYGULAMALARINA GİRİŞ,0,0,2,1.0
+OHS101,İŞ SAĞLIĞI VE GÜVENLİĞİ I,0,0,0,2.0
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+PHYS106,GENEL FİZİK II,4,3,2,6.5
+MATH120,MATEMATİK II (ÇOK DEĞİŞKENLİ FONKSİYONLAR),5,4,2,7.5
+MATH260,TEMEL DOĞRUSAL CEBİR,3,3,0,5.0
+IE102,ENDÜSTRİ MÜHENDİSLİĞİNE GİRİŞ,2,2,0,4.0
+ME105,BİLGİSAYAR DESTEKLİ TEKNİK RESİM,3,2,2,5.0
+ENG102,AKADEMİK AMAÇLI İNGİLİZCE II,4,4,1,6.0
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+MATH219,TÜREVSEL DENKLEMLERE GİRİŞ,4,4,0,7.0
+ECON211,EKONOMİ I (MİKRO),3,3,0,6.0
+IE241,MÜHENDİSLER İÇİN FİNANS VE İŞLETME MUHASEBESİ,3,3,0,5.0
+IE251,DOĞRUSAL PROGRAMLAMA,3,3,0,6.0
+IE265,OLASILIĞA GİRİŞ,3,3,0,5.0
+ME212,ÜRETİM MÜHENDİSLİĞİ,3,3,0,5.0
+Aşağıdaki derslerden biri.
+""
+HIST2201,KEMAL ATATÜRK'ÜN İLKELERİ I,0,2,0,2.0
+HIST2205,TÜRK DEVRİM TARİHİ I,0,2,0,2.0
+""
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+ECON212,EKONOMİ II (MAKRO),3,3,0,6.0
+IE252,AĞ AKIŞLARI VE TAMSAYI PROGRAMLAMA,3,3,0,6.0
+IE266,MÜHENDİSLİK İSTATİSTİĞİ,4,4,0,6.0
+METE230,MALZEME BİLİMİ VE MÜHENDİSLİĞİNİN TEMELLERİ,3,3,0,5.0
+ENG211,AKADEMİK SÖZLÜ SUNUM BECERİSİ,3,3,1,4.0
+OHS301,İŞ SAĞLIĞI VE GÜVENLİĞİ II,0,0,0,2.0
+,KISITLI SEÇMELİ*,,,,
+Aşağıdaki derslerden biri.
+""
+HIST2202,KEMAL ATATÜRK'ÜN İLKELERİ II,0,2,0,2.0
+HIST2206,TÜRK DEVRİM TARİHİ II,0,2,0,2.0
+""
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+EE381,SİSTEMLER VE KONTROL,3,3,0,5.0
+IE300,YAZ STAJI I,0,0,0,4.0
+IE323,ÜRETİM VE HİZMET OPERASYON PLANLAMASI I,3,3,0,6.0
+IE333,İŞ SİSTEMLERİ ANALİZ VE TASARIMI,3,3,0,5.5
+IE347,MÜHENDİSLİK EKONOMİSİ,3,3,0,6.0
+IE361,STOKASTİK YÖNEYLEM ARAŞTIRMASI MODELLERİ,3,3,0,6.0
+,TEKNİK OLMAYAN SEÇMELİ,,,,
+Aşağıdaki derslerden biri.
+""
+TURK105,TÜRKÇE I,0,2,0,2.0
+TURK201,BAŞLANGIÇ DÜZEYİNDE TÜRKÇE,0,4,0,2.0
+TURK303,TÜRKÇE I,0,2,0,2.0
+""
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+IE304,ÜRETİM VE HİZMET BİLİŞİM SİSTEMLERİ,3,3,0,5.5
+IE324,ÜRETİM VE HİZMET OPERASYON PLANLAMASI II,3,3,0,6.0
+IE368,KALİTE PLANLAMASI VE KONTROLÜ,3,3,0,5.5
+IE372,SİMÜLASYON,3,3,0,6.0
+ME351,TERMODİNAMİK,3,3,0,5.0
+Aşağıdaki derslerden biri.
+""
+TURK106,TÜRKÇE II,0,2,0,2.0
+TURK202,ORTA DÜZEYDE TÜRKÇE,0,4,0,2.0
+TURK304,TÜRKÇE II,0,2,0,2.0
+""
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+IE400,YAZ STAJI II,0,0,0,4.0
+IE404,MÜHENDİSLER İÇİN İŞLETME,3,3,0,5.5
+IE422,ENDÜSTRİ MÜHENDİSLİĞİ UYGULAMALARI SEMİNERİ,0,2,0,2.0
+IE489,SİSTEM DÜŞÜNCESİ,3,3,0,6.5
+IE497,SİSTEM TASARIMI I,3,1,4,5.0
+     ,TEKNİK SEÇMELİ
+     ,TEKNİK SEÇMELİ
+     ,TEKNİK OLMAYAN SEÇMELİ
+Ders Kodu  ,Ders Adı        , ODTÜ Kredisi , Kontak (s/h) , Lab (s/h) , AKTS Kredisi 
+IE498,SİSTEM TASARIMI II,3,1,4,5.0
+     ,TEKNİK SEÇMELİ
+     ,TEKNİK SEÇMELİ
+     ,TEKNİK OLMAYAN SEÇMELİ
+     ,SERBEST SEÇMELİ

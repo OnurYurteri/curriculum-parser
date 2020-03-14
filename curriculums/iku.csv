@@ -46,11 +46,11 @@ ENGLISH
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -87,7 +87,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -724,12 +724,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -744,18 +738,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -780,12 +762,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -816,12 +792,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -976,8 +946,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -1216,12 +1186,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 
@@ -1236,11 +1200,11 @@ SAD
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -1271,11 +1235,11 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -1294,8 +1258,8 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 ",,"
-                    Lisans                  ","
-Mühendislik Fakültesi                  ","
+                    Tanımsız                  ","
+ ","
 Endüstri Mühendisliği
 ",,"
 
@@ -1308,7 +1272,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -1945,12 +1909,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -1965,18 +1923,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -2001,12 +1947,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -2037,12 +1977,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -2197,8 +2131,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -2437,12 +2371,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 
@@ -2453,7 +2381,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -3090,12 +3018,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -3110,18 +3032,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -3146,12 +3056,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -3182,12 +3086,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -3342,8 +3240,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -3582,12 +3480,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 ","
@@ -3600,7 +3492,7 @@ T=Teori, U=Uygulama, L=Laboratuar
 		Z=Zorunlu, SA=Seçmeli Alan, SAD=Seçmeli Alan Dışı
 		
 		
-",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2,FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3,YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
+",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0007 ,Cosmic Voyage,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3
 "
 
 
@@ -3609,11 +3501,11 @@ T=Teori, U=Uygulama, L=Laboratuar
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -3644,11 +3536,11 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -3667,8 +3559,8 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 ",,"
-                    Lisans                  ","
-Mühendislik Fakültesi                  ","
+                    Tanımsız                  ","
+ ","
 Endüstri Mühendisliği
 ",,"
 
@@ -3681,7 +3573,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -4318,12 +4210,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -4338,18 +4224,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -4374,12 +4248,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -4410,12 +4278,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -4570,8 +4432,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -4810,12 +4672,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 
@@ -4826,7 +4682,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -5463,12 +5319,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -5483,18 +5333,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -5519,12 +5357,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -5555,12 +5387,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -5715,8 +5541,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -5955,12 +5781,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 ","
@@ -5973,18 +5793,18 @@ T=Teori, U=Uygulama, L=Laboratuar
 		Z=Zorunlu, SA=Seçmeli Alan, SAD=Seçmeli Alan Dışı
 		
 		
-",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2,FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3,YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
+",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0007 ,Cosmic Voyage,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3
 "
 
 
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -6003,15 +5823,15 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 ",,"
-                    Lisans                  ","
-Mühendislik Fakültesi                  ","
+                    Tanımsız                  ","
+ ","
 Endüstri Mühendisliği
 "
 ""
 "
-                    Lisans                  "
+                    Tanımsız                  "
 "
-Mühendislik Fakültesi                  "
+ "
 "
 Endüstri Mühendisliği
 "
@@ -6023,7 +5843,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -6660,12 +6480,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -6680,18 +6494,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -6716,12 +6518,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -6752,12 +6548,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -6912,8 +6702,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -7152,12 +6942,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 ","
@@ -7170,7 +6954,7 @@ T=Teori, U=Uygulama, L=Laboratuar
 		Z=Zorunlu, SA=Seçmeli Alan, SAD=Seçmeli Alan Dışı
 		
 		
-",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2,FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3,YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
+",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0007 ,Cosmic Voyage,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3
 "
 
 2019-2020 Akademik Yıl2018-2019 Akademik Yıl2017-2018 Akademik Yıl2016-2017 Akademik Yıl2015-2016 Akademik Yıl2014-2015 Akademik Yıl2013-2014 Akademik Yıl2012-2013 Akademik Yıl
@@ -7306,23 +7090,18 @@ Seçmeli Alan Dışı Dersleri
 Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS
 BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2
 BES0002 ,Gıda Güvenliği,SAD,2/0/0,2
-BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2
 CEU0001 ,Deprem Bilinci,SAD,2/0/0,2
 FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2
 FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2
-FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2
-FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2
 HUKU0001 ,İş Hukuku,SAD,2/0/0,2
 IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2
 IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2
 INSU0001 ,Deprem Bilinci,SAD,2/0/0,2
-IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2
 IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2
 ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2
 ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2
 ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2
 ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2
-ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2
 ISNU0001 ,İletişim Dili,SAD,2/0/0,2
@@ -7348,7 +7127,7 @@ MIMU0003 ,MODELAJ,SAD,2/0/0,2
 MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2
 PHU0005 ,The Universe,SAD,2/0/0,2
 PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2
-PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2
+PHU0007 ,Cosmic Voyage,SAD,2/0/0,2
 PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2
 PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2
 PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2
@@ -7388,7 +7167,6 @@ YDS0001 ,İspanyolca 1,SAD,3/0/0,3
 YDS0002 ,İspanyolca II,SAD,3/0/0,3
 YDS0003 ,İspanyolca III,SAD,3/0/0,3
 YDS0004 ,İspanyolca IV,SAD,3/0/0,3
-YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
 "
 
 
@@ -7411,11 +7189,11 @@ ENGLISH
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -7446,11 +7224,11 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -7469,8 +7247,8 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 ",,"
-                    Lisans                  ","
-Mühendislik Fakültesi                  ","
+                    Tanımsız                  ","
+ ","
 Endüstri Mühendisliği
 ",,"
 
@@ -7483,7 +7261,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -8120,12 +7898,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -8140,18 +7912,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -8176,12 +7936,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -8212,12 +7966,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -8372,8 +8120,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -8612,12 +8360,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 
@@ -8628,7 +8370,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -9265,12 +9007,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -9285,18 +9021,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -9321,12 +9045,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -9357,12 +9075,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -9517,8 +9229,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -9757,12 +9469,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 ","
@@ -9775,18 +9481,18 @@ T=Teori, U=Uygulama, L=Laboratuar
 		Z=Zorunlu, SA=Seçmeli Alan, SAD=Seçmeli Alan Dışı
 		
 		
-",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2,FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3,YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
+",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0007 ,Cosmic Voyage,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3
 "
 
 
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -9805,15 +9511,15 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 ",,"
-                    Lisans                  ","
-Mühendislik Fakültesi                  ","
+                    Tanımsız                  ","
+ ","
 Endüstri Mühendisliği
 "
 ""
 "
-                    Lisans                  "
+                    Tanımsız                  "
 "
-Mühendislik Fakültesi                  "
+ "
 "
 Endüstri Mühendisliği
 "
@@ -9825,7 +9531,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -10462,12 +10168,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -10482,18 +10182,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -10518,12 +10206,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -10554,12 +10236,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -10714,8 +10390,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -10954,12 +10630,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 ","
@@ -10972,7 +10642,7 @@ T=Teori, U=Uygulama, L=Laboratuar
 		Z=Zorunlu, SA=Seçmeli Alan, SAD=Seçmeli Alan Dışı
 		
 		
-",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2,FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3,YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
+",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0007 ,Cosmic Voyage,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3
 "
 
 2019-2020 Akademik Yıl2018-2019 Akademik Yıl2017-2018 Akademik Yıl2016-2017 Akademik Yıl2015-2016 Akademik Yıl2014-2015 Akademik Yıl2013-2014 Akademik Yıl2012-2013 Akademik Yıl
@@ -11108,23 +10778,18 @@ Seçmeli Alan Dışı Dersleri
 Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS
 BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2
 BES0002 ,Gıda Güvenliği,SAD,2/0/0,2
-BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2
 CEU0001 ,Deprem Bilinci,SAD,2/0/0,2
 FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2
 FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2
-FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2
-FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2
 HUKU0001 ,İş Hukuku,SAD,2/0/0,2
 IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2
 IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2
 INSU0001 ,Deprem Bilinci,SAD,2/0/0,2
-IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2
 IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2
 ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2
 ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2
 ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2
 ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2
-ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2
 ISNU0001 ,İletişim Dili,SAD,2/0/0,2
@@ -11150,7 +10815,7 @@ MIMU0003 ,MODELAJ,SAD,2/0/0,2
 MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2
 PHU0005 ,The Universe,SAD,2/0/0,2
 PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2
-PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2
+PHU0007 ,Cosmic Voyage,SAD,2/0/0,2
 PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2
 PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2
 PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2
@@ -11190,18 +10855,17 @@ YDS0001 ,İspanyolca 1,SAD,3/0/0,3
 YDS0002 ,İspanyolca II,SAD,3/0/0,3
 YDS0003 ,İspanyolca III,SAD,3/0/0,3
 YDS0004 ,İspanyolca IV,SAD,3/0/0,3
-YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
 "
 
 
 
 
 
-                    Lisans                  
+                    Tanımsız                  
 
 
 
-Mühendislik Fakültesi                  
+ 
 
 
 
@@ -11220,24 +10884,24 @@ Program Ders PlanıDers - Program Çıktıları MatrisiTYYÇ - Program Çıktıl
 
 
 ",,"
-                    Lisans                  ","
-Mühendislik Fakültesi                  ","
+                    Tanımsız                  ","
+ ","
 Endüstri Mühendisliği
 "
 ""
 "
-                    Lisans                  "
+                    Tanımsız                  "
 "
-Mühendislik Fakültesi                  "
+ "
 "
 Endüstri Mühendisliği
 "
 ""
 ""
 "
-                    Lisans                  "
+                    Tanımsız                  "
 "
-Mühendislik Fakültesi                  "
+ "
 "
 Endüstri Mühendisliği
 "
@@ -11248,7 +10912,7 @@ Endüstri Mühendisliği Programı Ana Sayfası / Program Ders Planı
 function function1(colors) {
     var col = (colors.options[colors.selectedIndex].value);
      
-location.href = '/TR/ects_bolum.php?m=1&p=13&f=4&r=0&ects=ders&cat='+col;}
+location.href = '/TR/ects_bolum.php?m=0&p=13&f=0&r=0&ects=ders&cat='+col;}
 
 
 
@@ -11885,12 +11549,6 @@ SAD
 2/0/0
 2
 
-BES0003 
-Dünya Mutfak Kültürleri
-SAD
-2/0/0
-2
-
 CEU0001 
 Deprem Bilinci
 SAD
@@ -11905,18 +11563,6 @@ SAD
 
 FİZU0007 
 Kozmik Yolculuk
-SAD
-2/0/0
-2
-
-FİZU0008 
-Herkes İçin Modern Fizik
-SAD
-2/0/0
-2
-
-FİZU0009 
-Patent, Tasarım ve İnovasyon
 SAD
 2/0/0
 2
@@ -11941,12 +11587,6 @@ SAD
 
 INSU0001 
 Deprem Bilinci
-SAD
-2/0/0
-2
-
-IRDU0079 
-Research Methods in International Relations
 SAD
 2/0/0
 2
@@ -11977,12 +11617,6 @@ SAD
 
 ISLU0004 
 DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME
-SAD
-2/0/0
-2
-
-ISLU0005 
-GİRİŞİMCİLİK I
 SAD
 2/0/0
 2
@@ -12137,8 +11771,8 @@ SAD
 2/0/0
 2
 
-PHU0008 
-Modern Physics For Everyone
+PHU0007 
+Cosmic Voyage
 SAD
 2/0/0
 2
@@ -12377,12 +12011,6 @@ SAD
 3/0/0
 3
 
-YMU0001 
-SOSYAL MEDYA VE TOPLUM
-SAD
-2/0/0
-4
-
 
 
 ","
@@ -12395,7 +12023,7 @@ T=Teori, U=Uygulama, L=Laboratuar
 		Z=Zorunlu, SA=Seçmeli Alan, SAD=Seçmeli Alan Dışı
 		
 		
-",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2,FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3,YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
+",1.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE1702 ,Endüstri Mühendisleri için Akademik İngilizce I,Z,3/0/0,3,IE1801 ,Mühendislik Oryantasyonu,Z,2/0/0,2,IE1001 ,Bilgisayara Giriş,Z,2/0/2,6,IE1601 ,Teknik Resim,Z,2/2/0,5,PHY1001-TBD,PHYSICS I*,TBD,2/0/2,7,MCB1001,Matematik I,TBD,4/0/0,7,ATA1001,Atatürk İlkeleri ve İnkılap Tarihi I,Z,2/0/0,2,TR1001 ,Türkçe I,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,2.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE2703 ,Endüstri Mühendisleri için Akademik İngilizce II,Z,3/0/0,3,MCB1002-TBD ,Matematik II,Z,4/0/0,7,PHY2001-TBD ,Fizik II,Z,2/0/2,7,IE2602 ,Genel Kimya,Z,2/0/2,5,IE2401 ,Endüstri Mühendisliğine Giriş,Z,2/0/0,3,IE2002 ,Programlamaya Giriş,Z,2/2/0,5,ATA2001,Atatürk İlkeleri ve İnkılap Tarihi II,Z,2/0/0,2,TR2001 ,Türkçe II,Z,2/0/0,2,AKTS Kredi Toplamı ,34,,3.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,MCB1004-TBD ,Lineer Cebir,Z,4/0/0,6,IE3101 ,Olasılık Kuramına Giriş,Z,3/2/0,6,IE3501 ,Ekonomi,Z,3/0/0,4,IE3003 ,Nesne Tabanlı Programlama,Z,2/2/0,5,IE3502 ,Finansal ve Maliyet Muhasebesi,Z,3/0/0,4,IE3603 ,Malzeme Bilimi,Z,2/0/0,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,31,,4.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE4004 ,Endüstri Mühendisleri için Sayısal Analiz,Z,2/2/0,5,IE4503 ,Mühendislik Ekonomisi,Z,2/2/0,6,IE4102 ,Mühendisler için İstatistik,Z,3/2/0,6,IE4201 ,Yöneylem Araştırması I,Z,3/2/0,7,Seçmeli Alan,4,Seçmeli Alan Dışı ,2,AKTS Kredi Toplamı ,30,,5.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE5202 ,Yöneylem Araştırması II,Z,3/2/0,7,IE5403 ,Tesis Tasarımı ve Planlaması,Z,3/2/0,7,IE5802 ,Staj I,Z,0/0/0,3,Seçmeli Alan,13,AKTS Kredi Toplamı ,30,,6.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE6103 ,Deney Tasarımı,Z,3/2/0,6,IE6404 ,Üretim Planlama ve Kontrol,Z,3/2/0,7,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,7.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE7203 ,Benzetim Modelleme,Z,3/2/0,6,IE7405 ,Tedarik Zinciri Yönetimi,Z,3/0/0,5,IE7803 ,Staj II,Z,0/0/0,3,Seçmeli Alan,16,AKTS Kredi Toplamı ,30,,8.Yarıyıl ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,IE8406 ,Kalite Mühendisliği,Z,2/2/0,5,IE8900 ,Bitirme Projesi,Z,4/4/0,8,Seçmeli Alan,17,AKTS Kredi Toplamı ,30,,Seçmeli Alan Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,CSE0406 - ,Mobil Programlama,SA,2/0/2,6,CSE0440 - ,Yapay Zeka,SA,2/0/2,6,CSE0448 - ,Büyük Veri Analitiği,SA,2/0/2,6,IE0005 ,Bulanık Modellemeye Giriş,SA,3/0/0,5,IE0006 ,Veri Yapıları ve Programlama,SA,2/2/0,5,IE0007 ,İleri Excel Uygulamaları,SA,2/2/0,5,IE0104 ,Veri Madenciliğine Giriş,SA,3/0/0,6,IE0204 ,Matematiksel Modellemede Örnek Olaylar,SA,3/0/0,6,IE0205 ,Karar Analizine Giriş,SA,2/2/0,6,IE0301 ,Sistem Analizi,SA,3/0/0,5,IE0302 ,Kurumsal Kaynak Planlaması,SA,3/0/0,5,IE0303 ,Yönetim Bilişim Sistemleri,SA,2/2/0,5,IE0304 ,İnsan-Bilgisayar Etkileşimi ve Kullanıcı Deneyimi,SA,3/0/0,6,IE0305 ,İş Simulasyonu,SA,3/0/0,6,IE0306 ,Veritabanı Yönetim Sistemleri,SA,2/0/2,6,IE0402 ,Ergonomi,SA,3/0/0,6,IE0407 ,İş Etüdü,SA,3/0/0,6,IE0408 ,İmalat ve Servis Sitemlerinde Çizelgeleme Uygulamaları,SA,3/0/0,6,IE0409 ,Proje Yönetimi,SA,2/2/0,6,IE0410 ,Kalite Planlaması ve Analizi,SA,3/0/0,5,IE0411 ,Lojistik Sistemler,SA,3/0/0,6,IE0412 ,İleri Proje Yönetimi,SA,2/2/0,6,IE0413 ,Hizmet Yönetimi,SA,3/0/0,6,IE0414 ,Yalın Yönetim Prensipleri ve Uygulamaları ,SA,3/0/0,6,IE0504 ,Stratejik Yönetim,SA,3/0/0,5,IE0505 ,Pazarlama Yönetimi,SA,3/0/0,5,IE0506 ,İşletme Yönetimine Giriş,SA,3/0/0,4,IE0507 ,Örgütsel Davranış ve İnsan Kaynakları,SA,3/0/0,4,IE0508 ,İş Hukuku,SA,3/0/0,4,IE0509 ,Endüstri Mühendisleri için Yönetim Becerileri,SA,3/0/0,5,IE0510 ,Endüstri Mühendisleri için Girişimcilik,SA,2/0/0,4,IE0511 ,Yönetsel Finansta Vaka Çalışmaları,SA,3/0/0,5,IE0604 ,Bilgisayar Bütünleşik İmalat Sistemleri,SA,2/0/2,5,IE0605 ,İleri İmalat Sistemleri,SA,2/0/2,6,IE0606 ,İmalat Yöntemleri,SA,2/0/2,5,IE0607 ,Nanoteknolojinin Endüstriyel Uygulamalari,SA,3/0/0,6,IE0608 ,Yenilenebilir Enerjiye Giriş,SA,3/0/0,6,IE0609 ,Enerji Yönetimine Giriş,SA,2/2/0,5,IE0701 ,Akademik Yazım ve Sunum Teknikleri,SA,3/0/0,5,IE0901 ,Endüstri Mühendisliği'nde Özel Konular,SA,2/0/0,2,IE0902 ,Endüstri Mühendisliği'nde Özel Vakalar,SA,2/0/0,3,,Seçmeli Alan Dışı Dersleri ,Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS,BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2,BES0002 ,Gıda Güvenliği,SAD,2/0/0,2,CEU0001 ,Deprem Bilinci,SAD,2/0/0,2,FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2,FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2,HUKU0001 ,İş Hukuku,SAD,2/0/0,2,IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2,IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2,INSU0001 ,Deprem Bilinci,SAD,2/0/0,2,IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2,ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2,ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2,ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2,ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2,ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2,ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2,ISNU0001 ,İletişim Dili,SAD,2/0/0,2,ISNU0002 ,İletişim Metinleri Çözümlemeleri I,SAD,2/0/0,2,ISNU0003 ,İletişim Metinleri Çözümlemeleri II (Ders Açılmayacak),SAD,2/0/0,2,ISNU0004 ,Yaşam Kültürü,SAD,2/0/0,2,ISNU0005 ,Küresel ve Ulusal Medya Formasyonu,SAD,2/0/0,2,ISNU0006 ,Türk Medyasının Küresel Sorunları ve Çözümleri,SAD,2/0/0,2,ITMU0001 ,Seramik,SAD,1/2/0,2,ITMU0002 ,Seramik Yüzey Tasarımı,SAD,1/2/0,2,ITMU0003 ,Mimaride Seramik Uygulamaları I,SAD,2/0/0,2,ITMU0004 ,Mimaride Seramik Uygulamaları II,SAD,2/0/0,2,ITMU0005 ,Dramatik Doğaçlama ,SAD,2/0/0,2,ITMU0006 ,Resim,SAD,2/0/0,2,ITMU0007 ,Heykel,SAD,2/0/0,2,ITMU0008 ,Modern Sanat,SAD,2/0/0,2,İÇMU0003 ,DESEN ATÖLYESİ,SAD,1/2/0,2,MBU0001 ,Bilim Felsefesi I,SAD,2/0/0,2,MBU0002 ,Bilim Felsefesi II,SAD,2/0/0,2,MIMU0001 ,BİÇİMİN SERÜVENİ I,SAD,2/0/0,2,MIMU0002 ,TASARIM MEKAN BİLGİSİ,SAD,2/0/0,2,MIMU0003 ,MODELAJ,SAD,2/0/0,2,MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2,PHU0005 ,The Universe,SAD,2/0/0,2,PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2,PHU0007 ,Cosmic Voyage,SAD,2/0/0,2,PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2,PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2,PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2,SYİU0001 ,GÜZEL SANATLAR I,SAD,2/0/0,2,SYİU0002 ,GÜZEL SANATLAR II,SAD,2/0/0,2,TDEU0001 ,İstanbul,SAD,2/0/0,2,TDEU0002 ,Karşılaştırmalı Mitoloji,SAD,2/0/0,2,TDEU0003 ,YAZARLIK ATÖLYESİ,SAD,2/0/0,2,TRU0001 ,TEMEL TÜRKÇE I,SAD,4/0/0,4,TRU0002 ,TEMEL TÜRKÇE II,SAD,4/0/0,4,TRU0003 ,ORTA TÜRKÇE I,SAD,4/0/0,4,TRU0004 ,ORTA TÜRKÇE II,SAD,4/0/0,4,TRU0005 ,İLERİ TÜRKÇE I,SAD,4/0/0,4,TRU0006 ,İLERİ TÜRKÇE II,SAD,4/0/0,4,YDD0001 ,Almanca I,SAD,3/0/0,3,YDD0002 ,Almanca II,SAD,3/0/0,3,YDD0003 ,Almanca III,SAD,3/0/0,3,YDD0004 ,Almanca IV,SAD,3/0/0,3,YDF0001 ,Fransızca I,SAD,3/0/0,3,YDF0002 ,Fransızca II,SAD,3/0/0,3,YDF0003 ,Fransızca III,SAD,3/0/0,3,YDF0004 ,Fransızca IV,SAD,3/0/0,3,YDI0003 ,İngilizce III,SAD,3/0/0,3,YDI0004 ,İngilizce IV,SAD,3/0/0,3,YDI0005* ,İngilizce V(İngilizce eğitim yapan bölümler/programlar için),SAD,3/0/0,3,YDI3001 ,Yabancı Dil III,SAD,3/0/0,3,YDI4001 ,Yabancı Dil IV,SAD,3/0/0,3,YDI5001 ,Yabancı Dil V,SAD,3/0/0,3,YDI6001 ,Yabancı Dil VI,SAD,3/0/0,3,YDI7001 ,Yabancı Dil VII,SAD,3/0/0,3,YDI8001 ,Yabancı Dil VIII,SAD,3/0/0,3,YDR0001 ,Rusça I,SAD,3/0/0,3,YDR0002 ,Rusça II,SAD,3/0/0,3,YDR0003 ,Rusça III,SAD,3/0/0,3,YDR0004 ,Rusça IV,SAD,3/0/0,3,YDS0001 ,İspanyolca 1,SAD,3/0/0,3,YDS0002 ,İspanyolca II,SAD,3/0/0,3,YDS0003 ,İspanyolca III,SAD,3/0/0,3,YDS0004 ,İspanyolca IV,SAD,3/0/0,3
 "
 
 2019-2020 Akademik Yıl2018-2019 Akademik Yıl2017-2018 Akademik Yıl2016-2017 Akademik Yıl2015-2016 Akademik Yıl2014-2015 Akademik Yıl2013-2014 Akademik Yıl2012-2013 Akademik Yıl
@@ -12531,23 +12159,18 @@ Seçmeli Alan Dışı Dersleri
 Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS
 BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2
 BES0002 ,Gıda Güvenliği,SAD,2/0/0,2
-BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2
 CEU0001 ,Deprem Bilinci,SAD,2/0/0,2
 FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2
 FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2
-FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2
-FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2
 HUKU0001 ,İş Hukuku,SAD,2/0/0,2
 IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2
 IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2
 INSU0001 ,Deprem Bilinci,SAD,2/0/0,2
-IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2
 IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2
 ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2
 ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2
 ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2
 ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2
-ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2
 ISNU0001 ,İletişim Dili,SAD,2/0/0,2
@@ -12573,7 +12196,7 @@ MIMU0003 ,MODELAJ,SAD,2/0/0,2
 MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2
 PHU0005 ,The Universe,SAD,2/0/0,2
 PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2
-PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2
+PHU0007 ,Cosmic Voyage,SAD,2/0/0,2
 PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2
 PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2
 PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2
@@ -12613,7 +12236,6 @@ YDS0001 ,İspanyolca 1,SAD,3/0/0,3
 YDS0002 ,İspanyolca II,SAD,3/0/0,3
 YDS0003 ,İspanyolca III,SAD,3/0/0,3
 YDS0004 ,İspanyolca IV,SAD,3/0/0,3
-YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4
 "
 
 2019-2020 Akademik Yıl2018-2019 Akademik Yıl2017-2018 Akademik Yıl2016-2017 Akademik Yıl2015-2016 Akademik Yıl2014-2015 Akademik Yıl2013-2014 Akademik Yıl2012-2013 Akademik Yıl
@@ -12749,23 +12371,18 @@ Seçmeli Alan Dışı Dersleri
 Ders Kodu ,Ders Adı ,Ders Türü,T/U/L,AKTS
 BES0001 ,Yaşam İçin Sağlıklı Beslenme,SAD,2/0/0,2
 BES0002 ,Gıda Güvenliği,SAD,2/0/0,2
-BES0003 ,Dünya Mutfak Kültürleri,SAD,2/0/0,2
 CEU0001 ,Deprem Bilinci,SAD,2/0/0,2
 FİZU0006 ,Gündelik Yaşam ve Fizik,SAD,2/0/0,2
 FİZU0007 ,Kozmik Yolculuk,SAD,2/0/0,2
-FİZU0008 ,Herkes İçin Modern Fizik,SAD,2/0/0,2
-FİZU0009 ,"Patent, Tasarım ve İnovasyon",SAD,2/0/0,2
 HUKU0001 ,İş Hukuku,SAD,2/0/0,2
 IÇMU0001 ,PLASTİK SANATLAR I,SAD,2/0/0,2
 IÇMU0002 ,PLASTİK SANATLAR II,SAD,2/0/0,2
 INSU0001 ,Deprem Bilinci,SAD,2/0/0,2
-IRDU0079 ,Research Methods in International Relations,SAD,2/0/0,2
 IRDU0080 ,"Literature,Media and Politics",SAD,2/0/0,2
 ISLU0002 ,LİDERLİK EĞİTİMİ,SAD,2/0/0,2
 ISLU0003 ,"KARİYER GELİŞTİRME, PLANLAMA VE YÖNETİMİ",SAD,2/0/0,2
 ISLU0003 ,Kariyer Geliştirme Planlama ve Yönetimi,SAD,2/0/0,2
 ISLU0004 ,DEMOKRASİ KÜLTÜRÜ VE KÜRESELLEŞME,SAD,2/0/0,2
-ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0005 ,GİRİŞİMCİLİK I,SAD,2/0/0,2
 ISLU0006 ,GİRİŞİMCİLİK II,SAD,2/0/0,2
 ISNU0001 ,İletişim Dili,SAD,2/0/0,2
@@ -12791,7 +12408,7 @@ MIMU0003 ,MODELAJ,SAD,2/0/0,2
 MIMU0004 ,BİÇİMİN SERÜVENİ II ,SAD,2/0/0,2
 PHU0005 ,The Universe,SAD,2/0/0,2
 PHU0006 ,Physics of Everyday Life,SAD,2/0/0,2
-PHU0008 ,Modern Physics For Everyone,SAD,2/0/0,2
+PHU0007 ,Cosmic Voyage,SAD,2/0/0,2
 PSKU0001 ,Toplum ve Cinsiyet,SAD,2/0/0,2
 PSKU0002 ,İnsan ve Sembolleri,SAD,2/0/0,2
 PSKU0003 ,Üniversite Öğrencilerinin Yaşam Becerileri,SAD,2/0/0,2
@@ -12831,4 +12448,3 @@ YDS0001 ,İspanyolca 1,SAD,3/0/0,3
 YDS0002 ,İspanyolca II,SAD,3/0/0,3
 YDS0003 ,İspanyolca III,SAD,3/0/0,3
 YDS0004 ,İspanyolca IV,SAD,3/0/0,3
-YMU0001 ,SOSYAL MEDYA VE TOPLUM,SAD,2/0/0,4

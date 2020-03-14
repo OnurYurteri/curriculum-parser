@@ -9,7 +9,7 @@ query="endüstri mühendisliği müfredat"
 urls = []
 
 print("Retrieving urls from google..")
-for url in search(query, tld="com.tr", num=10, stop=10, pause=2): # num: how many urls will be get from each iteration, stop: number of urls to get, pause: time between requests, 2 second is ok, if it's lower google may block 
+for url in search(query, tld="com.tr", num=10, stop=100, pause=2): # num: how many urls will be get from each iteration, stop: number of urls to get, pause: time between requests, 2 second is ok, if it's lower google may block 
     urls.append(url)
 print("Retrieved " + str(len(urls)) + " urls.")
 

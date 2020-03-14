@@ -6027,7 +6027,7 @@ Genel Fizik I2243545322544344
 
 Genel Kimya2334533454232244
 
-Genel Matematik I5343442435434232
+Genel Matematik I5343440435434232
 
 Türk Dili I3323423445525224
 
@@ -6045,13 +6045,13 @@ Fransızca I4454545454455445
 
 
 
-",Ağaç Malzeme Teknolojisi I,3,4,2,2,5,4,2,4,5,4,5,5,3,2,3,2,Temel Bilgi Teknolojisi Kullanımı,4,5,4,5,4,5,5,5,4,4,4,4,4,4,4,4,Genel Fizik I,2,2,4,3,5,4,5,3,2,2,5,4,4,3,4,4,Genel Kimya,2,3,3,4,5,3,3,4,5,4,2,3,2,2,4,4,Genel Matematik I,5,3,4,3,4,4,2,4,3,5,4,3,4,2,3,2,Türk Dili I,3,3,2,3,4,2,3,4,4,5,5,2,5,2,2,4,İngilizce I,3,3,2,3,2,2,4,3,4,5,5,4,4,5,2,3,Almanca I,4,5,5,5,4,5,4,5,4,4,4,4,4,4,4,4,Fransızca I,4,4,5,4,5,4,5,4,5,4,4,5,5,4,4,5,İktisada Giriş,3,3,3,5,4,4,5,3,2,2,4,3,4,2,4,2,İş Sağlığı ve Güvenliği I,5,4,4,5,5,3,5,3,3,2,3,4,2,1,3,3,,,,,,,,,,,,,,,,,
+",Ağaç Malzeme Teknolojisi I,3,4,2,2,5,4,2,4,5,4,5,5,3,2,3,2,Temel Bilgi Teknolojisi Kullanımı,4,5,4,5,4,5,5,5,4,4,4,4,4,4,4,4,Genel Fizik I,2,2,4,3,5,4,5,3,2,2,5,4,4,3,4,4,Genel Kimya,2,3,3,4,5,3,3,4,5,4,2,3,2,2,4,4,Genel Matematik I,5,3,4,3,4,4,0,4,3,5,4,3,4,2,3,2,Türk Dili I,3,3,2,3,4,2,3,4,4,5,5,2,5,2,2,4,İngilizce I,3,3,2,3,2,2,4,3,4,5,5,4,4,5,2,3,Almanca I,4,5,5,5,4,5,4,5,4,4,4,4,4,4,4,4,Fransızca I,4,4,5,4,5,4,5,4,5,4,4,5,5,4,4,5,İktisada Giriş,3,3,3,5,4,4,5,3,2,2,4,3,4,2,4,2,İş Sağlığı ve Güvenliği I,5,4,4,5,5,3,5,3,3,2,3,4,2,1,3,3,,,,,,,,,,,,,,,,,
 
 Ağaç Malzeme Teknolojisi I,3,4,2,2,5,4,2,4,5,4,5,5,3,2,3,2
 Temel Bilgi Teknolojisi Kullanımı,4,5,4,5,4,5,5,5,4,4,4,4,4,4,4,4
 Genel Fizik I,2,2,4,3,5,4,5,3,2,2,5,4,4,3,4,4
 Genel Kimya,2,3,3,4,5,3,3,4,5,4,2,3,2,2,4,4
-Genel Matematik I,5,3,4,3,4,4,2,4,3,5,4,3,4,2,3,2
+Genel Matematik I,5,3,4,3,4,4,0,4,3,5,4,3,4,2,3,2
 Türk Dili I,3,3,2,3,4,2,3,4,4,5,5,2,5,2,2,4
 İngilizce I,3,3,2,3,2,2,4,3,4,5,5,4,4,5,2,3
 Almanca I,4,5,5,5,4,5,4,5,4,4,4,4,4,4,4,4
@@ -6075,7 +6075,7 @@ Ahşap Yapılar ve Konstrüksiyonlar5334345345222344
 
 Teknik Çizim ve Tasarı Geometri4324233334322445
 
-Ağaç Malzeme Teknolojisi II2232233444045323
+Ağaç Malzeme Teknolojisi II2232233444545323
 
 Web Sayfası Tasarımı3333344444443333
 
@@ -6091,7 +6091,7 @@ Türk Dili II3333333334423544
 
 İngilizce II3333232443445532
 
-Almanca II3333333343343522
+Almanca II3333333343343520
 
 Fransızca II3333333333344522
 
@@ -6101,11 +6101,11 @@ Fransızca II3333333333344522
 
 
 
-",Ahşap Yapılar ve Konstrüksiyonlar,5,3,3,4,3,4,5,3,4,5,2,2,2,3,4,4,Teknik Çizim ve Tasarı Geometri,4,3,2,4,2,3,3,3,3,4,3,2,2,4,4,5,Ağaç Malzeme Teknolojisi II,2,2,3,2,2,3,3,4,4,4,0,4,5,3,2,3,Web Sayfası Tasarımı,3,3,3,3,3,4,4,4,4,4,4,4,3,3,3,3,Bilgisayar Destekli Tasarım,3,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4,Programlama Dilleri,3,4,3,4,3,3,3,4,4,4,4,4,3,3,3,4,Genel Fizik II,3,3,2,3,2,4,4,2,3,3,4,4,4,5,5,2,Genel Matematik II,2,3,2,3,2,3,2,3,4,4,3,4,5,4,4,5,Türk Dili II,3,3,3,3,3,3,3,3,3,4,4,2,3,5,4,4,İngilizce II,3,3,3,3,2,3,2,4,4,3,4,4,5,5,3,2,Almanca II,3,3,3,3,3,3,3,3,4,3,3,4,3,5,2,2,Fransızca II,3,3,3,3,3,3,3,3,3,3,3,4,4,5,2,2,İş Sağlığı ve Güvenliği II,5,4,4,5,5,3,5,3,3,2,3,4,2,1,3,3,,,,,,,,,,,,,,,,,
+",Ahşap Yapılar ve Konstrüksiyonlar,5,3,3,4,3,4,5,3,4,5,2,2,2,3,4,4,Teknik Çizim ve Tasarı Geometri,4,3,2,4,2,3,3,3,3,4,3,2,2,4,4,5,Ağaç Malzeme Teknolojisi II,2,2,3,2,2,3,3,4,4,4,5,4,5,3,2,3,Web Sayfası Tasarımı,3,3,3,3,3,4,4,4,4,4,4,4,3,3,3,3,Bilgisayar Destekli Tasarım,3,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4,Programlama Dilleri,3,4,3,4,3,3,3,4,4,4,4,4,3,3,3,4,Genel Fizik II,3,3,2,3,2,4,4,2,3,3,4,4,4,5,5,2,Genel Matematik II,2,3,2,3,2,3,2,3,4,4,3,4,5,4,4,5,Türk Dili II,3,3,3,3,3,3,3,3,3,4,4,2,3,5,4,4,İngilizce II,3,3,3,3,2,3,2,4,4,3,4,4,5,5,3,2,Almanca II,3,3,3,3,3,3,3,3,4,3,3,4,3,5,2,0,Fransızca II,3,3,3,3,3,3,3,3,3,3,3,4,4,5,2,2,İş Sağlığı ve Güvenliği II,5,4,4,5,5,3,5,3,3,2,3,4,2,1,3,3,,,,,,,,,,,,,,,,,
 
 Ahşap Yapılar ve Konstrüksiyonlar,5,3,3,4,3,4,5,3,4,5,2,2,2,3,4,4
 Teknik Çizim ve Tasarı Geometri,4,3,2,4,2,3,3,3,3,4,3,2,2,4,4,5
-Ağaç Malzeme Teknolojisi II,2,2,3,2,2,3,3,4,4,4,0,4,5,3,2,3
+Ağaç Malzeme Teknolojisi II,2,2,3,2,2,3,3,4,4,4,5,4,5,3,2,3
 Web Sayfası Tasarımı,3,3,3,3,3,4,4,4,4,4,4,4,3,3,3,3
 Bilgisayar Destekli Tasarım,3,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4
 Programlama Dilleri,3,4,3,4,3,3,3,4,4,4,4,4,3,3,3,4
@@ -6113,7 +6113,7 @@ Genel Fizik II,3,3,2,3,2,4,4,2,3,3,4,4,4,5,5,2
 Genel Matematik II,2,3,2,3,2,3,2,3,4,4,3,4,5,4,4,5
 Türk Dili II,3,3,3,3,3,3,3,3,3,4,4,2,3,5,4,4
 İngilizce II,3,3,3,3,2,3,2,4,4,3,4,4,5,5,3,2
-Almanca II,3,3,3,3,3,3,3,3,4,3,3,4,3,5,2,2
+Almanca II,3,3,3,3,3,3,3,3,4,3,3,4,3,5,2,0
 Fransızca II,3,3,3,3,3,3,3,3,3,3,3,4,4,5,2,2
 İş Sağlığı ve Güvenliği II,5,4,4,5,5,3,5,3,3,2,3,4,2,1,3,3
 ,,,,,,,,,,,,,,,,
@@ -6133,7 +6133,7 @@ Ders AdıPy1Py2Py3Py4Py5Py6Py7Py8Py9Py10Py11Py12Py13Py14Py15Py16
 
 Malzeme Mekaniği4335354434434444
 
-Bilgisayar Destekli Ürün Tasarımı4444433333304444
+Bilgisayar Destekli Ürün Tasarımı4444433333334444
 
 Ağaçişleri İşleme Makineleri I4545435545544332
 
@@ -6159,11 +6159,11 @@ Fransızca III2322242332424544
 
 
 
-",Üretim Teknikleri I,5,5,4,2,3,4,3,4,4,5,2,3,4,5,4,4,Malzeme Mekaniği,4,3,3,5,3,5,4,4,3,4,4,3,4,4,4,4,Bilgisayar Destekli Ürün Tasarımı,4,4,4,4,4,3,3,3,3,3,3,0,4,4,4,4,Ağaçişleri İşleme Makineleri I,4,5,4,5,4,3,5,5,4,5,5,4,4,3,3,2,Güvenli Çalışma İlkeleri,4,3,4,3,3,4,5,5,4,4,3,3,3,4,3,3,Teknik İngilizce,4,5,3,3,3,3,4,5,3,3,4,4,4,4,3,3,Kara Kalem,4,5,3,3,3,5,3,4,4,5,4,5,3,3,4,3,Temel Tasarım,4,3,5,4,2,4,3,3,5,5,4,2,2,2,4,4,Atatürk İlkeleri ve İnkılap Tarihi I,2,2,2,2,3,5,2,2,2,4,4,3,4,2,2,4,Mühendislikte İstatistik,2,4,4,3,4,4,3,3,4,3,4,4,2,3,3,3,İngilizce III,2,2,3,2,2,3,4,2,3,3,2,4,4,5,4,4,Almanca III,3,2,2,3,2,2,4,2,3,3,4,2,4,5,4,5,Fransızca III,2,3,2,2,2,4,2,3,3,2,4,2,4,5,4,4,,,,,,,,,,,,,,,,,
+",Üretim Teknikleri I,5,5,4,2,3,4,3,4,4,5,2,3,4,5,4,4,Malzeme Mekaniği,4,3,3,5,3,5,4,4,3,4,4,3,4,4,4,4,Bilgisayar Destekli Ürün Tasarımı,4,4,4,4,4,3,3,3,3,3,3,3,4,4,4,4,Ağaçişleri İşleme Makineleri I,4,5,4,5,4,3,5,5,4,5,5,4,4,3,3,2,Güvenli Çalışma İlkeleri,4,3,4,3,3,4,5,5,4,4,3,3,3,4,3,3,Teknik İngilizce,4,5,3,3,3,3,4,5,3,3,4,4,4,4,3,3,Kara Kalem,4,5,3,3,3,5,3,4,4,5,4,5,3,3,4,3,Temel Tasarım,4,3,5,4,2,4,3,3,5,5,4,2,2,2,4,4,Atatürk İlkeleri ve İnkılap Tarihi I,2,2,2,2,3,5,2,2,2,4,4,3,4,2,2,4,Mühendislikte İstatistik,2,4,4,3,4,4,3,3,4,3,4,4,2,3,3,3,İngilizce III,2,2,3,2,2,3,4,2,3,3,2,4,4,5,4,4,Almanca III,3,2,2,3,2,2,4,2,3,3,4,2,4,5,4,5,Fransızca III,2,3,2,2,2,4,2,3,3,2,4,2,4,5,4,4,,,,,,,,,,,,,,,,,
 
 Üretim Teknikleri I,5,5,4,2,3,4,3,4,4,5,2,3,4,5,4,4
 Malzeme Mekaniği,4,3,3,5,3,5,4,4,3,4,4,3,4,4,4,4
-Bilgisayar Destekli Ürün Tasarımı,4,4,4,4,4,3,3,3,3,3,3,0,4,4,4,4
+Bilgisayar Destekli Ürün Tasarımı,4,4,4,4,4,3,3,3,3,3,3,3,4,4,4,4
 Ağaçişleri İşleme Makineleri I,4,5,4,5,4,3,5,5,4,5,5,4,4,3,3,2
 Güvenli Çalışma İlkeleri,4,3,4,3,3,4,5,5,4,4,3,3,3,4,3,3
 Teknik İngilizce,4,5,3,3,3,3,4,5,3,3,4,4,4,4,3,3
@@ -6191,7 +6191,7 @@ Ders AdıPy1Py2Py3Py4Py5Py6Py7Py8Py9Py10Py11Py12Py13Py14Py15Py16
 
 Tasarım Proje I3334334532524322
 
-Zorunlu Meslek Stajı5545435445443443
+Zorunlu Meslek Stajı5545405445443443
 
 Malzeme Mukavemeti3334334553255234
 
@@ -6201,7 +6201,7 @@ Yapıştırıcılar3343353422342542
 
 Mesleki İngilizce4553343334223422
 
-Ağaç Malzeme Koruma Teknikleri5550544345323222
+Ağaç Malzeme Koruma Teknikleri5553544345323222
 
 Sanat Tarihi3221232233322443
 
@@ -6217,16 +6217,16 @@ Fransızca IV2232122331234544
 
 
 
-",Üretim Teknikleri II,4,5,3,5,4,4,3,3,4,4,3,2,2,3,2,4,Tasarım Proje I,3,3,3,4,3,3,4,5,3,2,5,2,4,3,2,2,Zorunlu Meslek Stajı,5,5,4,5,4,3,5,4,4,5,4,4,3,4,4,3,Malzeme Mukavemeti,3,3,3,4,3,3,4,5,5,3,2,5,5,2,3,4,Ağaç İşleri İşleme Makineleri II,5,5,4,5,3,4,2,4,3,3,2,5,4,4,2,3,Yapıştırıcılar,3,3,4,3,3,5,3,4,2,2,3,4,2,5,4,2,Mesleki İngilizce,4,5,5,3,3,4,3,3,3,4,2,2,3,4,2,2,Ağaç Malzeme Koruma Teknikleri,5,5,5,0,5,4,4,3,4,5,3,2,3,2,2,2,Sanat Tarihi,3,2,2,1,2,3,2,2,3,3,3,2,2,4,4,3,Atatürk İlkeleri ve İnkılap Tarihi II,2,2,2,2,3,5,2,2,2,4,4,3,3,2,1,2,İngilizce IV,2,2,2,1,2,2,3,3,2,2,3,2,4,5,4,4,Almanca IV,2,2,2,3,2,4,2,4,3,4,3,2,4,5,4,4,Fransızca IV,2,2,3,2,1,2,2,3,3,1,2,3,4,5,4,4,,,,,,,,,,,,,,,,,
+",Üretim Teknikleri II,4,5,3,5,4,4,3,3,4,4,3,2,2,3,2,4,Tasarım Proje I,3,3,3,4,3,3,4,5,3,2,5,2,4,3,2,2,Zorunlu Meslek Stajı,5,5,4,5,4,0,5,4,4,5,4,4,3,4,4,3,Malzeme Mukavemeti,3,3,3,4,3,3,4,5,5,3,2,5,5,2,3,4,Ağaç İşleri İşleme Makineleri II,5,5,4,5,3,4,2,4,3,3,2,5,4,4,2,3,Yapıştırıcılar,3,3,4,3,3,5,3,4,2,2,3,4,2,5,4,2,Mesleki İngilizce,4,5,5,3,3,4,3,3,3,4,2,2,3,4,2,2,Ağaç Malzeme Koruma Teknikleri,5,5,5,3,5,4,4,3,4,5,3,2,3,2,2,2,Sanat Tarihi,3,2,2,1,2,3,2,2,3,3,3,2,2,4,4,3,Atatürk İlkeleri ve İnkılap Tarihi II,2,2,2,2,3,5,2,2,2,4,4,3,3,2,1,2,İngilizce IV,2,2,2,1,2,2,3,3,2,2,3,2,4,5,4,4,Almanca IV,2,2,2,3,2,4,2,4,3,4,3,2,4,5,4,4,Fransızca IV,2,2,3,2,1,2,2,3,3,1,2,3,4,5,4,4,,,,,,,,,,,,,,,,,
 
 Üretim Teknikleri II,4,5,3,5,4,4,3,3,4,4,3,2,2,3,2,4
 Tasarım Proje I,3,3,3,4,3,3,4,5,3,2,5,2,4,3,2,2
-Zorunlu Meslek Stajı,5,5,4,5,4,3,5,4,4,5,4,4,3,4,4,3
+Zorunlu Meslek Stajı,5,5,4,5,4,0,5,4,4,5,4,4,3,4,4,3
 Malzeme Mukavemeti,3,3,3,4,3,3,4,5,5,3,2,5,5,2,3,4
 Ağaç İşleri İşleme Makineleri II,5,5,4,5,3,4,2,4,3,3,2,5,4,4,2,3
 Yapıştırıcılar,3,3,4,3,3,5,3,4,2,2,3,4,2,5,4,2
 Mesleki İngilizce,4,5,5,3,3,4,3,3,3,4,2,2,3,4,2,2
-Ağaç Malzeme Koruma Teknikleri,5,5,5,0,5,4,4,3,4,5,3,2,3,2,2,2
+Ağaç Malzeme Koruma Teknikleri,5,5,5,3,5,4,4,3,4,5,3,2,3,2,2,2
 Sanat Tarihi,3,2,2,1,2,3,2,2,3,3,3,2,2,4,4,3
 Atatürk İlkeleri ve İnkılap Tarihi II,2,2,2,2,3,5,2,2,2,4,4,3,3,2,1,2
 İngilizce IV,2,2,2,1,2,2,3,3,2,2,3,2,4,5,4,4
@@ -6257,7 +6257,7 @@ Tasarı Proje II3453252232542343
 
 Kumanda Tekniği5455332234432232
 
-Gereç Teknolojisi5453432224332322
+Gereç Teknolojisi5453432224332302
 
 Kurutma ve Buharlama Teknikleri5423453223243352
 
@@ -6267,7 +6267,7 @@ Ağaç Malzeme Zararlıları5453542234522234
 
 
 
-",Ağaçişleri Endüstrisinde Yöneylem Araştırması,2,3,4,5,4,3,3,2,4,3,2,3,2,2,4,4,Bilgisayar Destekli Üretim (CAM),4,5,5,4,5,4,3,3,2,2,3,4,2,2,3,4,Tasarı Proje II,3,4,5,3,2,5,2,2,3,2,5,4,2,3,4,3,Üst Yüzey İşlemleri,5,5,5,4,3,4,2,2,3,2,4,3,3,2,4,4,İş Etüdü,5,4,5,4,4,4,3,5,3,4,2,2,3,2,3,2,Kumanda Tekniği,5,4,5,5,3,3,2,2,3,4,4,3,2,2,3,2,Gereç Teknolojisi,5,4,5,3,4,3,2,2,2,4,3,3,2,3,2,2,Kurutma ve Buharlama Teknikleri,5,4,2,3,4,5,3,2,2,3,2,4,3,3,5,2,Ağaç Malzeme Zararlıları,5,4,5,3,5,4,2,2,3,4,5,2,2,2,3,4,,,,,,,,,,,,,,,,,
+",Ağaçişleri Endüstrisinde Yöneylem Araştırması,2,3,4,5,4,3,3,2,4,3,2,3,2,2,4,4,Bilgisayar Destekli Üretim (CAM),4,5,5,4,5,4,3,3,2,2,3,4,2,2,3,4,Tasarı Proje II,3,4,5,3,2,5,2,2,3,2,5,4,2,3,4,3,Üst Yüzey İşlemleri,5,5,5,4,3,4,2,2,3,2,4,3,3,2,4,4,İş Etüdü,5,4,5,4,4,4,3,5,3,4,2,2,3,2,3,2,Kumanda Tekniği,5,4,5,5,3,3,2,2,3,4,4,3,2,2,3,2,Gereç Teknolojisi,5,4,5,3,4,3,2,2,2,4,3,3,2,3,0,2,Kurutma ve Buharlama Teknikleri,5,4,2,3,4,5,3,2,2,3,2,4,3,3,5,2,Ağaç Malzeme Zararlıları,5,4,5,3,5,4,2,2,3,4,5,2,2,2,3,4,,,,,,,,,,,,,,,,,
 
 Ağaçişleri Endüstrisinde Yöneylem Araştırması,2,3,4,5,4,3,3,2,4,3,2,3,2,2,4,4
 Bilgisayar Destekli Üretim (CAM),4,5,5,4,5,4,3,3,2,2,3,4,2,2,3,4
@@ -6275,7 +6275,7 @@ Tasarı Proje II,3,4,5,3,2,5,2,2,3,2,5,4,2,3,4,3
 Üst Yüzey İşlemleri,5,5,5,4,3,4,2,2,3,2,4,3,3,2,4,4
 İş Etüdü,5,4,5,4,4,4,3,5,3,4,2,2,3,2,3,2
 Kumanda Tekniği,5,4,5,5,3,3,2,2,3,4,4,3,2,2,3,2
-Gereç Teknolojisi,5,4,5,3,4,3,2,2,2,4,3,3,2,3,2,2
+Gereç Teknolojisi,5,4,5,3,4,3,2,2,2,4,3,3,2,3,0,2
 Kurutma ve Buharlama Teknikleri,5,4,2,3,4,5,3,2,2,3,2,4,3,3,5,2
 Ağaç Malzeme Zararlıları,5,4,5,3,5,4,2,2,3,4,5,2,2,2,3,4
 ,,,,,,,,,,,,,,,,
@@ -6316,7 +6316,7 @@ Zorunlu Meslek Stajı,4,3,5,5,5,4,5,5,4,3,3,4,2,4,5,3
 
 Ders AdıPy1Py2Py3Py4Py5Py6Py7Py8Py9Py10Py11Py12Py13Py14Py15Py16
 
-Bitirme Çalışması I3232232303555454
+Bitirme Çalışması I3232232323555454
 
 Bitirme Çalışması II2322322322545545
 
@@ -6344,9 +6344,9 @@ Bilimsel Araştırmada Raporlama Teknikleri2222323325455433
 
 
 
-",Bitirme Çalışması I,3,2,3,2,2,3,2,3,0,3,5,5,5,4,5,4,Bitirme Çalışması II,2,3,2,2,3,2,2,3,2,2,5,4,5,5,4,5,Üretim Planlaması I,5,4,4,3,2,3,4,4,5,4,2,3,2,2,4,4,Kalite Yönetimi,4,2,4,2,4,4,2,2,2,3,5,5,3,2,4,5,Bileme ve Bakım Teknikleri,5,2,4,3,4,5,5,2,2,2,3,4,2,2,5,2,Mobilyada Ergonomi,5,4,5,2,3,4,3,2,2,2,4,3,2,2,5,4,Döşeme Teknolojisi,4,4,5,4,3,3,4,2,2,2,3,4,2,2,4,5,Mobilya Stilleri,4,5,4,2,3,4,2,2,3,2,4,5,5,2,3,2,Yeni Ürün Geliştirme,4,4,5,5,4,4,2,2,3,2,3,4,2,3,2,4,Ahşap Ürünlerin Pazarlanması,4,3,4,5,5,4,3,4,5,3,5,4,3,3,2,3,Bilimsel Araştırmada Raporlama Teknikleri,2,2,2,2,3,2,3,3,2,5,4,5,5,4,3,3,İç Mimari Elemanları,5,4,5,3,5,5,3,2,2,4,4,3,2,3,4,4,,,,,,,,,,,,,,,,,
+",Bitirme Çalışması I,3,2,3,2,2,3,2,3,2,3,5,5,5,4,5,4,Bitirme Çalışması II,2,3,2,2,3,2,2,3,2,2,5,4,5,5,4,5,Üretim Planlaması I,5,4,4,3,2,3,4,4,5,4,2,3,2,2,4,4,Kalite Yönetimi,4,2,4,2,4,4,2,2,2,3,5,5,3,2,4,5,Bileme ve Bakım Teknikleri,5,2,4,3,4,5,5,2,2,2,3,4,2,2,5,2,Mobilyada Ergonomi,5,4,5,2,3,4,3,2,2,2,4,3,2,2,5,4,Döşeme Teknolojisi,4,4,5,4,3,3,4,2,2,2,3,4,2,2,4,5,Mobilya Stilleri,4,5,4,2,3,4,2,2,3,2,4,5,5,2,3,2,Yeni Ürün Geliştirme,4,4,5,5,4,4,2,2,3,2,3,4,2,3,2,4,Ahşap Ürünlerin Pazarlanması,4,3,4,5,5,4,3,4,5,3,5,4,3,3,2,3,Bilimsel Araştırmada Raporlama Teknikleri,2,2,2,2,3,2,3,3,2,5,4,5,5,4,3,3,İç Mimari Elemanları,5,4,5,3,5,5,3,2,2,4,4,3,2,3,4,4,,,,,,,,,,,,,,,,,
 
-Bitirme Çalışması I,3,2,3,2,2,3,2,3,0,3,5,5,5,4,5,4
+Bitirme Çalışması I,3,2,3,2,2,3,2,3,2,3,5,5,5,4,5,4
 Bitirme Çalışması II,2,3,2,2,3,2,2,3,2,2,5,4,5,5,4,5
 Üretim Planlaması I,5,4,4,3,2,3,4,4,5,4,2,3,2,2,4,4
 Kalite Yönetimi,4,2,4,2,4,4,2,2,2,3,5,5,3,2,4,5
@@ -6373,7 +6373,7 @@ Ders AdıPy1Py2Py3Py4Py5Py6Py7Py8Py9Py10Py11Py12Py13Py14Py15Py16
 
 Bitirme Çalışması I4545454544444444
 
-Bitirme Çalışması II4544444444444445
+Bitirme Çalışması II4504444444444445
 
 Üretim Planlaması II2232232554544253
 
@@ -6383,7 +6383,7 @@ Maliyet Analizi5332453223242354
 
 Meslek Etiği3223432232554543
 
-Mobilyada Performans Testleri0442342113454354
+Mobilyada Performans Testleri5442342113454354
 
 Ahşap Yapılarda Restorasyon4332452223552342
 
@@ -6397,15 +6397,15 @@ Ağaçişleri Endüstrisinde Girişimcilik2232242455343242
 
 
 
-",Bitirme Çalışması I,4,5,4,5,4,5,4,5,4,4,4,4,4,4,4,4,Bitirme Çalışması II,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5,Üretim Planlaması II,2,2,3,2,2,3,2,5,5,4,5,4,4,2,5,3,Maliyet Analizi,5,3,3,2,4,5,3,2,2,3,2,4,2,3,5,4,Üretim Sistemleri,4,5,5,4,3,5,4,5,2,3,3,2,4,4,3,3,Meslek Etiği,3,2,2,3,4,3,2,2,3,2,5,5,4,5,4,3,Mobilyada Performans Testleri,0,4,4,2,3,4,2,1,1,3,4,5,4,3,5,4,Ahşap Yapılarda Restorasyon,4,3,3,2,4,5,2,2,2,3,5,5,2,3,4,2,Yüzey Süsleme Teknikleri,5,4,4,5,3,3,4,5,3,3,2,4,3,3,2,2,Teknik İletişim,2,2,4,2,3,2,2,3,2,1,4,5,5,5,5,5,Ağaçişleri Endüstrisinde Girişimcilik,2,2,3,2,2,4,2,4,5,5,3,4,3,2,4,2,,,,,,,,,,,,,,,,,
+",Bitirme Çalışması I,4,5,4,5,4,5,4,5,4,4,4,4,4,4,4,4,Bitirme Çalışması II,4,5,0,4,4,4,4,4,4,4,4,4,4,4,4,5,Üretim Planlaması II,2,2,3,2,2,3,2,5,5,4,5,4,4,2,5,3,Maliyet Analizi,5,3,3,2,4,5,3,2,2,3,2,4,2,3,5,4,Üretim Sistemleri,4,5,5,4,3,5,4,5,2,3,3,2,4,4,3,3,Meslek Etiği,3,2,2,3,4,3,2,2,3,2,5,5,4,5,4,3,Mobilyada Performans Testleri,5,4,4,2,3,4,2,1,1,3,4,5,4,3,5,4,Ahşap Yapılarda Restorasyon,4,3,3,2,4,5,2,2,2,3,5,5,2,3,4,2,Yüzey Süsleme Teknikleri,5,4,4,5,3,3,4,5,3,3,2,4,3,3,2,2,Teknik İletişim,2,2,4,2,3,2,2,3,2,1,4,5,5,5,5,5,Ağaçişleri Endüstrisinde Girişimcilik,2,2,3,2,2,4,2,4,5,5,3,4,3,2,4,2,,,,,,,,,,,,,,,,,
 
 Bitirme Çalışması I,4,5,4,5,4,5,4,5,4,4,4,4,4,4,4,4
-Bitirme Çalışması II,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5
+Bitirme Çalışması II,4,5,0,4,4,4,4,4,4,4,4,4,4,4,4,5
 Üretim Planlaması II,2,2,3,2,2,3,2,5,5,4,5,4,4,2,5,3
 Maliyet Analizi,5,3,3,2,4,5,3,2,2,3,2,4,2,3,5,4
 Üretim Sistemleri,4,5,5,4,3,5,4,5,2,3,3,2,4,4,3,3
 Meslek Etiği,3,2,2,3,4,3,2,2,3,2,5,5,4,5,4,3
-Mobilyada Performans Testleri,0,4,4,2,3,4,2,1,1,3,4,5,4,3,5,4
+Mobilyada Performans Testleri,5,4,4,2,3,4,2,1,1,3,4,5,4,3,5,4
 Ahşap Yapılarda Restorasyon,4,3,3,2,4,5,2,2,2,3,5,5,2,3,4,2
 Yüzey Süsleme Teknikleri,5,4,4,5,3,3,4,5,3,3,2,4,3,3,2,2
 Teknik İletişim,2,2,4,2,3,2,2,3,2,1,4,5,5,5,5,5
@@ -6417,7 +6417,7 @@ Ağaç Malzeme Teknolojisi I,3,4,2,2,5,4,2,4,5,4,5,5,3,2,3,2
 Temel Bilgi Teknolojisi Kullanımı,4,5,4,5,4,5,5,5,4,4,4,4,4,4,4,4
 Genel Fizik I,2,2,4,3,5,4,5,3,2,2,5,4,4,3,4,4
 Genel Kimya,2,3,3,4,5,3,3,4,5,4,2,3,2,2,4,4
-Genel Matematik I,5,3,4,3,4,4,2,4,3,5,4,3,4,2,3,2
+Genel Matematik I,5,3,4,3,4,4,0,4,3,5,4,3,4,2,3,2
 Türk Dili I,3,3,2,3,4,2,3,4,4,5,5,2,5,2,2,4
 İngilizce I,3,3,2,3,2,2,4,3,4,5,5,4,4,5,2,3
 Almanca I,4,5,5,5,4,5,4,5,4,4,4,4,4,4,4,4
@@ -6428,7 +6428,7 @@ Fransızca I,4,4,5,4,5,4,5,4,5,4,4,5,5,4,4,5
 
 Ahşap Yapılar ve Konstrüksiyonlar,5,3,3,4,3,4,5,3,4,5,2,2,2,3,4,4
 Teknik Çizim ve Tasarı Geometri,4,3,2,4,2,3,3,3,3,4,3,2,2,4,4,5
-Ağaç Malzeme Teknolojisi II,2,2,3,2,2,3,3,4,4,4,0,4,5,3,2,3
+Ağaç Malzeme Teknolojisi II,2,2,3,2,2,3,3,4,4,4,5,4,5,3,2,3
 Web Sayfası Tasarımı,3,3,3,3,3,4,4,4,4,4,4,4,3,3,3,3
 Bilgisayar Destekli Tasarım,3,4,3,4,3,4,3,4,3,4,3,4,3,4,3,4
 Programlama Dilleri,3,4,3,4,3,3,3,4,4,4,4,4,3,3,3,4
@@ -6436,14 +6436,14 @@ Genel Fizik II,3,3,2,3,2,4,4,2,3,3,4,4,4,5,5,2
 Genel Matematik II,2,3,2,3,2,3,2,3,4,4,3,4,5,4,4,5
 Türk Dili II,3,3,3,3,3,3,3,3,3,4,4,2,3,5,4,4
 İngilizce II,3,3,3,3,2,3,2,4,4,3,4,4,5,5,3,2
-Almanca II,3,3,3,3,3,3,3,3,4,3,3,4,3,5,2,2
+Almanca II,3,3,3,3,3,3,3,3,4,3,3,4,3,5,2,0
 Fransızca II,3,3,3,3,3,3,3,3,3,3,3,4,4,5,2,2
 İş Sağlığı ve Güvenliği II,5,4,4,5,5,3,5,3,3,2,3,4,2,1,3,3
 ,,,,,,,,,,,,,,,,
 
 Üretim Teknikleri I,5,5,4,2,3,4,3,4,4,5,2,3,4,5,4,4
 Malzeme Mekaniği,4,3,3,5,3,5,4,4,3,4,4,3,4,4,4,4
-Bilgisayar Destekli Ürün Tasarımı,4,4,4,4,4,3,3,3,3,3,3,0,4,4,4,4
+Bilgisayar Destekli Ürün Tasarımı,4,4,4,4,4,3,3,3,3,3,3,3,4,4,4,4
 Ağaçişleri İşleme Makineleri I,4,5,4,5,4,3,5,5,4,5,5,4,4,3,3,2
 Güvenli Çalışma İlkeleri,4,3,4,3,3,4,5,5,4,4,3,3,3,4,3,3
 Teknik İngilizce,4,5,3,3,3,3,4,5,3,3,4,4,4,4,3,3
@@ -6458,12 +6458,12 @@ Fransızca III,2,3,2,2,2,4,2,3,3,2,4,2,4,5,4,4
 
 Üretim Teknikleri II,4,5,3,5,4,4,3,3,4,4,3,2,2,3,2,4
 Tasarım Proje I,3,3,3,4,3,3,4,5,3,2,5,2,4,3,2,2
-Zorunlu Meslek Stajı,5,5,4,5,4,3,5,4,4,5,4,4,3,4,4,3
+Zorunlu Meslek Stajı,5,5,4,5,4,0,5,4,4,5,4,4,3,4,4,3
 Malzeme Mukavemeti,3,3,3,4,3,3,4,5,5,3,2,5,5,2,3,4
 Ağaç İşleri İşleme Makineleri II,5,5,4,5,3,4,2,4,3,3,2,5,4,4,2,3
 Yapıştırıcılar,3,3,4,3,3,5,3,4,2,2,3,4,2,5,4,2
 Mesleki İngilizce,4,5,5,3,3,4,3,3,3,4,2,2,3,4,2,2
-Ağaç Malzeme Koruma Teknikleri,5,5,5,0,5,4,4,3,4,5,3,2,3,2,2,2
+Ağaç Malzeme Koruma Teknikleri,5,5,5,3,5,4,4,3,4,5,3,2,3,2,2,2
 Sanat Tarihi,3,2,2,1,2,3,2,2,3,3,3,2,2,4,4,3
 Atatürk İlkeleri ve İnkılap Tarihi II,2,2,2,2,3,5,2,2,2,4,4,3,3,2,1,2
 İngilizce IV,2,2,2,1,2,2,3,3,2,2,3,2,4,5,4,4
@@ -6477,7 +6477,7 @@ Tasarı Proje II,3,4,5,3,2,5,2,2,3,2,5,4,2,3,4,3
 Üst Yüzey İşlemleri,5,5,5,4,3,4,2,2,3,2,4,3,3,2,4,4
 İş Etüdü,5,4,5,4,4,4,3,5,3,4,2,2,3,2,3,2
 Kumanda Tekniği,5,4,5,5,3,3,2,2,3,4,4,3,2,2,3,2
-Gereç Teknolojisi,5,4,5,3,4,3,2,2,2,4,3,3,2,3,2,2
+Gereç Teknolojisi,5,4,5,3,4,3,2,2,2,4,3,3,2,3,0,2
 Kurutma ve Buharlama Teknikleri,5,4,2,3,4,5,3,2,2,3,2,4,3,3,5,2
 Ağaç Malzeme Zararlıları,5,4,5,3,5,4,2,2,3,4,5,2,2,2,3,4
 ,,,,,,,,,,,,,,,,
@@ -6486,7 +6486,7 @@ Ağaç Malzeme Zararlıları,5,4,5,3,5,4,2,2,3,4,5,2,2,2,3,4
 Zorunlu Meslek Stajı,4,3,5,5,5,4,5,5,4,3,3,4,2,4,5,3
 ,,,,,,,,,,,,,,,,
 
-Bitirme Çalışması I,3,2,3,2,2,3,2,3,0,3,5,5,5,4,5,4
+Bitirme Çalışması I,3,2,3,2,2,3,2,3,2,3,5,5,5,4,5,4
 Bitirme Çalışması II,2,3,2,2,3,2,2,3,2,2,5,4,5,5,4,5
 Üretim Planlaması I,5,4,4,3,2,3,4,4,5,4,2,3,2,2,4,4
 Kalite Yönetimi,4,2,4,2,4,4,2,2,2,3,5,5,3,2,4,5
@@ -6501,12 +6501,12 @@ Bilimsel Araştırmada Raporlama Teknikleri,2,2,2,2,3,2,3,3,2,5,4,5,5,4,3,3
 ,,,,,,,,,,,,,,,,
 
 Bitirme Çalışması I,4,5,4,5,4,5,4,5,4,4,4,4,4,4,4,4
-Bitirme Çalışması II,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5
+Bitirme Çalışması II,4,5,0,4,4,4,4,4,4,4,4,4,4,4,4,5
 Üretim Planlaması II,2,2,3,2,2,3,2,5,5,4,5,4,4,2,5,3
 Maliyet Analizi,5,3,3,2,4,5,3,2,2,3,2,4,2,3,5,4
 Üretim Sistemleri,4,5,5,4,3,5,4,5,2,3,3,2,4,4,3,3
 Meslek Etiği,3,2,2,3,4,3,2,2,3,2,5,5,4,5,4,3
-Mobilyada Performans Testleri,0,4,4,2,3,4,2,1,1,3,4,5,4,3,5,4
+Mobilyada Performans Testleri,5,4,4,2,3,4,2,1,1,3,4,5,4,3,5,4
 Ahşap Yapılarda Restorasyon,4,3,3,2,4,5,2,2,2,3,5,5,2,3,4,2
 Yüzey Süsleme Teknikleri,5,4,4,5,3,3,4,5,3,3,2,4,3,3,2,2
 Teknik İletişim,2,2,4,2,3,2,2,3,2,1,4,5,5,5,5,5

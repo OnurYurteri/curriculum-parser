@@ -1,4 +1,1908 @@
-,Dumlupınar Üniv. Evliya Çelebi Yerleşkesi Tavşanlı Yolu 10. km KÜTAHYA
-,0 (274) 443 43 43
-,0 (274) 265 20 13
-,
+Endüstri Mühendisliği (İngilizce)
+Total Credits Required for Graduation	:141 Average Credit Load Per Semester	: 18 
+
+ENGR 101,Introduction to Programming,,2,2,3,5
+""
+ENGR 105,Introduction to Engineering,,0,2,1,2
+""
+LIFE 101,Life Sciences I - Chemistry,,3,0,3,5
+""
+MATH 103,Calculus I - Differential,,3,2,4,6
+""
+PHYS 103,Physics I - Mechanics and Dynamics,,3,2,4,6
+""
+PHYS 103L,Physics I - Lab,,0,2,1,1
+""
+UNI 111,Critical Reading and Writing in Turkish I,,3,0,3,5
+""
+
+
+ENGR 100,Computer Skills,,0,0,1,2
+""
+ENGR 102,Programming Practice,ENGR 101,2,2,3,5
+""
+LIFE 102,Life Sciences II - Biology,,3,0,3,5
+""
+MATH 104,Calculus II - Integral,MATH 103,3,2,4,6
+""
+PHYS 104,Physics II - Electromagnetics and Modern Physics,,3,2,4,6
+""
+PHYS 104L,Physics II - Lab,,0,2,1,1
+""
+UNI 100,Exploring Istanbul,,2,2,3,5
+""
+UNI 112,Critical Reading and Writing in Turkish II,,3,0,3,5
+""
+
+
+ENGR 244,Engineering Materials,"ENGR 100, PHYS 104",3,0,3,5
+""
+ENGR 251,Probability for Engineers,"MATH 104, ENGR 105",2,2,3,5
+""
+MATH 205,Linear Algebra,MATH 103,2,2,3,5
+""
+UNI 123,Textual Analysis and Effective Communication,,3,0,3,5
+""
+--,Core Course Elective,,--,--,3,5
+""
+--,General Elective,,--,--,3,5
+""
+
+
+ENGR 246,Manufacturing Processes,ENGR 244,3,0,3,5
+""
+ENGR 252,Statistics for Engineers,successfully complete one of the courses (ENGR 251 or MGT 205),2,2,3,5
+""
+IE 200,Summer Practice,,0,0,0,5
+""
+UNI 124,Textual Analysis and Academic Writing,UNI 123,3,0,3,5
+""
+--,Core Course Elective,,--,--,3,5
+""
+--,General Elective,,--,--,3,5
+""
+--,Core Course Elective,,--,--,3,5
+""
+
+
+IE 321,Deterministic Models in OR,MATH 205,2,2,3,5
+""
+IE 324,Simulation,successfully complete one of the courses (ENGR 251 or MGT 205),2,2,3,5
+""
+UNI 201,Formations of Modern Turkey I,,3,0,3,5
+""
+--,Core Course Elective,,--,--,3,5
+""
+--,General Elective,,--,--,3,5
+""
+--,General Elective,,--,--,3,5
+""
+
+
+IE 300,Summer Practice,,0,0,0,5
+""
+IE 316,Engineering Economics,successfully complete one of the courses (ENGR 252 or MGT 206),2,2,3,5
+""
+IE 322,Stochastic Models in OR,IE 321,2,2,3,5
+""
+IE 344,Design and Analysis of Manufacturing Systems,IE 321,2,1,3,5
+""
+UNI 202,Formations of Modern Turkey II,,3,0,3,5
+""
+--,Core Course Elective,,--,--,3,5
+""
+--,College Elective,,--,--,3,5
+""
+
+
+ENGR 497,Global Design Project I Analysis,At Least Success 90 Crh,1,2,2,10
+""
+IE 446,Manufacturing Planning and Control,At Least Success 90 Crh,2,2,3,5
+""
+IE 451,Project Management,Jenior Year Standing,2,1,3,5
+""
+--,Departmental Elective,,--,--,3,5
+""
+--,College Elective,,--,--,3,5
+""
+
+
+ENGR 498,Global Design Project II Synthesis,"At Least Success 90 Crh, ENGR 497",1,2,2,10
+""
+--,Departmental Elective,,--,--,3,5
+""
+--,Departmental Elective,,--,--,3,5
+""
+--,Departmental Elective,,--,--,3,5
+""
+--,College Elective,,--,--,3,5
+""
+
+
+PHIL 101,Logic I,,3,0,3,5
+""
+PHIL 102,Modern Logic,,3,0,3,5
+""
+UNI 102,Critical Thinking,,3,0,3,5
+""
+UNI 117,Understanding Society and Culture,,3,0,3,5
+""
+UNI 118,Understanding Politics and Economy,,3,0,3,5
+""
+UNI 203,Understanding Science and Technology,,3,0,3,5
+""
+UNI 204,Understanding Nature and Knowledge,,3,0,3,5
+""
+UNI 205,Understanding Science and Environment,,3,0,3,5
+""
+UNI 207,Understanding Religion,,3,0,3,5
+""
+UNI 209,Understanding Cultural Encounters,,3,0,3,5
+""
+UNI 211,Understanding Art,,3,0,3,5
+""
+UNI 219,Music And Civilization,,3,0,3,5
+""
+UNI 221,World Civilizations and Global Encounters: Until 1300 CE,,3,0,3,5
+""
+UNI 222,World Civilizations and Global Encounters: Since 1300 CE,,3,0,3,5
+""
+UNI 101,Mathematical Reasoning,,3,0,3,5
+""
+UNI 212,Understanding Design,,3,0,3,5
+""
+UNI 213,Understanding Ethics,,3,0,3,5
+""
+UNI 220,Understanding Architecture,,3,0,3,5
+""
+
+ARAB 101,Arabic I,,3,0,3,5
+""
+ARAB 102,Arabic II,,3,0,3,5
+""
+ARAB 201,Arabic III,,3,0,3,5
+""
+ARAB 202,Arabic IV,,3,0,3,5
+""
+ARM 101,Armenian,,3,0,3,5
+""
+CHI 101,Chinese I,,3,0,3,5
+""
+CHI 102,Chinese II,,0,0,3,5
+""
+CTV 201,Basic Photography,,2,2,3,5
+""
+CTV 202,Advanced Photography,,2,2,3,5
+""
+CTV 203,Art of Storytelling,,3,0,3,5
+""
+CTV 204,Screenwriting,,3,0,3,5
+""
+CTV 205,Key Concepts in Moving Image Studies,,3,0,3,5
+""
+CTV 206,History of Cinema,,3,0,3,5
+""
+CTV 207,Introduction to Media and Communication Studies,,3,0,3,5
+""
+CTV 208,Sociology of Media,,3,0,3,5
+""
+CTV 211,Introduction to Cinematography and Lighting,,2,2,3,5
+""
+CTV 212,Editing,,2,1,3,5
+""
+CTV 214,Film Sound,,2,1,3,5
+""
+CTV 253,Business Communication,,3,0,3,5
+""
+CTV 303,Film Theory and Aesthetics,,3,0,3,5
+""
+CTV 305,Television Studies,,2,2,3,5
+""
+CTV 306,Ethnography in/of Media,,3,0,3,5
+""
+CTV 308,TV and Film Production,,3,0,3,5
+""
+CTV 309,Film Kültürü,,3,0,3,5
+""
+CTV 310,Film Production,,2,2,3,10
+""
+CTV 312,Unutulmayan Sinema,,3,0,3,5
+""
+CTV 313,Auteur Cinema,,3,0,3,5
+""
+CTV 314,Music and Sound Design in Film,,3,0,3,5
+""
+CTV 315,Cinema in Turkey,,3,0,3,5
+""
+CTV 320,Popular Culture and Media,,3,0,3,5
+""
+CTV 321,History of Art and Culture,,3,0,3,5
+""
+CTV 324,Media Ethics,,3,0,3,5
+""
+CTV 331,Cyberculture,,3,0,3,5
+""
+CTV 332,Urban Imagery and Visual Narrative,,3,0,3,5
+""
+CTV 335,Critical Approaches to Modern Image,,3,0,3,5
+""
+CTV 341,Anthropology of Media,,3,0,3,5
+""
+CTV 342,"Gender, Race, Class in Media",,3,0,3,5
+""
+CTV 344,Intercultural Communication,,3,0,3,5
+""
+CTV 347,Advanced Screenwriting,CTV 204,1,2,3,5
+""
+CTV 349,Imagined Networks: Media and Migration,,2,2,3,5
+""
+CTV 351,New Approaches in Marketing Communication,,3,0,3,5
+""
+CTV 353,Services Marketing,,3,0,3,5
+""
+CTV 355,Digital Marketing,,3,0,3,5
+""
+CTV 358,International Journalism,,3,0,3,5
+""
+CTV 401,Graduation Project,,3,2,4,10
+""
+CTV 402,Senior Graduation Project,CTV 401,3,2,4,15
+""
+CTV 403,Documentary Making,,2,2,3,10
+""
+CTV 404,World Cinema,,3,0,3,5
+""
+CTV 406,New Ways of Seeing,,3,0,3,5
+""
+CTV 411,Silent Cinema,,3,0,3,5
+""
+CTV 413,Cinema and Politics,,3,0,3,5
+""
+CTV 414,Cinema and Feminism,,3,0,3,5
+""
+CTV 417,Film Genres,,3,0,3,5
+""
+CTV 419,History of Turkish Media,,3,0,3,5
+""
+CTV 421,Cultural Studies,,3,0,3,5
+""
+CTV 430,Art of Animation,,2,2,3,5
+""
+CTV 432,Visual Communication and Design,,2,2,3,5
+""
+CTV 433,Experimantel Film and Video,,3,0,3,5
+""
+CTV 436,The Way to the Narrative,,3,0,3,5
+""
+CTV 453,News Reporting and Writing,,2,2,3,5
+""
+CTV 454,Multimedia Journalism,,2,2,3,5
+""
+CTV 457,Digital Media and Culture,,3,0,3,5
+""
+CTV 481,Special Topics in Cinema and Television I,,3,0,3,5
+""
+CTV 482,Special Topics in Cinema and Television II,,3,0,3,5
+""
+ECON 201,Macroeconomics,,3,0,3,5
+""
+ECON 202,Microeconomics,,3,0,3,5
+""
+ECON 204,Advanced Microeconomics,"ECON 201, ECON 202",3,0,3,5
+""
+ECON 205,Intermediate Microeconomics,ECON 202,3,0,3,5
+""
+ECON 206,Intermediate Macroeconomics,ECON 201,3,0,3,5
+""
+ECON 208,Advanced Macroeconomics,"ECON 201, ECON 202",3,0,3,5
+""
+ECON 302,Economic Policy,"ECON 201, ECON 202",3,0,3,5
+""
+ECON 303,Evolution of Economies and Economics,,3,0,3,5
+""
+ECON 305,Economic History of Turkey,,3,0,3,5
+""
+ECON 306,Economic History of Europe,,3,0,3,5
+""
+ECON 307,Behavioral Economics,,3,0,3,5
+""
+ECON 308,World Economy,,3,0,3,5
+""
+ECON 309,Managerial Economics,,3,0,3,5
+""
+ECON 331,Econometrics,,3,0,3,5
+""
+ECON 401,Global Economic Thought,,3,0,3,7
+""
+ECON 402,Economic History of the Ottoman Empire,,3,0,3,6
+""
+ECON 403,Turkish Economy,,3,0,3,7
+""
+ECON 405,Institutional Economics,,3,0,3,5
+""
+ECON 406,Financial Economics,,3,0,3,5
+""
+ECON 407,Economic Methodology and Philosophy of Economics,,3,0,3,5
+""
+ECON 408,Growth and Development,,3,0,3,5
+""
+ECON 409,Applied Economic Analysis,,3,0,3,5
+""
+ECON 410,Real Estate Economics and Finance,,3,0,3,5
+""
+ECON 411,Topics in İslamic Economics and Finance,,3,0,3,5
+""
+ECON 412,Topics in Islamic Economics,,3,0,3,5
+""
+ECON 413,Analytical Political Economy,,3,0,3,5
+""
+ECON 414,Labor Economics,,3,0,3,5
+""
+ECON 415,Making Better Decisions,,3,0,3,5
+""
+FRE 101,French I,,0,0,3,5
+""
+FRE 102,French II,,0,0,3,5
+""
+FRE 201,French III,,3,0,3,5
+""
+FRE 202,French IV,,0,0,3,5
+""
+GER 101,German I,,0,0,3,5
+""
+GER 102,German II,,0,0,3,5
+""
+GER 201,German III,,3,0,3,5
+""
+GER 202,German IV,,3,0,3,5
+""
+GRE 101,Greek,,3,0,3,5
+""
+GRE 102,Yunanca II,,3,0,3,5
+""
+HIST 201,Historical Methodology,,3,0,3,5
+""
+HIST 202,Ottoman History: Beylik to Empire,,3,0,3,5
+""
+HIST 203,Early Islamic History,,3,0,3,5
+""
+HIST 204,Muslim Empires: A Concise History,,3,0,3,5
+""
+HIST 205,Mediterranean History,,3,0,3,5
+""
+HIST 206,History of Central Eurasia and Turkic Peoples,,3,0,3,5
+""
+HIST 207,Ottoman Turkish I,,3,0,3,5
+""
+HIST 208,Ottoman Turkish II,HIST 207,3,0,3,5
+""
+HIST 209,Seljuk History,,3,0,3,5
+""
+HIST 301,Statistics for Social Sciences,,3,1,4,7
+""
+HIST 302,Research Methods,,3,0,3,7
+""
+HIST 303,Classical Ottoman History,,3,0,3,6
+""
+HIST 304,Late Ottoman History,,3,0,3,5
+""
+HIST 305,History of Medieval Europe,,3,0,3,5
+""
+HIST 306,History of Modern Europe,,3,0,3,5
+""
+HIST 307,Ottoman Paleography,,3,0,3,5
+""
+HIST 308,Ottoman Diplomatica,HIST 307,3,0,3,5
+""
+HIST 310,Black Sea History,,3,0,3,5
+""
+HIST 311,Ottoman Urban History,,3,0,3,5
+""
+HIST 312,Istanbul in History,,3,0,3,5
+""
+HIST 313,History of Islamic Civilization,,3,0,3,5
+""
+HIST 314,History of Muslim Spain,,3,0,3,5
+""
+HIST 315,History of the Mamluks,,3,0,3,5
+""
+HIST 316,History of Art and Architecture,,3,0,3,5
+""
+HIST 317,History of Science,,3,0,3,5
+""
+HIST 318,Byzantine History,,3,0,3,5
+""
+HIST 319,History of the Crusades,,3,0,3,5
+""
+HIST 320,History of Colonialism,,3,0,3,5
+""
+HIST 401,Historiography: Ancient to Modern,,3,0,3,7
+""
+HIST 402,Contemporary Historiography,,3,0,3,7
+""
+HIST 403,Arab Lands in the Ottoman Era,,3,0,3,5
+""
+HIST 404,Contemporary Middle East,,3,0,3,5
+""
+HIST 405,Historical Geography,,3,0,3,7
+""
+HIST 406,Senior Project,,3,0,3,9
+""
+HIST 407,History and Archaeology,,3,0,3,5
+""
+HIST 411,History of Muslim Institutions,,3,0,3,5
+""
+HIST 412,History of the Balkans,,3,0,3,5
+""
+HIST 413,History of Americas to 1876,,3,0,3,5
+""
+HIST 414,History of Africa,,3,0,3,5
+""
+HIST 415,Economic History,,3,0,3,5
+""
+HIST 416,History of the Russian Empire,,3,0,3,5
+""
+HIST 417,History of Imperial China: Tradition and Transformation,,3,0,3,5
+""
+HIST 418,History of India,,3,0,3,5
+""
+HIST 419,Biography and History,,3,0,3,5
+""
+HIST 420,History of Religions,,3,0,3,5
+""
+HIST 421,Readings in History,,3,0,3,5
+""
+HIST 422,Rise and Fall of Atlantic Slavery,,3,0,3,5
+""
+HIST 423,Environmental History,,3,0,3,5
+""
+HIST 424,History of Classical Islamic Denominations,,0,0,3,6
+""
+HIST 426,The Mongol World Empire,,3,0,3,5
+""
+HIST 444,"Psychology, History and Memory",successfully complete one of the courses( HIST 201 or PSY 102),3,0,3,6
+""
+HIST 495,Internship in History,,0,0,0,6
+""
+HUK 313,İhale Hukuku,,2,0,2,3
+""
+HUK 314,İmar Hukuku,,2,0,2,3
+""
+HUK 417,Adli Yazışma Usulleri,,2,0,2,3
+""
+HUK 418,Sınai Mülkiyet Hukuku,,2,0,2,3
+""
+HUK 419,Enerji Hukuku,,2,0,2,3
+""
+HUK 422,Tebliğat Hukuku,,2,0,2,3
+""
+HUK 424,Adli Tıp,,2,0,2,3
+""
+ISS 181,H:el-Medhal ile'n-Nususi't-Turasiye,,2,0,2,3
+""
+ISS 182,H:Edebu'z-Zühd ve'r-Rekaik,,2,0,2,3
+""
+ISS 183,H:el-Maksud fi's-Sarf,,2,0,2,3
+""
+ISS 184,H:et-Tuhfetu's-Seniyye,,2,0,2,3
+""
+ISS 201,Kur'an-ı Kerim'i Ezber Uygulamalan,,1,1,2,4
+""
+ISS 203,el-Medhal ila Ulumi'I-Kur'an ve't-Tefsir,"ISS 103, UNI 123",2,1,3,5
+""
+ISS 204,Fıkhu'l-İbadat,"ISS 103, UNI 123",2,0,2,4
+""
+ISS 205,Mustalahu'I-Hadis ve Tarihuhu,"ISS 103, UNI 123",2,1,3,4
+""
+ISS 206,el-Medhal ila Diraseti İlmi'I-Fıkh,"UNI 123, ISS 103",2,0,2,3
+""
+ISS 207,el-Akidetü'l-İslamiyye,"UNI 123, ISS 103",2,0,2,2
+""
+ISS 208,İslam Düşüncesi Tarihi: Erken Dönem,"UNI 123, ISS 103",3,0,3,4
+""
+ISS 251,Islamic History: 7th-13th Centuries,,3,0,3,5
+""
+ISS 252,Islamic History: 13th-20th Centuries,,3,0,3,5
+""
+ISS 275,Denominations and Religious Movements in the Muslim World,,3,0,3,5
+""
+ISS 276,Introduction to Islamic Law (Fiqh),,3,0,3,5
+""
+ISS 280,İslami İlimlere Giriş,,3,0,3,5
+""
+ISS 281,H:el-Kıraa fi'I-Edebi'l-Muasir,,3,0,3,4
+""
+ISS 282,H:et-Takrib li'n-Nevevi,,2,0,2,3
+""
+ISS 283,H:izharu'I-Esrar li'l-Birgivi: Avamil,,4,0,4,6
+""
+ISS 284,H:izharu'l-Esrar li'I-Birgivi: Mamulat ve irab,,4,0,4,6
+""
+ISS 285,H:el-Emali fi'I-Akide,,2,0,2,3
+""
+ISS 286,H:Klasik Mantık ve Münazara,,3,0,3,4
+""
+ISS 303,Kur'an-ı Kerim'in Temel Konuları,"ISS 104, UNI 124",3,0,3,5
+""
+ISS 304,Kur'an-ı Kerim'in Temel Kavramları,ISS 104,3,0,3,4
+""
+ISS 305,Fıkhu Ahvali'ş -Şahsiyye,"ISS 104, UNI 124",3,1,4,4
+""
+ISS 306,Usulu'I-Fıkh: Delil,"UNI 124, ISS 104",2,0,2,4
+""
+ISS 307,Hadis: el-Kutubu't-Tis'a,"UNI 124, ISS 104",2,1,3,4
+""
+ISS 308,Fıkhu'I-Muamelat,"ISS 104, UNI 124",3,1,4,4
+""
+ISS 309,Klasik Kelamın Temel Problemleri,"UNI 124, ISS 104",2,0,2,3
+""
+ISS 310,"Hadis: Eşheru'I-Müellefat Kable'I-Karni'I-Hamis""","UNI 124, ISS 104",2,1,3,4
+""
+ISS 351,Güzel Kuran Okuma,,2,0,2,3
+""
+ISS 353,Kur'an'ın Ana Konuları,,2,0,2,3
+""
+ISS 354,İleri Tefsir Metinleri,,2,0,2,3
+""
+ISS 355,Hadis Tahrici ve Ricali,,2,0,2,3
+""
+ISS 356,Hadis Literatürü,,2,0,2,3
+""
+ISS 357,Mukayeseli İslam İbadet Esasları,,2,0,2,3
+""
+ISS 358,Mukayeseli İslam Hukuku II,,2,0,2,3
+""
+ISS 359,Mukayeseli İslam Hukuku I,,2,0,2,3
+""
+ISS 360,Klasik Kelam Metinleri II,,2,0,2,3
+""
+ISS 361,Klasik Kelam Metinleri I,,2,0,2,3
+""
+ISS 362,İslam Düşüncesi Tarihi III,"ISS 104, UNI 124",2,0,2,3
+""
+ISS 371,Major Themes in Classical Islamic Theology,,2,0,2,3
+""
+ISS 372,Major Themes of Islamic Civilization,,2,0,2,3
+""
+ISS 381,H:Muhtasaru'I-Kuduri: Münakehat,,2,0,2,3
+""
+ISS 382,H:Muhtasaru'I-Kuduri: Muamelat,,3,0,3,3
+""
+ISS 383,H:el-Belağatu'I-Arabiyye,,3,0,3,4
+""
+ISS 384,H: Mebahis fi Usuli'd-Din: Mutun Muhtara,,3,0,3,4
+""
+ISS 403,Usulu'I-Fıkh: Hüküm ve Delalet,"ISS 104, UNI 124",2,1,3,4
+""
+ISS 404,Fıkhu'I-Ukubat ve's-Siyer,"UNI 124, ISS 104",2,1,3,5
+""
+ISS 405,Güncel Kelam Problemleri,"ISS 104, UNI 124",2,0,2,3
+""
+ISS 406,Uygulamali  Münazara Teknikleri,,2,0,2,2
+""
+ISS 409,Tasavvuf I,,2,0,2,2
+""
+ISS 416,Din Felsefesi,UNI 124,2,0,2,3
+""
+ISS 417,Hitabet ve Mesleki Uygulama,,0,2,1,2
+""
+ISS 419,Din Eğitimi,UNI 124,2,0,1,2
+""
+ISS 451,Klasik Mantık,,2,0,2,3
+""
+ISS 452,Siyer Hadis İlişkisi,,2,0,2,3
+""
+ISS 453,Çağdaş Tefsir Problemleri,,2,0,2,3
+""
+ISS 454,Oryantalizm ve Hadis,,2,0,2,3
+""
+ISS 455,Ahkam Hadisleri,,2,0,2,3
+""
+ISS 456,Sünnete Çağdaş Yaklaşımlar,,2,0,2,3
+""
+ISS 457,Günümüz Fıkıh Problemleri I,,2,0,2,3
+""
+ISS 458,Mukayeseli İslam Hukuk Usulü,,2,0,2,3
+""
+ISS 459,Günümüz Kelam Meseleleri,,2,0,2,3
+""
+ISS 460,Günümüz Fıkıh Problemleri II,,2,0,2,3
+""
+ISS 461,Klasik Tasavvuf Metinleri,,2,0,2,3
+""
+ISS 462,Osmanlı Tasavvuf Düşüncesi Metinleri,,2,0,2,3
+""
+ISS 463,Hüsn-i Hat,,2,0,2,3
+""
+ISS 464,Tasavvuf Felsefesi,,2,0,2,3
+""
+ISS 465,Farsça,,2,0,2,3
+""
+ISS 466,Günümüz Tasavvuf Meseleleri,,2,0,2,3
+""
+ISS 467,Malayca,,2,0,2,3
+""
+ISS 468,Din ve Sosyal Bilimler,,2,0,2,3
+""
+ISS 469,İslam Bilim Tarihi,,2,0,2,3
+""
+ISS 470,Yahudiliğe Giriş,,2,0,2,3
+""
+ISS 471,İslam İktisat Tarihi,,2,0,2,3
+""
+ISS 473,Hristiyanlığa Giriş,,2,0,2,3
+""
+ISS 474,Urduca,,2,0,2,3
+""
+ISS 475,İslam Medeniyetinde Siyasi Kavramlar ve Kurumlar,,2,0,2,3
+""
+ISS 476,İslam Tarihi Klasik Metinleri,,2,0,2,3
+""
+ISS 478,Hadis Problemleri,,2,0,2,3
+""
+ISS 481,Selected Topics in Systematic Theology,,2,0,2,4
+""
+ISS 482,H: en-Nazariyyatu'I-Kevniyye: Mutun Muhtara,,3,0,3,4
+""
+ISS 483,History of Religion: Major Faith Traditions,,2,1,3,5
+""
+ISS 484,History of Religion: Christianity and Contemporary Religious Trends,,2,1,3,5
+""
+ISS 485,H:Mirkatu'l-Vusul li-Molla Hüsrev,,2,0,2,3
+""
+ISS 486,Philosophy of Religion,,2,0,2,3
+""
+ISS 487,H:Kitabu'I-Asar,,3,0,3,4
+""
+ISS 488,H:el-Muvatta,,3,0,3,4
+""
+ISS 489,H:el-Mütun'ul-Muhtara fi'I-Fikri's-Siyasiel-islami,,2,0,2,3
+""
+ISS 490,H:Kıraat Havle't-Tefsir bi'd-Diraye,,3,2,5,4
+""
+ITM 200,Internship I,,0,0,0,5
+""
+ITM 300,Internship II,,0,0,0,5
+""
+ITM 301,International Economics,"ECON 201, ECON 202",3,0,3,5
+""
+ITM 302,Global Entrepreneurship,,3,0,3,5
+""
+ITM 303,Innovation Management,,3,0,3,5
+""
+ITM 304,International Transport and Logistics,,3,0,3,5
+""
+ITM 306,Import and Export Management,,3,0,3,5
+""
+ITM 308,International Trade Operations,,3,0,3,5
+""
+ITM 310,Supply Chain Management,,3,0,3,5
+""
+ITM 312,International Finance,,3,0,3,5
+""
+ITM 401,International Business Management,,3,2,4,7
+""
+ITM 403,International Marketing,,3,0,3,5
+""
+ITM 405,Business Consulting Models,,3,0,3,5
+""
+ITM 406,Global Business Strategy,,3,2,4,8
+""
+ITM 411,Cross Cultural Management,,3,0,3,5
+""
+ITM 412,Management of Multinational Corporations,,3,0,3,5
+""
+ITM 413,International Business Comm.,,3,0,3,5
+""
+ITM 414,International Human Resource Management,,3,0,3,5
+""
+ITM 415,E-Business and Trade,,3,0,3,5
+""
+ITM 416,Special Topics in International Trade,,3,0,3,5
+""
+ITM 418,History of Trade,,3,0,3,5
+""
+ITM 420,Special Topics in International Marketing,,3,0,3,5
+""
+ITM 422,Managerial Decision Making,,3,0,3,5
+""
+ITM 430,Digital and Social Media Marketing,,3,0,3,5
+""
+ITM 440,Foreign Trade Financing,,3,0,3,5
+""
+ITM 441,Special Topics in International Finance,,3,0,3,5
+""
+ITM 442,Special Topics in International Accounting,,3,0,3,5
+""
+ITM 450,International Economic and Trade Organizations,,3,0,3,5
+""
+ITM 451,International Econonomic Law,,3,0,3,5
+""
+ITM 452,International Political Economy,,3,0,3,5
+""
+ITM 453,Turkish Foreign Trade and Investment Policy,,3,0,3,5
+""
+ITM 454,Region Studies in International Trade,,3,0,3,5
+""
+ITM 455,Customs and Applications,,3,0,3,5
+""
+ITM 456,Customs and Applications II,,3,0,3,5
+""
+LAT 101,Latin,,3,0,3,5
+""
+LAT 102,Latin II,,3,0,3,5
+""
+LAW 203,International Law I,,2,0,2,4
+""
+LAW 204,International Law II,,2,0,2,4
+""
+LAW 209,Sociology of Law,,2,0,2,4
+""
+LAW 210,Philosophy of Law,,2,0,2,4
+""
+LAW 213,Introduction to European Union Law,,2,0,2,3
+""
+LAW 220,International Protection Of Human Rights,,2,0,2,3
+""
+LAW 222,International Humanitarian Law,,2,0,2,3
+""
+LAW 231,Introduction to Law,,3,0,3,5
+""
+LAW 232,Business Law,,3,0,3,5
+""
+LAW 315,Environmental Law,,2,0,2,3
+""
+LAW 316,Law of Torts and Contract,,2,0,2,3
+""
+LAW 317,Criminology,,2,0,2,3
+""
+LAW 318,International Investment Law,,2,0,2,3
+""
+LAW 319,Introduction to Common Law,,2,0,2,3
+""
+LAW 321,International Commercial Law,,2,0,2,3
+""
+LAW 322,Banking Law,,2,0,2,3
+""
+LAW 326,International Sales and Arbitration Law,,2,0,2,3
+""
+LAW 327,The Rights of the Child in International Law,,2,0,2,3
+""
+LAW 411,International Private Law I,,2,2,3,5
+""
+LAW 412,International Private Law II,,2,2,3,5
+""
+LAW 415,Competition Law,,2,0,2,3
+""
+LAW 416,International Arbitration,,2,0,2,3
+""
+LAW 421,Law of Stock-Exchange,,2,0,2,3
+""
+LAW 423,Legal Writing,,2,0,2,3
+""
+LAW 424,Communications Law,,2,0,2,3
+""
+LAW 425,Democracy and Law,,2,0,2,3
+""
+LAW 426,Law and Ethics,,2,0,2,3
+""
+LAW 427,International Trade Law,,2,0,2,3
+""
+LING 201,Osmanlı Türkçesi I,,4,0,4,6
+""
+LING 202,Osmanlı Türkçesi II,LING 201,4,0,4,6
+""
+LING 411,Türkçenin Sesbilimi,,3,0,3,6
+""
+LING 412,Türkçenin Biçimbilimi,,3,0,3,6
+""
+LING 413,Türkçenin Sözdizimi,,3,0,3,6
+""
+LING 414,Söylem Çözümlemesi,,3,0,3,6
+""
+LING 415,Dilbilimsel Metodoloji,,3,0,3,6
+""
+LING 416,Metin Dilbilimi,,3,0,3,6
+""
+LING 417,Diyalektoloji,,3,0,3,6
+""
+LING 418,İngilizce Türkçe Karşılaştırmalı Çözümleme,,3,0,3,6
+""
+LING 431,Osmanlı Paleografyası,prerequisite OTM 102 or LING 202 Ottoman Turkish II,3,0,3,6
+""
+LING 432,Osmanlı Diplomatikası,LING 431,3,0,3,6
+""
+LING 433,Çeviri,,3,0,3,6
+""
+LING 434,Çeviribilim,,3,0,3,6
+""
+LIT 203,Classical Islamic Literatures I: Major Themes and Sources,,3,0,3,5
+""
+LIT 204,"Classical Islamic Literatures II: Major Literary Spaces, Main Actors and Genres",,3,0,3,5
+""
+LIT 305,Origins of Literary Theory and Criticism,,3,0,3,5
+""
+LIT 306,Modern Literary Theory and Criticism,,3,0,3,5
+""
+LIT 406,Literature and Humanities,,3,0,3,6
+""
+LIT 416,Modern Türk Edebiyatında Eleştiri,,3,0,3,6
+""
+LIT 417,Edebiyat Dergiciliği,,3,0,3,6
+""
+LIT 418,Türkçe Edebiyat ve Şehir Deneyimi,,3,0,3,6
+""
+LIT 421,İleri Düzey Edebiyat Teorisi,,3,0,3,6
+""
+LIT 422,Literature and Gender,,3,0,3,6
+""
+LIT 423,Edebiyat ve Milliyetçilik,,3,0,3,6
+""
+LIT 424,Edebiyat ve Tarih,,3,0,3,6
+""
+LIT 425,Edebiyat ve Politika,,3,0,3,6
+""
+LIT 426,Edebiyat Psikanaliz ve Öznellik,,3,0,3,6
+""
+LIT 427,Edebiyat ve Hukuk,,3,0,3,6
+""
+LIT 428,Anlatıbilim,,3,0,3,6
+""
+LIT 429,Edebiyat Şarkiyatçılık ve Postkolonyalizm,,3,0,3,6
+""
+LIT 435,Klasik Türk Edebiyatında Alegori,,3,0,3,6
+""
+LIT 436,Klasik Türk Edebiyatında Toplumsal Cinsiyet,,3,0,3,6
+""
+LIT 437,Klasik İslamî Edebiyatlarda “Sebk-i Hindî”,,3,0,3,6
+""
+LIT 439,Klasik İslamî Edebiyatlarda Otobiyografi ve Biyografi,,3,0,3,6
+""
+LIT 441,Yaratıcı Yazım,,1,4,3,6
+""
+LIT 450,Economics Through Fiction,,3,0,3,6
+""
+LIT 480,Türkiyede Güncel Edebiyat ve Toplumsal Değişim,,0,0,3,6
+""
+MATH 101,Calculus for Business,,2,2,3,5
+""
+MATH 102,Applied Math for Business,MATH 101,2,2,3,5
+""
+MGRE 101,Modern Greek I,,3,0,3,5
+""
+MGRE 102,Modern Greek II,,3,0,3,5
+""
+MGT 100,Introduction to Business,,3,0,3,3
+""
+MGT 200,Internship I,,0,0,0,5
+""
+MGT 202,Organizational Behavior,,3,0,3,5
+""
+MGT 203,Financial Accounting,,3,0,3,5
+""
+MGT 204,Managerial Accounting,,3,0,3,5
+""
+MGT 205,Introduction to Statistics,,2,2,3,5
+""
+MGT 206,Statistical Analysis,MGT 205,2,2,3,5
+""
+MGT 255,Business Communication,,3,0,3,5
+""
+MGT 300,Internship II,,0,0,0,5
+""
+MGT 302,Human Resource Management,,3,0,3,5
+""
+MGT 303,Financial Management,,3,0,3,5
+""
+MGT 304,Money and Banking,,3,0,3,5
+""
+MGT 305,Marketing Management,,3,0,3,5
+""
+MGT 308,Organization Theory,,3,0,3,5
+""
+MGT 309,Operations Management,,3,0,3,5
+""
+MGT 332,Management Information Systems,,3,0,3,5
+""
+MGT 401,Strategic Management,,3,2,4,7
+""
+MGT 404,Capital Market and Institutions,,3,0,3,5
+""
+MGT 410,History of Management Thought,,3,0,3,5
+""
+MGT 411,Family Business Management,,3,0,3,5
+""
+MGT 412,Business Simulation,,3,0,3,5
+""
+MGT 413,Business Ethics and Corporate Social Responsibility,,3,0,3,5
+""
+MGT 414,Game Theory for Managers,,3,0,3,5
+""
+MGT 415,Management of NGOs,,3,0,3,5
+""
+MGT 416,Psychology of Work and Career,,3,0,3,5
+""
+MGT 417,Special Topics in Consultancy,,3,0,3,5
+""
+MGT 418,Special Topics in Management,,3,0,3,5
+""
+MGT 420,Marketing Research,,3,0,3,5
+""
+MGT 421,Pazarlamada Seçilmiş Konular,,3,0,3,5
+""
+MGT 422,Consumer Behavior,,3,0,3,5
+""
+MGT 423,Marketing Communications,,3,0,3,5
+""
+MGT 424,Customer Relationship Management,,3,0,3,5
+""
+MGT 430,Operations Research,,3,0,3,5
+""
+MGT 432,Project Management,,3,0,3,5
+""
+MGT 436,Entrepreneurship,,3,0,3,6
+""
+MGT 440,Special Topics in Accounting,,3,0,3,5
+""
+MGT 441,Tax Law,,3,0,3,5
+""
+MGT 442,Cost Accounting,,3,0,3,5
+""
+MGT 450,Public Finance,,3,0,3,5
+""
+MGT 451,Special Topics in Finance,,3,0,3,5
+""
+MGT 452,Business Research,,3,0,3,5
+""
+MGT 453,Business Intelligence and Marketing Analytics,,3,2,4,7
+""
+OTM 101,Ottoman Turkish I,,3,0,3,5
+""
+OTM 102,Ottoman Turkish II,,3,0,3,5
+""
+PERS 101,Persian I,,3,0,3,5
+""
+PERS 102,Persian II,,3,0,3,5
+""
+PHIL 101,Logic I,,3,0,3,5
+""
+PHIL 102,Modern Logic,,3,0,3,5
+""
+PHIL 103,Philosophical Thinking,,3,0,3,5
+""
+PHIL 104,Philosophy in Axile Ages,,3,0,3,5
+""
+PHIL 201,Ancient Philosophy I:Plato,,3,0,3,5
+""
+PHIL 202,Ancient Philosophy II:Aristo,,3,0,3,5
+""
+PHIL 203,Epistemology,,3,0,3,5
+""
+PHIL 204,Ontology,,3,0,3,5
+""
+PHIL 211,Anthropology,,3,0,3,5
+""
+PHIL 212,Philosophy of Art/Aesthetic,,3,0,3,5
+""
+PHIL 213,Chinese Philosophy,,3,0,3,5
+""
+PHIL 214,Indian Philosophy,,3,0,3,5
+""
+PHIL 215,Philosophy and Literature,,3,0,3,5
+""
+PHIL 216,Mysticism and Philosophy,,3,0,3,5
+""
+PHIL 217,Philosophy of Nature,,3,0,3,5
+""
+PHIL 218,History of Religion,,3,0,3,5
+""
+PHIL 219,Mythology,,3,0,3,5
+""
+PHIL 220,History of Philosopy,,3,0,3,5
+""
+PHIL 222,Philosophy in Late Antiquity,,3,0,3,5
+""
+PHIL 223,Advanced Logic,,3,0,3,5
+""
+PHIL 224,Classical-Aristotelian Logic,,3,0,3,5
+""
+PHIL 225,Arabic,,3,0,3,5
+""
+PHIL 226,Early Greek Philosophy,,3,0,3,5
+""
+PHIL 301,Islamic Thought,,3,0,3,5
+""
+PHIL 302,Early Modern Philosophy,,3,0,3,5
+""
+PHIL 303,Arabic/Islamic Philosophy:Ibn Sina,,3,0,3,5
+""
+PHIL 304,Philosophy of Religion,,3,0,3,5
+""
+PHIL 305,Latin/Christian Philosophy:Aquinas,,3,0,3,5
+""
+PHIL 306,History and Philosophy of Science,,3,0,3,5
+""
+PHIL 311,Eng.Empiricism:Locke&Hume,,3,0,3,5
+""
+PHIL 312,German Idealism:Fic.&Sch.&Hegel,,3,0,3,5
+""
+PHIL 313,Topics in Islamic Philosophy,,3,0,3,5
+""
+PHIL 314,Phenomenology,,3,0,3,5
+""
+PHIL 315,Philosophy of Language,,3,0,3,5
+""
+PHIL 316,Selected Philosophical Texts,,3,0,3,5
+""
+PHIL 317,Contemporary Philosophical Texts,,3,0,3,5
+""
+PHIL 318,Philosophy&Theology/Kalam,,3,0,3,5
+""
+PHIL 319,Philosophy&Economics,,3,0,3,5
+""
+PHIL 321,Philosophy of Mathematics,,3,0,3,5
+""
+PHIL 322,Philosophy&Psychoanalyses,,3,0,3,5
+""
+PHIL 401,Modern Philosophy:Kant,,3,0,3,5
+""
+PHIL 402,Contemporary Philosophy,,3,0,3,6
+""
+PHIL 403,Ethics,,3,2,3,5
+""
+PHIL 404,Political Philosophy,,3,0,3,6
+""
+PHIL 406,Graduate Project,,3,0,3,6
+""
+PHIL 411,Philosophy of Cognitive Sciences,,3,0,3,5
+""
+PHIL 412,Philosophy of Natural Sciences,,3,0,3,6
+""
+PHIL 413,Existentialism,,3,0,3,5
+""
+PHIL 414,Hermeneutics,,3,0,3,6
+""
+PHIL 415,Topics in Contemporary Philosophy,,3,0,3,5
+""
+PHIL 416,Philosophy of Tech./Bioethics,,3,0,3,6
+""
+PHIL 417,Philosophy of Mind/Nat.of Consciousness,,3,0,3,5
+""
+PHIL 418,Artificial Intelligence,,3,0,3,6
+""
+PHIL 419,Contemporary Turkish Thought,,3,0,3,5
+""
+PHIL 422,Contemporary Islamic Thought,,3,0,3,6
+""
+PHIL 423,Philosophy Of Cinema,,3,0,3,5
+""
+PHIL 424,Topics in Analytical Philosophy,,3,0,3,6
+""
+PHIL 425,Topics in Continental Philosophy,,3,0,3,5
+""
+PHIL 426,Topics in History of Philosophy,,3,0,3,6
+""
+POLS 201,Political Science,,3,0,3,5
+""
+POLS 202,International Relations,,3,0,3,5
+""
+POLS 203,Classics of Political Thought: The Ancients,,3,0,3,5
+""
+POLS 204,Classics of Political Thought: The Moderns,,3,0,3,5
+""
+POLS 205,Emergence of Modern International Order,,3,0,3,5
+""
+POLS 207,Fundamentals of Law,,3,0,3,5
+""
+POLS 208,Constitutional Politics,,3,0,3,5
+""
+POLS 214,Contemporary International Politics,,3,0,3,5
+""
+POLS 219,Macro Economics,,3,0,3,5
+""
+POLS 220,Micro Economics,,3,0,3,5
+""
+POLS 301,International Law and Organizations,,3,0,3,6
+""
+POLS 302,Contemporary Political Ideologies,,3,0,3,7
+""
+POLS 303,Research Methods,,3,0,3,7
+""
+POLS 305,Political Sociology,,3,0,3,6
+""
+POLS 308,Comparative Political Systems,,3,0,3,6
+""
+POLS 312,Ethics and Law,,3,0,3,6
+""
+POLS 313,Geopolitics,,3,0,3,6
+""
+POLS 315,Diplomatic Correspondence,,3,0,3,6
+""
+POLS 316,European Union,,3,0,3,6
+""
+POLS 317,Comparative Foreign Policy,,3,0,3,6
+""
+POLS 318,Administrative Structure of Turkey,,3,0,3,6
+""
+POLS 319,Classical Islamic Political Thought,,3,0,3,6
+""
+POLS 321,Public Administration,,3,0,3,6
+""
+POLS 322,Political Parties and Pressure Groups,,3,0,3,6
+""
+POLS 323,Administrative Law,,3,0,3,6
+""
+POLS 324,History of Public Administration in Turkey,,3,0,3,6
+""
+POLS 325,European Union Law,,3,0,3,6
+""
+POLS 327,Conflicts in the Modern Middle East,,3,0,3,6
+""
+POLS 328,Theories of International Relations,,3,0,3,6
+""
+POLS 330,Public Administration in Turkey,POLS 201,0,0,3,6
+""
+POLS 339,Islamic Political Thought in The Modern Era,,3,0,3,6
+""
+POLS 340,Diplomacy,,3,0,3,6
+""
+POLS 401,Current Issues in Turkish Politics,,3,0,3,6
+""
+POLS 402,Turkish Foreign Policy,POLS 202,3,0,3,6
+""
+POLS 403,International Political Economy,POLS 202,3,0,3,6
+""
+POLS 404,Conflict Analysis and Resolution,,3,0,3,6
+""
+POLS 405,Comparative Political Economy,POLS 201,3,0,3,6
+""
+POLS 406,Politics of East Asia,POLS 202,3,0,3,6
+""
+POLS 411,Foreign Policy Analysis,,3,0,3,6
+""
+POLS 412,Nationalism and Ethnicity,,3,0,3,6
+""
+POLS 413,"Issues in State, Politics and Society in Turkey",,3,0,3,5
+""
+POLS 414,Democratic Theory,,3,0,3,6
+""
+POLS 415,American Politics,,3,0,3,6
+""
+POLS 416,Global Governance,,3,0,3,6
+""
+POLS 417,"Politics, Society and State in the Middle East",,3,0,3,6
+""
+POLS 418,Globalization,,3,0,3,6
+""
+POLS 419,Russia in World Politics,,3,0,3,6
+""
+POLS 421,Central Asia in World Politics,,3,0,3,6
+""
+POLS 422,American Foreign Policy,,3,0,3,6
+""
+POLS 423,Globalization Citizenship and Multiculturalism,,3,0,3,6
+""
+POLS 424,"Politics, Society and State in the Balkans",,3,0,3,6
+""
+POLS 427,International Order and Great Power Politics,,3,0,3,6
+""
+POLS 428,Issues of International Security,,3,0,3,6
+""
+POLS 429,Private International Law,,3,0,3,6
+""
+POLS 430,Politics of Energy and Sources,,3,0,3,6
+""
+POLS 432,Islam and Politics,,3,0,3,6
+""
+POLS 434,Russian Politics,,3,0,3,6
+""
+POLS 435,Topics in Political Theory,,3,0,3,6
+""
+POLS 436,Comparative Political Thought,,3,0,3,6
+""
+POLS 437,Special Topics in Political Science,,3,0,3,6
+""
+POLS 438,Media and Foreign Policy,,3,0,3,6
+""
+POLS 439,Globalization and the Muslim World,,3,0,3,6
+""
+POLS 440,Political Violence and Terrorism,,3,0,3,6
+""
+POLS 441,Europe and Islam,,3,0,3,6
+""
+POLS 442,Politics in Eurasia,,3,0,3,6
+""
+POLS 443,Gender in the Middle East,,3,0,3,6
+""
+POLS 444,Human Rights in Global Order,,3,0,3,6
+""
+POLS 446,Europe and the Middle East,,3,0,3,6
+""
+POLS 448,Africa in World Politics,,3,0,3,6
+""
+POLS 454,Identity and Nationalism in Modern Turkey,,3,0,3,6
+""
+POLS 465,Developing World in Global Politics,,3,0,3,6
+""
+POLS 490,Research and Readings in Political Science and International Relations,,3,0,3,6
+""
+POLS 491,Research Design in Political Science,,3,0,3,6
+""
+POLS 493,Turkish-American Relations,,3,0,3,6
+""
+POLS 495,Internship in Political Science and International Relations,"POLS 201, POLS 202",0,0,0,6
+""
+PSY 102,Introduction to Psychology,,3,0,3,5
+""
+PSY 203,Statistics,PSY 102,3,2,4,7
+""
+PSY 204,Research Methods,"PSY 203, PSY 102",3,1,4,8
+""
+PSY 212,Social Psychology,PSY 102,3,0,3,6
+""
+PSY 231,Biological Psychology,PSY 102,3,0,3,6
+""
+PSY 252,Lifespan Developmental Psychology,PSY 102,3,0,3,6
+""
+PSY 261,Personality,PSY 102,3,0,3,6
+""
+PSY 301,Infant Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 302,Advanced Research Methods,At Least Success 56 Crh,3,0,3,6
+""
+PSY 311,Political Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 312,Psychology of Women and Gender,At Least Success 56 Crh,3,0,3,6
+""
+PSY 313,Psychology of Culture and Diversity,At Least Success 56 Crh,3,0,3,6
+""
+PSY 314,Evolutionary Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 315,Social Cognition,At Least Success 56 Crh,3,0,3,6
+""
+PSY 316,Adolescent Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 317,Intimate Relationships,At Least Success 56 Crh,3,0,3,6
+""
+PSY 319,Traffic Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 322,Introduction to Clinical Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 323,Child and Adolescent Psychopathology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 325,Abnormal Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 326,Cognitive Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 328,Educational Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 330,School Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 331,Sensation and Perception,At Least Success 56 Crh,3,0,3,6
+""
+PSY 332,Neuropsychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 341,Learning,At Least Success 56 Crh,3,0,3,6
+""
+PSY 371,Selected Topics in Psychology 3,At Least Success 56 Crh,3,0,3,6
+""
+PSY 372,Selected Topics in Psychology 4,At Least Success 56 Crh,3,0,3,6
+""
+PSY 373,Selected Topics in Psychology 5,At Least Success 56 Crh,3,0,3,6
+""
+PSY 374,Selected Topics in Psychology 6,At Least Success 56 Crh,3,0,3,6
+""
+PSY 375,Selected Topics in Psychology 7,At Least Success 56 Crh,3,0,3,6
+""
+PSY 376,Collective Memory,,3,0,3,6
+""
+PSY 380,Positive Psychology,At Least Success 56 Crh,3,0,3,6
+""
+PSY 388,Clinical Case Studies,At Least Success 56 Crh,3,0,3,6
+""
+PSY 391,Selected Topics in Psychology I,At Least Success 56 Crh,3,0,3,6
+""
+PSY 392,Directed Research,At Least Success 56 Crh,3,0,3,6
+""
+PSY 393,Directed Research II,At Least Success 56 Crh,3,0,3,6
+""
+PSY 394,Independent Research I,At Least Success 56 Crh,3,0,3,6
+""
+PSY 402,Measurement in Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 403,Advanced Statistics for Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 407,Ethics and Professionalism,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 412,Advanced Social Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 413,Family Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 414,History and Systems in Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 423,Psychology of Trauma,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 424,Advanced Seminar in Current Issues of Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 431,Health Psychology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 432,Psychopharmacology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 441,Human Memory,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 452,Forensic Pyschology,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 454,Cognitive Neuroscience,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 461,Motivation and Emotion,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 462,Psychology of Language,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 471,Selected Topics in Psychology 8,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 472,Selected Topics in Psychology 9,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 473,Selected Topics in Psychology 10,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 474,Selected Topics in Psychology 11,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 475,Selected Topics in Psychology 12,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 487,"Creativity, Motivation and Well Being",At Least Success 68 Crh.,3,0,3,6
+""
+PSY 491,Selected Topics in Psychology II,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 492,Directed Research III,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 493,Directed Research IV,At Least Success 68 Crh.,3,0,3,6
+""
+PSY 495,Psikoloji Stajı,At Least Success 68 Crh.,0,0,0,6
+""
+RUS 101,Russian I,,3,0,3,5
+""
+RUS 102,Russian II,,3,0,3,5
+""
+RUS 201,Russian III,,3,0,3,5
+""
+RUS 202,Russian IV,,0,0,3,5
+""
+SOC 201,Sociological Imagination,,3,0,3,6
+""
+SOC 203,Statistics,,3,1,4,7
+""
+SOC 207,Introduction to Media and Communication Studies,,3,0,3,6
+""
+SOC 210,Ethnography in/of Media,,3,0,3,6
+""
+SOC 221,Social Stratification,,3,0,3,6
+""
+SOC 225,Research Methods,,3,2,3,7
+""
+SOC 230,Sociology of Work and Organizations,,3,0,3,6
+""
+SOC 233,Sociology of the Family,,3,0,3,6
+""
+SOC 241,Social Anthropology,,3,0,3,6
+""
+SOC 242,Urban Sociology,,3,0,3,6
+""
+SOC 244,International Migration in a Globalized World,,3,0,3,6
+""
+SOC 254,Power and Inequality,,3,0,3,6
+""
+SOC 256,Population and Society,,3,0,3,6
+""
+SOC 260,Social Movements,,3,0,3,6
+""
+SOC 261,Welfare and Social Policy,,3,0,3,6
+""
+SOC 268,Sociology of Law,,3,0,3,6
+""
+SOC 302,Contemporary Political Ideologies,,3,0,3,6
+""
+SOC 303,Ottoman-Turkish Modernization,,3,0,3,6
+""
+SOC 305,Nations and Nationalism,,3,0,3,6
+""
+SOC 307,Political Sociology,,3,0,3,7
+""
+SOC 312,Social Psychology,,3,0,3,6
+""
+SOC 315,Social Networks,,3,0,3,6
+""
+SOC 321,Sociology of Agriculture and Food,,3,0,3,6
+""
+SOC 322,Nationalism and Ethnicity,,3,0,3,6
+""
+SOC 323,Public Space and the Contemporary City,,3,0,3,6
+""
+SOC 326,"Citizenship, Multiculturalism and Globalization",,3,0,3,6
+""
+SOC 331,Social Theory I : Classics,,3,0,3,6
+""
+SOC 332,Social Theory II: Contemporary Sociology,,3,0,3,6
+""
+SOC 334,Social Change and Modernization,,3,0,3,6
+""
+SOC 337,Introduction to New Media,,3,0,3,6
+""
+SOC 344,Urban Studies: Contemp. Approaches,,3,0,3,6
+""
+SOC 356,Data Analysis,,2,2,3,6
+""
+SOC 361,Environmental Sociology,,3,0,3,6
+""
+SOC 371,Development of Sociology in Turkey,,3,0,3,6
+""
+SOC 392,Sociology of Contemporary Muslim Experiences,,3,0,3,6
+""
+SOC 405,Historical-Geographical Perspectives on Urban Studies,,3,0,3,6
+""
+SOC 406,Philosophy of Science,,3,0,3,6
+""
+SOC 411,Selected Topics in Anthropology,,3,0,3,6
+""
+SOC 412,Advanced Social Psychology,SOC 312,3,0,3,6
+""
+SOC 414,Political Anthropology,,3,0,3,6
+""
+SOC 415,Sociology of Everyday Life,,3,0,3,6
+""
+SOC 416,Understanding Globalization and Localization,,3,0,3,6
+""
+SOC 417,Economic Sociology,,3,0,3,6
+""
+SOC 418,Globalization,,3,0,3,6
+""
+SOC 420,Sociology of Religion,,3,0,3,6
+""
+SOC 425,Gender and Society,,3,0,3,6
+""
+SOC 427,"Identity, Culture and Ethnicity in Turkey",,3,0,3,6
+""
+SOC 439,Globalization and the Muslim World,,3,0,3,6
+""
+SOC 441,Europe and Islam,,3,0,3,6
+""
+SOC 446,Anthropology of Information Technology,,3,0,3,6
+""
+SOC 451,Urban Ethnography,,3,1,3,6
+""
+SOC 453,Qualitative Social Analysis,,3,0,3,6
+""
+SOC 455,Comparative Sociology of Religions,,3,0,3,6
+""
+SOC 457,Research Seminar on Concepts in Historical Change,,3,0,3,6
+""
+SOC 458,Historical Sociology,,3,0,3,6
+""
+SOC 460,"Europe, the Enlightenment and Modernity",,3,0,3,6
+""
+SOC 464,"Society, Power and Justice in the Middle East",,3,0,3,6
+""
+SOC 468,Introduction to Urban Research Methods,,3,1,3,6
+""
+SOC 472,Education and Society,,3,0,3,6
+""
+SOC 479,Sociology of Labor and Employment,,3,0,3,6
+""
+SOC 480,Anthropology of Health and Illness,,3,0,3,6
+""
+SOC 487,Comparative Study of Revolutions,,3,0,3,6
+""
+SOC 490,Current Issues in Sociology,,3,0,3,6
+""
+SOC 491,Special Topics in Urban Studies,,3,0,3,6
+""
+SOC 492,Selected Topics in Sociological Theory,,3,0,3,6
+""
+SOC 493,Advanced Topics in Methodology,,3,0,3,6
+""
+SOC 494,Recent Developments in Social Research,,3,0,3,6
+""
+SOC 495,Internship in Sociology,,0,0,0,6
+""
+SOC 496,Independent Research in Sociology,,3,0,3,6
+""
+SOC 499,Senior Thesis,,3,0,3,6
+""
+SPA 101,Spanish I,,0,0,3,5
+""
+SPA 102,Spanish II,,0,0,3,5
+""
+UNI 137,Mathematics for Practice,,3,0,3,5
+""
+UNI 213,Understanding Ethics,,3,0,3,5
+""
+ARCH 106,Introduction to Architecture I,,3,0,3,5
+""
+CTV 322,Brand Management,,3,0,3,5
+""
+ECON 450,Economics Through Fiction,,3,0,3,5
+""
+ELIT 201,Mythologies,,3,0,3,6
+""
+ELIT 203,Linguistics I,,3,0,3,7
+""
+ELIT 204,Linguistics II,ELIT 203,3,0,3,6
+""
+ELIT 205,Introduction to Literary Genres,,3,0,3,6
+""
+ELIT 206,Poetry,ELIT 205,3,0,3,7
+""
+ELIT 208,Reading Classics,,3,0,3,6
+""
+ELIT 210,Detective Fiction,,3,0,3,6
+""
+ELIT 211,Science Fiction,,3,0,3,6
+""
+ELIT 212,Historical Fiction,,3,0,3,6
+""
+ELIT 214,Eighteenth Century Novel,,3,0,3,6
+""
+ELIT 301,History of English Literature I,,3,0,3,6
+""
+ELIT 302,History of English Literature II,,3,0,3,6
+""
+ELIT 303,Literary Theory I,,3,0,3,6
+""
+ELIT 304,Literary Theory II,,3,0,3,6
+""
+ELIT 305,Victorian Period,,3,0,3,6
+""
+ELIT 306,Modernism,,3,0,3,6
+""
+ELIT 308,Renaissance Literature,,3,0,3,6
+""
+ELIT 320,Contemporay Women's Writing,,3,0,3,6
+""
+ELIT 321,Bestsellers,,3,0,3,6
+""
+ELIT 330,Approaches to English Language Teaching,,3,0,3,6
+""
+ELIT 331,Language Acqusition,,3,0,3,6
+""
+ELIT 350,Samuel Beckett,,3,0,3,6
+""
+ELIT 351,Reading the Metropolis,,3,0,3,6
+""
+ELIT 401,Postcolonial Litearture,,3,0,3,6
+""
+ELIT 402,Literature and Film,,3,0,3,6
+""
+ELIT 403,Drama,ELIT 205,3,0,3,6
+""
+ELIT 404,World Literature,,3,0,3,6
+""
+ELIT 410,Shakespeare,,3,0,3,6
+""
+ELIT 411,Medieval Literature,,3,0,3,6
+""
+ELIT 413,Gothic Novel,,3,0,3,6
+""
+ELIT 414,Postmodern Novel,,3,0,3,6
+""
+ELIT 430,Principles and Methods of Teaching Language Skills,,3,0,3,6
+""
+ELIT 440,Modern Poetry,,3,0,3,6
+""
+ELIT 441,Romantic Poetry,,3,0,3,6
+""
+ELIT 450,Short Story,,3,0,3,6
+""
+ELIT 460,Illness and Literature,,3,0,3,6
+""
+ELIT 470,American Literature,,3,0,3,6
+""
+ELIT 480,Memory Writing,,3,0,3,6
+""
+INDD 106,Introduction to Industrial Design,,3,0,3,5
+""
+ISS 441,Introduction to the Bible,,3,0,3,5
+""
+ITM 417,Brand Management,,3,0,3,5
+""
+ITM 429,Digital Marketing in Business,,3,0,3,5
+""
+ITM 431,Special Topics in Marketing Management I,,3,0,3,5
+""
+ITM 432,Special Topics in Marketing Management II,,3,0,3,5
+""
+LAW 429,Intellectual Property Law,,2,0,2,3
+""
+MGT 419,Special Topics in Management and Economics,,3,0,3,5
+""
+MGT 427,Sustainability and Governance,,3,0,3,5
+""
+MGT 429,Descriptive Analytics,,3,0,3,5
+""
+MGT 435,Digital Transformation and Innovation,,3,0,3,5
+""
+MGT 438,Interest-Free Banks  & Participation Banking System,,3,0,3,5
+""
+MGT 439,Coaching and Guidance in Business,,3,0,3,5
+""
+MGT 446,CO-OP: Cooperative Learning I,,3,0,3,5
+""
+MGT 448,CO-OP: Cooperative Learning II,,3,0,3,5
+""
+MGT 449,Risk Management,,3,0,3,5
+""
+MGT 457,Research for Honours Student,GPA at Least 3.00 for Honers Student,3,0,3,5
+""
+MGT 458,Research and Practice for Honors,GPA at Least 3.00 for Honers Student,3,0,3,5
+""
+MGT 459,Narrative Economics and Business,,3,0,3,5
+""
+MGT 462,Data Oriented Programming,,3,0,3,5
+""
+MGT 464,Predictive Business Analytics,,3,0,3,5
+""
+MGT 472,Data Warehousing,,3,0,3,5
+""
+MGT 473,Advanced Practicuum in Analytics,,3,0,3,5
+""
+MGT 474,"Big Data, Tools and Technologies",,3,0,3,5
+""
+POLS 407,China in World Politics,,3,0,3,6
+""
+PSY 442,Clinical Interview Skills,At Least Success 68 Crh.,3,0,3,6
+""
+SOC 448,Sociology of Popular Culture and Media,,3,0,3,6
+""
+SOC 461,Modern Communitarianisms and Turkey,,3,0,3,6
+""
+TRI 101,Introduction to Translation and Translation Studies I,,3,0,3,5
+""
+TRI 102,Introduction to Translation and Translation Studies II,TRI 101,3,0,3,5
+""
+TRI 201,Technical Translation,TRI 102,3,0,3,5
+""
+TRI 202,Translation Technologies,TRI 102,3,0,3,5
+""
+TRI 203,English Literature,,3,0,3,5
+""
+TRI 204,Media and Advertisement Translation,TRI 102,3,0,3,5
+""
+TRI 205,Linguistics,,3,0,3,5
+""
+TRI 206,Introduction to Interpreting,TRI 101,3,0,3,5
+""
+TRI 210,Localization,TRI 102,3,0,3,5
+""
+TRI 301,Translation Theories,TRI 102,3,0,3,5
+""
+TRI 302,Literary Translation,TRI 102,3,0,3,5
+""
+TRI 303,Consecutive Interpretation,TRI 206,3,0,3,5
+""
+TRI 304,Simultaneous Interpretation I,TRI 303,3,0,3,5
+""
+TRI 310,Translation of Political Texts,TRI 102,3,0,3,5
+""
+TRI 311,Community Interpreting,TRI 206,3,0,3,5
+""
+TRI 312,Translation of Economics Texts,TRI 102,3,0,3,5
+""
+TRI 313,Medical Translation,TRI 102,3,0,3,5
+""
+TRI 314,Translation of Legal Texts,TRI 102,3,0,3,5
+""
+TRI 401,Translation History,,3,0,3,5
+""
+TRI 402,Translation Criticism,TRI 301,3,0,3,6
+""
+TRI 404,Senior Project,,3,0,3,9
+""
+TRI 410,Translation of Social Sciences Texts,TRI 102,3,0,3,5
+""
+TRI 411,Proofreading and Editing,TRI 101,3,0,3,5
+""
+TRI 412,Translation of Subtitles and Dubbing for Film and Television,TRI 101,3,0,3,5
+""
+TRI 413,Discourse Analysis,,3,0,3,5
+""
+TRI 414,Turkish-English Litrary Tanslation,TRI 102,3,0,3,5
+""
+TRI 415,Introduction to Cultural Studies,,3,0,3,5
+""
+TRI 416,Internship,,0,0,0,5
+""
+TRI 420,Consecutive Interpreting II,TRI 303,3,0,3,5
+""
+TRI 421,Simultanoues Interpreting II,TRI 304,3,0,3,5
+""
+TRI 422,Media Interpreting,TRI 304,3,0,3,5
+""
+TRI 423,Simultaneous Interpreting Practice in Conference Situations,TRI 304,3,0,3,5
+""
+
+CS 201,Data Structures and Algorithms,"ENGR 101, MATH 104",3,0,3,5
+""
+CS 202,Advanced Algorithms,CS 201,3,0,3,5
+""
+CS 240,Exploratory Data Analysis,"Pre-requisite (ENGR 100 or CS 100), ENGR 251, ENGR 105",3,0,3,4
+""
+CS 350,Database Systems,ENGR 102,3,0,3,5
+""
+CS 351,Computer Architecture,EECS 218,3,0,3,5
+""
+CS 352,Operating Systems,ENGR 102,3,0,3,5
+""
+CS 361,Software,ENGR 102,3,0,3,5
+""
+CS 364,Computer Networks,,3,0,3,5
+""
+CS 381,Object Oriented Programming,ENGR 102,3,0,3,5
+""
+EE 201,Circuit Analysis,"MATH 206, EECS 201",3,2,4,5
+""
+EE 232,Probability and Stochastic Processes,,3,0,3,5
+""
+EE 302,Microelectronic Circuit Design,EE 201,3,1,4,5
+""
+EE 311,Introduction to Electronic Devices,MATH 103,3,0,3,5
+""
+EE 312,Introduction to Communication Systems,EECS 216,3,0,3,5
+""
+EE 321,Electromagnetics,"PHYS 104, MATH 206",3,0,3,5
+""
+EE 322,Electromagnetics II,,3,0,3,5
+""
+EE 324,Control Systems,"Jenior Year Standing, EECS 216",3,0,3,5
+""
+EE 331,Digital Electronics,,3,0,3,5
+""
+EE 332,Microprocessors,EECS 218,3,2,4,5
+""
+EECS 201,System Design Fundamentals,"Pre-requisite (ENGR 100 or CS 100), ENGR 105",3,2,4,6
+""
+EECS 202,Basic Digital Communication with Networking,"Pre-requisite (ENGR 100 or CS 100), Pre-requisite (ENGR 100 or CS 100), ENGR 105",3,2,4,6
+""
+EECS 211,Introduction to Programming,,3,2,3,5
+""
+EECS 214,Unix Operating System,,1,2,2,4
+""
+EECS 216,Signals and Systems,"MATH 104, MATH 206",3,0,3,5
+""
+EECS 218,Digital Logic Design,,3,0,3,5
+""
+EECS 221,Embedded Systems Programming in C,ENGR 101,3,0,3,5
+""
+EECS 241,Discrete Mathematics,MATH 103,3,0,3,4
+""
+EECS 244,Differential Equations and Linear Algebra,,3,0,3,5
+""
+EECS 401,Engineering Practice and Professionalism,At Least Success 90 Crh,2,0,2,2
+""
+EECS 402,Entrepreneurship,At Least Success 90 Crh,2,0,3,5
+""
+EECS 403,Digital Circuit Design,At Least Success 90 Crh,3,0,3,5
+""
+EECS 404,Communication Circuits,At Least Success 90 Crh,3,0,3,5
+""
+EECS 405,RF Circuit Design,At Least Success 90 Crh,3,0,3,5
+""
+EECS 407,Advanced Integrated Analog Circuit Design,At Least Success 90 Crh,3,0,3,5
+""
+EECS 408,Analog-Digital Interface Integrated Circuits,At Least Success 90 Crh,3,0,3,5
+""
+EECS 413,Wireless Communications,At Least Success 90 Crh,3,0,3,5
+""
+EECS 415,Digital Signal Processing,At Least Success 90 Crh,3,0,3,5
+""
+EECS 416,Image and Video Processing,At Least Success 90 Crh,3,0,3,5
+""
+EECS 417,Digital Communication,At Least Success 90 Crh,0,0,3,5
+""
+EECS 418,Information Theory,At Least Success 90 Crh,3,0,3,5
+""
+EECS 420,Software Based Startups,At Least Success 90 Crh,3,0,3,5
+""
+EECS 422,Wave Propagation and Antennas,At Least Success 90 Crh,3,0,3,5
+""
+EECS 423,Optics,At Least Success 90 Crh,3,0,3,5
+""
+EECS 424,Photonics and Lasers,At Least Success 90 Crh,3,0,3,5
+""
+EECS 428,Data Visualization,At Least Success 90 Crh,3,0,3,5
+""
+EECS 429,Multimedia,At Least Success 90 Crh,3,0,3,5
+""
+EECS 432,Mobile Programming,At Least Success 90 Crh,3,0,3,5
+""
+EECS 436,Embedded Sytem Design,At Least Success 90 Crh,3,0,3,5
+""
+EECS 441,Nano and Micro Electro Mechanical System,At Least Success 90 Crh,3,0,3,5
+""
+EECS 451,Database Systems,At Least Success 90 Crh,3,0,3,5
+""
+EECS 456,Principles of Computer Systems,At Least Success 90 Crh,3,0,3,5
+""
+EECS 457,Performance Engineering of Software Systems,At Least Success 90 Crh,3,0,3,5
+""
+EECS 461,Machine Learning,At Least Success 90 Crh,3,0,3,5
+""
+EECS 462,"Automata Theory, Languages and Computation",At Least Success 90 Crh,3,0,3,5
+""
+EECS 464,Computer Vision,At Least Success 90 Crh,3,0,3,5
+""
+EECS 465,Introduction to Robotics,At Least Success 90 Crh,3,0,3,5
+""
+EECS 466,Enterprise Software Development,At Least Success 90 Crh,0,0,3,5
+""
+EECS 468,Bioinformatics,At Least Success 90 Crh,3,0,3,5
+""
+EECS 471,Distributed Algorithms,At Least Success 90 Crh,3,0,3,5
+""
+EECS 474,Networks,At Least Success 90 Crh,3,0,3,5
+""
+EECS 476,Advanced Computer Networks,At Least Success 90 Crh,3,0,3,5
+""
+EECS 481,Cryptography,At Least Success 90 Crh,3,0,3,5
+""
+EECS 482,Cryptographic Engineering,At Least Success 90 Crh,3,0,3,5
+""
+EECS 483,Network Security,At Least Success 90 Crh,3,0,3,5
+""
+EECS 486,Computational Genomics,At Least Success 90 Crh,3,0,3,5
+""
+ENGR 313,Scientific Computing,,3,2,4,6
+""
+ENGR 314,Database Management,,2,2,3,5
+""
+ENGR 422,Numerical Methods,,3,0,3,5
+""
+ENGR 461,Computer Aided Engineering (CAE),,3,0,3,5
+""
+MATH 206,Differential Equations,MATH 103,3,0,3,4
+""
+EECS 487,Cryptography and Cyber Security,At Least Success 90 Crh,3,0,3,5
+""
+EECS 489,Deep Learning for Natural Language Processing,At Least Success 90 Crh,3,0,3,5
+""
+ENGR 201,Technical Drawing,ENGR 100,2,2,3,5
+""
+
+ENGR 314,Database Management,,2,2,3,5
+""
+ENGR 422,Numerical Methods,,3,0,3,5
+""
+ENGR 461,Computer Aided Engineering (CAE),,3,0,3,5
+""
+IE 333,Quality Engineering and Reliability,,3,0,3,5
+""
+IE 371,Ergonomics,,3,0,3,5
+""
+IE 426,Nonlinear Programming,At Least Success 90 Crh,2,2,3,5
+""
+IE 427,Graph Theory,At Least Success 90 Crh,0,0,3,5
+""
+IE 434,Data Mining,At Least Success 90 Crh,0,0,3,5
+""
+IE 435,Forecasting and Time Series,At Least Success 90 Crh,0,0,3,5
+""
+IE 438,Design of Experiments,At Least Success 90 Crh,3,0,3,5
+""
+IE 442,Advanced Materials Science for Engineers,At Least Success 90 Crh,0,0,3,5
+""
+IE 445,Modern Manufacturing Technologies,At Least Success 90 Crh,3,0,3,5
+""
+IE 448,Product Design and Innovation,At Least Success 90 Crh,0,0,3,5
+""
+IE 450,Nanomanufacturing and Devices,At Least Success 90 Crh,3,0,3,5
+""
+IE 452,Stochastic Processes and Queueing,At Least Success 90 Crh,3,0,3,5
+""
+IE 458,Scheduling and Sequencing,At Least Success 90 Crh,3,0,3,5
+""
+IE 462,Supply Chain Management,At Least Success 90 Crh,3,0,3,5
+""
+IE 465,Integrated Business Processes in ERP,At Least Success 90 Crh,3,0,3,5
+""
+IE 488,Agile Methods,At Least Success 90 Crh,3,0,3,5
+""
+IE 493,Seminars in Industrial Engineering,At Least Success 90 Crh,3,0,3,5
+""
+IE 494,Special Topics in Industrial Engineering,At Least Success 90 Crh,3,0,3,5
+""
