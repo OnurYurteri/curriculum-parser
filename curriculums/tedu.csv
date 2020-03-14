@@ -1,0 +1,65 @@
+
+ENG 101,Akademik İngilizce Becerileri,2,2,0,3,5
+CC,Sci/Soc/Hum/Lit/Art,3,0,0,3,5
+PHYS 105,Fizik I,3,0,2,4,6
+MATH 101,Tek Değişkenli Analiz,3,2,0,4,7
+HIST 101,Türkiye Cumhuriyeti Tarihi I,2,0,0,2,2
+CMPE 101,Bilgi Teknolojilerine Giriş,2,0,2,3,5
+ ,Yarıyıl Kredileri,15,4,4,19,30
+
+MATH 102,Çok Değişkenli Analiz,3,2,0,4,7
+CMPE 112,Programlamanın Temelleri I,1,0,4,3,6
+ENG 102,Akademik Yazma,2,2,0,3,5
+CC,Sci/Soc/Hum/Lit/Art,3,0,0,3,5
+CC,Sci/Soc/Hum/Lit/Art,3,0,0,3,5
+HIST 102,Türkiye Cumhuriyeti Tarihi II,2,0,0,2,2
+ ,Yarıyıl Kredileri,14,4,4,18,30
+
+MATH 203,Doğrusal Cebir ve Türevsel Denklemler,3,0,0,3,5
+ECON 110,Ekonominin İlkeleri,3,0,0,3,5
+CC,Sci/Soc/Hum/Lit/Art,3,0,0,3,5
+ME 221,İmalat Süreçleri,3,0,0,3,6
+TUR 101,Türkçe I,2,0,0,2,2
+MATH 230,Olasılık Teorisine Giriş,3,0,0,3,6
+ ,Yarıyıl Kredileri,17,0,0,17,29
+
+MATH 232,İstatistik'e Giriş,3,0,0,3,6
+IE 212,Yalın Süreç Tasarımı,3,0,0,3,6
+IE 222,Mühendislik Ekonomisi ve Maliyet Analizi,3,0,0,3,6
+IE 232,Matematiksel Modelleme ve Optimizasyon I,3,0,0,3,6
+CC,Sci/Soc/Hum/Lit/Art,3,0,0,3,5
+TUR 102,Türkçe II,2,0,0,2,2
+ ,Yarıyıl Kredileri,17,0,0,17,31
+
+CMPE 232,İlişkisel Veritabanları,3,0,0,3,5
+IE 311,İmalat ve Hizmet Operasyonları Planlaması I,3,0,0,3,6
+IE 331,Matematiksel Modelleme ve Optimizasyon II,3,0,0,3,6
+IE 341,Benzetim,2,0,2,3,7
+IE 399,Yaz Stajı,1,0,0,1,2
+ED,Secondary Field,3,0,0,3,5
+ ,Yarıyıl Kredileri,15,0,2,16,31
+
+IE 312,İmalat ve Hizmet Operasyonları Planlaması II,3,0,0,3,6
+IE 316,Kalite Planlaması ve Kontrolü,3,0,0,3,7
+IE 332,Matematiksel Modelleme ve Optimizasyon III,3,0,0,3,6
+IE,Bölüm Seçmeli Dersleri,3,0,0,3,5
+ED,Secondary Field,3,0,0,3,5
+ ,Yarıyıl Kredileri,15,0,0,15,29
+
+TEDU 400,Öğrenci Gelişimi Semineri,0,0,0,0,1
+IE 499,Yaz Stajı II,1,0,0,1,2
+IE 491,Bitirme Projesi I,1,4,0,3,6
+IE,Bölüm Seçmeli Dersleri,3,0,0,3,5
+ED,Secondary Field,3,0,0,3,5
+FREE,Serbest Seçmeli,3,0,0,3,5
+FREE,Serbest Seçmeli,3,0,0,3,5
+ ,Yarıyıl Kredileri,14,4,0,16,29
+
+IE 492,Bitirme Projesi II,1,4,0,3,6
+IE,Bölüm Seçmeli Dersleri,3,0,0,3,5
+ED,Secondary Field,3,0,0,3,5
+ED,Secondary Field,3,0,0,3,5
+FREE,Serbest Seçmeli,3,0,0,3,5
+FREE,Serbest Seçmeli,3,0,0,3,5
+ ,Yarıyıl Kredileri,16,4,0,18,31
+, Mezuniyet için gerekli toplam kredi ,123,16,10,136,240

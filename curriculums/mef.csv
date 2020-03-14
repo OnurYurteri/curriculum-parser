@@ -1,0 +1,81 @@
+
+
+COMP 109,Computer Programming (JAVA),6,4,
+MATH 115,Calculus I,7,4,
+PHYS 103,Physics I,6,3,PHYS 103L (yan koşul)
+PHYS 103L,Physics I Lab,2,1,PHYS 103 (yan koşul)
+IE 100,Introduction to Industrial Engineering,3,2,
+ENG 101,English for Academic Purposes I,4,2,
+TURK 111,Turkish Language and Literature I,2,1,
+,,30,17,
+
+
+MATH 116,Calculus II,7,4,MATH 115
+PHYS 104,Physics II,6,3,PHYS 104L (yan koşul)
+PHYS 104L,Physics II Lab,2,1,PHYS 104 (yan koşul)
+IE 104,Computational Methods for Industrial Engineering,6,3,COMP 109
+ENG 102,English for Academic Purposes II,4,2,
+ECON 112,Economics for Engineering,5,2,
+,,30,15,
+
+
+MATH 211,Linear Algebra,6,3,
+MATH 227,Probability and Statistics for Engineering I,7,3.5,
+IE 201,Engineering Economics,5,3,
+IE 205,Manufacturing Systems,5,3,
+HISTR 211,Principles of Ataturk and History of the Turkish Republic I,2,1,
+MATH 108,Discrete and Combinatorial Mathematics,5,3,
+,,30,16.5,
+
+
+IE 202,Operations Research I,6,3,MATH 211
+ACCT 204,Financial and Managerial Accounting,5,3,
+IE 208,Operations and Facilities Design,5,3,IE 202 (yan koşul)
+MATH 228,Probability and Statistics for Engineering II,7,3.5,MATH 227
+HISTR 212,Principles of Ataturk and History of the Turkish Republic II,2,1,
+,Required HUM/SOC 100-Level Component,5,3,
+,,30,16.5,
+
+
+IE 301,Operations Research II,6,3,MATH 227
+IE 303,Production Planning and Control,6,3,"IE 202, MATH 227"
+IE 307,Modeling and Methods in Optimization,7,3.5,IE 202
+,Science Elective,5,3,
+ENGR 301,Technical Report Writing and Presentation,4,2,
+IE 200,IE Engineering Practice I,2,1,
+,,30,15.5,
+
+
+IE 302,Quality Engineering,5,3.5,MATH 228
+IE 304,Simulation,6,3.5,MATH 228
+IE 306,Supply Chain Management,6,3,IE 303
+TURK 112,Turkish Literature and Language II,2,1,
+,IE Elective,6,3,
+,Free Elective,5,3,
+,,30,17,
+
+
+IE 401,Information Systems,5,3,
+IE 491,IE Senior Design Project I,6,3,Son sınıf öğrencileri
+IE 300,IE Engineering Practice II,2,1,
+,IE Elective,6,3,
+,IE Elective,6,3,
+,Social Science Elective,5,3,
+,,30,16,
+
+
+ENTR 400,Business Skills & Entrepreneurship,5,3,
+IE 492,IE Senior Design Project II,6,3,IE 491
+HUM 300,Engineering Ethics,3,2,
+,IE Elective,6,3,
+,Free Elective,5,3,
+,Free Elective,5,3,
+,,30,17,
+Toplam,,240,130.5,
+Ders Kodu,Ders Adı,AKTS,Kredi
+IE 332,Exploratory Data Analytics,6,3
+IE 431,Introduction to Financial Engineering,6,3
+IE 432,Marketing Analytics,6,3
+IE 433,Decision Analysis,6,3
+IE 434,Transportation and Logistics,6,3
+IE 436,Selected Topics in IE,6,3

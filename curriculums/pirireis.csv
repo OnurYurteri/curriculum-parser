@@ -1,0 +1,136 @@
+Endüstri Mühendisliği Yeni Ders Programı
+SÖMESTR 1
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+MATH 112,Matematik I,3,2,0,4,6
+PHYS 112,Fizik I,3,0,0,3,4
+PHYS 112 L,Fizik I Lab.,0,0,2,1,1
+CHEM 112,Kimya,3,0,0,3,4
+CHEM 112L,Kimya Lab.,0,0,2,1,1
+IND 121,Endüstri Mühendisliğine Giriş,2,0,0,2,3
+MATH 113,Lineer Cebir,2,1,0,"2,5",4
+ENG 112,Bilgisayar Teknolojilerine Giriş ve Programlama,2,0,2,3,4
+ELECT 111,Seçmeli Ders (Serbest Seçmeli),2,1,0,"2,5",3
+TURK 001,Türk Dili I,2,0,0,NC,NC
+,,,,,22,30
+SÖMESTR 2
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+MATH 122,Matematik II,3,2,0,4,6
+PHYS 122,Fizik II,3,0,0,3,4
+PHYS 122 L,Fizik II Lab.,0,0,2,1,1
+ENG 125,Akademik İngilizce,0,2,0,1,2
+ENG 122,Bilgisayar Destekli Teknik Resim,1,0,2,2,2
+IND 124,İmal Usulleri,1,0,3,"2,5",4
+IND 125,Finansal ve Maliyet Muhasebesi,3,0,0,3,6
+ELECT 121,Seçmeli Ders (Serbest Seçmeli),2,1,0,"2,5",3
+ENG 01,Staj,0,0,0,0,2
+TURK 002,Türk Dili II,2,0,0,NC,NC
+,,,,,19,30
+SÖMESTR 3
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+IND 213,Endüstriyel Sistemlerde Veri İşleme,3,0,0,3,5
+ENG 215,Diferansiyel Denklemler,4,0,0,4,5
+IND 214,Yönetim ve Organizasyon,3,0,0,3,5
+ENG 313,Ekonomi,2,0,0,2,3
+IND 216,Olasılık Teorisi,3,0,0,3,4
+ELECT 211,Seçmeli Ders (Serbest Seçmeli),2,1,0,"2,5",3
+ELECT 212,Seçmeli Ders (Serbest Seçmeli),3,0,0,3,5
+ATA 001,Atatürk İlkeleri ve İnkılap Tarihi I,2,0,0,NC,NC
+,,,,,"20,5",30
+SÖMESTR 4
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+IND 223,Mühendislik Mekaniği,3,0,0,3,5
+IND 224,Tesis Tasarım ve Planlaması,3,0,0,3,5
+IND 225,İstatistik,3,0,0,3,4
+IND 245,Ergonomi,3,0,0,3,5
+IND 246,Mühendislik Ekonomisi,3,0,0,3,5
+ELECT 221,Seçmeli Ders (Alan Seçmeli),3,0,0,3,4
+ENG 02,Staj,,,,0,2
+ATA 002,Atatürk İlkeleri ve İnkılap Tarihi II,2,0,0,NC,NC
+,,,,,18,30
+SÖMESTR 5
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+IND 311,Yöneylem Araştırması I,3,0,0,3,5
+IND 312,Bilgisayar Destekli Üretim Sistemleri ve Otomasyon,2,0,1,"2,5",4
+IND 313,Üretim Planlama ve Kontrol,3,0,0,3,5
+IND 314,İş Sistemleri Analizi,3,0,0,3,4
+IND 315,Kurumsal Kaynak Planlaması,2,1,0,"2,5",3
+ELECT 311,Seçmeli Ders (Alan Seçmeli),3,0,0,3,4
+ELECT 312,Seçmeli Ders (Alan Seçmeli),3,0,0,3,5
+,,,,,20,30
+SÖMESTR 6
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+IND 321,Yöneylem Araştırması II,3,0,0,3,5
+IND 322,Simulasyon Teorisi,3,0,0,3,5
+IND 323,İstatistiksel Kalite Kontrol,3,0,0,3,5
+IND 324,Envanter ve Malzeme Yönetimi,3,0,0,3,4
+ELECT 321,Seçmeli Ders (Alan Seçmeli),2,1,0,"2,5",4
+ELECT 322,Seçmeli Ders (Alan Seçmeli),3,0,0,3,5
+ENG 03,Staj,,,,0,2
+,,,,,"17,5",30
+SÖMESTR 7
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+IND 411,Endüstri Mühendisliğinde Özel Konular,3,0,0,3,7
+IND 412,Bitirme Projesi I,3,0,0,3,8
+IND 413,Toplam Kalite Yönetimi,3,0,0,3,5
+ELECT 411,Seçmeli Ders (Alan Seçmeli),3,0,0,3,5
+ELECT 412,Seçmeli Ders (Alan Seçmeli),3,0,0,3,5
+,,,,,15,30
+SÖMESTR 8
+Ders Kodu,Ders Adı,T,U,L,Kredi,AKTS
+IND 421,Özel Projeler,3,0,0,3,8
+IND 422,Bitirme Projesi II,3,0,0,3,8
+ELECT 421,Seçmeli Ders (Alan Seçmeli),3,0,0,3,4
+ELECT 422,Seçmeli Ders (Alan Seçmeli),3,0,0,3,5
+ELECT 423,Seçmeli Ders (Alan Seçmeli),3,0,0,3,5
+,,,,,15,30
+,,,,,,
+,,Total Credits,147,240
+,,,,,,
+Ders kodu,Serbest Seçmeli Ders Adı,T,U,L,Kredi,AKTS
+HUM 001,İnsan ve Toplum,2,1,0,"2,5",3
+HUM 002,Bilim Felsefesi,2,1,0,"2,5",3
+HUM 003,Kültür Tarihi,2,1,0,"2,5",3
+HUM 004,Bilim ve Teknoloji Tarihi,2,1,0,"2,5",3
+HUM 005,Denizcilik Kültürü ve Tarihi,2,1,0,"2,5",3
+HUM 006,Felsefe Sinemaya Gidiyor,2,1,0,"2,5",3
+HUM 007,Uluslararası ilişkiler ve Küreselleşme,2,1,0,"2,5",3
+HUM 008,Modern Zamanlarda Bilim ve Toplum,2,1,0,"2,5",3
+HUM 009,Yabancı Dil (Almanca-Fransızca-Rusça),2,1,0,"2,5",3
+IND 113,Mühendisliğin Temelleri,2,1,0,"2,5",3
+IND 114,Mühendislik ve Bilimde Etik,2,1,0,"2,5",3
+IND 115,Malzeme Bilimi ve İmalat,2,1,0,"2,5",3
+IND 217,Çevre Bilimlerine Giriş,3,0,0,3,5
+ENG 100,İş İngilizcesi I,3,0,0,3,5
+FRA 102,Fransızca I,3,0,0,3,5
+RUS 101,Temel Rusça I,3,0,0,3,5
+CHN 101,Temel Çince I,3,0,0,3,5
+,,,,,,
+,,,,,,
+Ders kodu,Alan Seçmeli Ders Adı,T,U,L,Kredi,AKTS
+EE 464,Internet Teknolojileri,3,0,0,3,4
+IND 226,İş Sağlığı ve Güvenliği,3,0,0,3,4
+IND 227,Endüstri 4.0,3,0,0,3,4
+EE 442,Yapay Zeka,3,0,0,3,4
+IND 228,Stratejik Yönetim,3,0,0,3,4
+IND 229,Lojistik Yönetimi,3,0,0,3,4
+YBS317,Sistem Analizi ve Tasarımı,3,0,0,3,5
+UİT305,Proje Yönetimi,3,0,0,3,5
+IND 317,Öngörü ve Zaman Serisi Analizleri,3,0,0,3,5
+ULT323,Depolama ve Malzeme Elleçleme,3,0,0,3,5
+IND 318,Bilgisayar Destekli İstatistiksel Analiz,3,0,0,3,5
+IND 319,Bilimsel Araştırma Yöntemleri,3,0,0,3,5
+IND 327,Yalın Üretim,2,1,0,"2,5",4
+IND 328,Orta Düzey Programlama,2,1,0,"2,5",4
+IND 329,Endüstriyel Psikoloji,2,1,0,"2,5",4
+UİT400,Yenilikçilik ve Girişimcilik,3,0,0,3,5
+YBS405,Büyük Veri Analitiği,3,0,0,3,5
+ULT412,Tedarik Zinciri Yönetimi,3,0,0,3,5
+YBS416,Veri Madenciliği,3,0,0,3,5
+UİT403,Müşteri İlişkileri Yönetimi,3,0,0,3,5
+IND 423,Karar Teorisi,3,0,0,3,4
+IND 424,Tam Zamamında Üretim Sistemleri,3,0,0,3,4
+ULT321,Lojistikte Planlama ve Modelleme,3,0,0,3,5
+ULT322,Lojistik Bilgi Sistemleri,3,0,0,3,5
+UİT404,İnsan Kaynakları Yönetimi,3,0,0,3,5
+UİT405,Marka Yönetimi,3,0,0,3,5
+YBS304,E-iş ve E-ticaret,3,0,0,3,5

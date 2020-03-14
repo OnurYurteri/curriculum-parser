@@ -1,0 +1,708 @@
+
+
+1,"
+ING104
+",-,Matematik I,Zorunlu,6,4,0,10,"
+"
+2,"
+ING114
+",-,Fizik I,Zorunlu,3,2,1,7,"
+"
+3,"
+ING125
+",-,Kimya I,Zorunlu,1,0,1,3,"
+"
+4,"
+ING132
+",-,Bilgisayar I,Zorunlu,1,0,2,3,"
+"
+5,"
+IND101
+",-,Endüstri Mühendisliğine Giriş,Zorunlu,2,0,0,3,"
+"
+"
+Not:(1) Fransızca Hazırlık sınıfından gelen ve Fransızca seviye tespit sınavında başarısız olan öğrenciler, Yabancı Dil dersi olarak Fransızca dersini alırlar. 
+(2)Fransızca seviye tespit sınavını başarmış olup, İngilizce seviye tespit sınavında başarısız olan öğrenciler, Yabancı Dil dersi olarak, Yabancı Dil Bölümü’nün öğrencinin seviyesine uygun olarak açacağı İngilizce dersini alırlar.(3) Fransızca ve İngilizce seviyeleri istenen düzeyde olan öğrenciler, Yabancı Dil Bölümü’nün açacağı diğer dil derslerini alırlar.
+
+"
+
+
+1,"
+ING105
+",-,Matematik II,Zorunlu,6,4,0,10,"
+"
+2,"
+ING115
+",-,Fizik II,Zorunlu,4,2,1,7,"
+"
+3,"
+ING126
+",-,Kimya II,Zorunlu,1,0,1,3,"
+"
+4,"
+ING133
+",-,Bilgisayar II,Zorunlu,1,0,2,3,"
+"
+5,"
+ING144
+",-,Teknik Resim,Zorunlu,1,1,0,3,"
+"
+6,"
+CNT105
+",-,Türkçe II,Zorunlu,0,2,0,2,"
+"
+
+
+1,"
+ING203
+",-,Yüksek Matematik I,Zorunlu,3,2,0,5,"
+"
+2,"
+ING207
+",-,Lineer Cebir,Zorunlu,2,2,0,5,"
+"
+3,"
+ING215
+",-,Elektrik Ve Elektronik,Zorunlu,2,2,0,5,"
+"
+4,"
+ING216
+",-,Termodinamik,Zorunlu,1,1,0,2,"
+"
+5,"
+ING217
+",-,Mekanik,Zorunlu,2,0,0,2,"
+"
+6,"
+ING231
+",-,Algoritma Ve İleri Bilg. Programlama,Zorunlu,2,0,2,5,"
+"
+7,"
+CNT211
+",-,İnkılap Tarihi I,Zorunlu,2,0,0,2,"
+"
+8,"
+CNT214
+",-,İş Güvenliği ve Sağlığı,Seçmeli,2,0,0,2,"
+"
+9,"
+CNT232
+",-,Genel Muhasebe,Seçmeli,2,0,0,2,"
+"
+"
+Notlar:		Önerilen seçmeli derslerden, 1 adet ders seçilecektir.
+"
+
+
+1,"
+ING204
+",-,Yüksek Matematik II,Zorunlu,4,2,0,6,"
+"
+2,"
+ING208
+",-,Diferansiyel Denklemler,Zorunlu,2,1,0,4,"
+"
+3,"
+ING224
+",-,Bilişim Teknolojilerine Giriş,Zorunlu,3,0,0,4,"
+"
+4,"
+IND211
+",-,Olasılık,Zorunlu,3,0,0,4,"
+"
+5,"
+IND232
+",-,Üretim Yöntemleri ve Malzeme Bilimi,Zorunlu,3,0,0,4,"
+"
+6,"
+CNT212
+",-,İnkılap Tarihi II,Zorunlu,2,0,0,2,"
+"
+7,"
+IND299
+",-,Staj,Zorunlu,0,0,2,2,"
+"
+8,"
+CNT233
+",-,Maliyet Muhasebesi,Seçmeli,2,0,0,2,"
+"
+9,"
+CNT242
+",-,İktisada Giriş,Seçmeli,2,0,0,2,"
+"
+"
+Notlar:		Önerilen seçmeli derslerden, 1 adet ders seçilecektir.
+"
+
+
+1,"
+IND314
+",-,İstatistik,Zorunlu,4,0,0,4,"
+"
+2,"
+IND334
+",-,Bilgisayar Destekli İmalat Sistemleri,Zorunlu,3,0,0,4,"
+"
+3,"
+IND371
+",ING207,Yöneylem Araştırması I,Zorunlu,4,0,0,5,"
+"
+4,"
+IND373
+",-,Sistem Analizi,Zorunlu,3,0,0,4,"
+"
+5,"
+IND344
+",-,Endüstriyel Ekoloji Ve Sürdürülebilir Mühendislik,Seçmeli,3,0,0,4,"
+"
+6,"
+IND356
+",ING231,Veri Tabanı Yönetimi,Seçmeli,3,0,0,4,"
+"
+7,"
+IND357
+",-,Yeni Ürün ve İş Geliştirme Yöntemleri,Seçmeli,3,0,0,4,"
+"
+8,"
+IND358
+",-,Verimlilik Yönetimi,Seçmeli,3,0,0,4,"
+"
+9,"
+IND376
+",ING204,Sayısal Analiz,Seçmeli,3,0,0,4,"
+"
+10,"
+CNT342
+",-,Mikro Ekonomi,Seçmeli,2,0,0,2,"
+"
+11,"
+CNT363
+",-,Mühendislik Etiği,Seçmeli,2,0,0,2,"
+"
+"
+Notlar: Önerilen seçmeli derslerden, CNT grubundan 1 adet ve IND grubundan 2 adet olmak üzere 3 adet ders seçilecektir.
+"
+
+
+1,"
+IND304
+",IND373 VE IND314,Modelleme Ve Simülasyon,Zorunlu,3,0,0,5,"
+"
+2,"
+IND321
+",-,Mühendislik Ekonomisi,Zorunlu,2,0,2,4,"
+"
+3,"
+IND336
+",-,Üretim Planlama Ve Kontrol,Zorunlu,3,0,0,4,"
+"
+4,"
+IND372
+",ING207 VE IND211,Yöneylem Araştırması II,Zorunlu,4,0,0,5,"
+"
+5,"
+IND398
+",-,Staj,Zorunlu,0,0,3,3,"
+"
+6,"
+IND345
+",-,Ergonomi,Seçmeli,3,0,0,4,"
+"
+7,"
+IND359
+",IND373,Hizmet Sistemleri,Seçmeli,3,0,0,4,"
+"
+8,"
+IND362
+",-,Proje Yönetimine Giriş,Seçmeli,3,0,0,4,"
+"
+9,"
+IND375
+",IND371,Uygulamalarla Matematiksel Modelleme,Seçmeli,3,0,0,4,"
+"
+10,"
+IND377
+",IND371,Oyun Teorisine Giriş,Seçmeli,3,0,0,4,"
+"
+"
+Notlar: Önerilen seçmeli derslerden 2 adet ders seçilecektir.
+"
+
+
+1,"
+IND413
+",IND211,Kalite Mühendisliği,Zorunlu,2,2,0,5,"
+"
+2,"
+IND438
+",-,Üretim Yönetimi,Zorunlu,3,0,0,5,"
+"
+3,"
+IND454
+",-,Yönetim Bilişim Sistemleri ve İş Analitiği,Zorunlu,3,0,0,5,"
+"
+4,"
+IND495
+",-,Endüstri Mühendisliğinde Araştırma Yöntemleri,Zorunlu,2,0,0,3,"
+"
+5,"
+IND401
+",IND371 VE IND211,Decision Analysis,Seçmeli,3,0,0,4,"
+                                                     &check;
+                                            "
+6,"
+IND403
+",IND371,Ağ Modelleri,Seçmeli,3,0,0,4,"
+"
+7,"
+IND405
+",IND211,Introduction To Stochastic Processes,Seçmeli,3,0,0,4,"
+                                                     &check;
+                                            "
+8,"
+IND437
+",-,Tedarik Zinciri Yönetimi,Seçmeli,3,0,0,4,"
+"
+9,"
+IND443
+",-,Yönetim ve Organizasyon,Seçmeli,3,0,0,4,"
+"
+10,"
+IND458
+",-,İnsan Kaynakları Yönetimi,Seçmeli,3,0,0,4,"
+"
+"
+Notlar:	(1) Önerilen seçmeli derslerden 3 adet ders seçilecektir. 
+(2) İngilizce yapılacak seçmeli derslerden sadece 1 adet ders seçilebilir. Öğrencilerin, İngilizce yapılacak seçmeli derse yazılabilmeleri için İngilizce dersinden muaf olmaları gerekmektedir.
+
+"
+
+
+1,"
+IND423
+",-,Finans Mühendisliği,Zorunlu,3,0,0,5,"
+"
+2,"
+IND462
+",-,Tesis Planlama,Zorunlu,3,0,0,4,"
+"
+3,"
+IND482
+",-,Endüstri Mühendisliğinde Güncel Konular ve Uygulamaları,Zorunlu,2,0,0,3,"
+"
+4,"
+CNT476
+",-,İş Hukuku,Zorunlu,2,0,0,2,"
+"
+5,"
+IND492
+",-,Bitirme Projesi,Zorunlu,0,6,0,9,"
+"
+6,"
+IND494
+",IND495,Bitirme Projesi,Zorunlu,0,3,0,6,"
+"
+7,"
+IND404
+",IND304,Sistem Dinamiği,Seçmeli,3,0,0,4,"
+"
+8,"
+IND422
+",IND321,Investment Analysis,Seçmeli,3,0,0,4,"
+                                                     &check;
+                                            "
+9,"
+IND433
+",-,Enterprıse Resources Planing,Seçmeli,3,0,0,4,"
+                                                     &check;
+                                            "
+10,"
+IND436
+",-,Inventory Management,Seçmeli,3,0,0,4,"
+                                                     &check;
+                                            "
+11,"
+IND456
+",-,Toplam Kalite Yönetimi,Seçmeli,3,0,0,4,"
+"
+12,"
+CNT472
+",-,Şirket Yönetimi Ve Girişimcilik,Seçmeli,2,0,0,2,"
+"
+13,"
+CNT474
+",-,Risk Analizi ve Yönetimi,Seçmeli,2,0,0,2,"
+"
+14,"
+CNT475
+",-,Rekabet ve Pazarlama Yönetimi,Seçmeli,2,0,0,2,"
+"
+"
+Notlar:		(1) Önerilen seçmeli derslerden, CNT grubundan 1 adet, IND grubundan 2 adet olmak üzere 3 adet seçmeli ders seçilecektir.
+(2) İngilizce yapılacak seçmeli derslerden sadece 1 adet ders seçilebilir. Öğrencilerin, İngilizce yapılacak seçmeli derse yazılabilmeleri için İngilizce dersinden muaf olmaları gerekmektedir.(3) CNT 271 İş Hukuku dersini almış ve başarmış olan öğrencilerin, CNT 476 İş Hukuku dersi yerine CNT seçmeli grubundan ek bir ders seçmesi gerekmektedir.(4) 4. sınıf güz yarıyılında Erasmus+ programı ile yurtdışına giden öğrencilerin IND492 Bitirme Projesi dersini, diğer öğrencilerin IND 494 Bitirme Projesi dersini almaları gerekmektedir.
+"
+
+"
+
+
+
+T.C. GALATASARAY ÜNİVERSİTESİ Lisans Seviyesi Yabancı Dil Eğitimi
+
+
+
+
+
+                            Ders alma yükümlülükleri ve mezuniyete hak kazanma
+                        
+
+
+
+
+MADDE 7 – (1) Fransızca dil hazırlık sınıfına kabul edilip bu sınıfın bütün derslerini başarı ile tamamlayan öğrencilerin, kayıtlı oldukları lisans programından mezun olmaya hak kazanabilmeleri için, öğrenimleri süresince yabancı diller bölümü tarafından verilen toplamda 8 kredi değerinde dersten başarılı olmaları gerekir.(2) Fransızca muafiyet sınavına giren ve bu sınavdan başarılı olan öğrencilerin, kayıtlı oldukları lisans programından mezun olmaya hak kazanabilmeleri için, öğrenimleri süresince yabancı diller bölümü tarafından verilen toplamda 12 kredi değerinde dersten başarılı olmaları gerekir.(3) Fransızca muafiyet sınavına katıldığı halde bu sınavdan başarısız olan öğrencilerin, kayıtlı oldukları lisans programından mezun olmaya hak kazanabilmeleri için, öğrenimleri süresince yabancı diller bölümü tarafından verilen toplamda 8 kredi değerinde dersten başarılı olmaları gerekir.(4) Fransız bakaloryasına sahip olduğunu belgeleyen öğrencilerin, kayıtlı oldukları lisans programından mezun olmaya hak kazanabilmeleri için, öğrenimleri süresince yabancı diller bölümü tarafından verilen toplamda 12 kredi değerinde dersten başarılı olmaları gerekir.(5) Başka bir yükseköğretim kurumundan yatay geçiş yoluyla Üniversitenin bir lisans programına kaydolmuş öğrencilerin mezuniyet hakkı kazanabilmeleri için, ilgili programa üçüncü yarıyılda kayıt yaptırmışlarsa öğrenimleri süresince yabancı diller bölümü tarafından verilen toplamda 12 kredi, beşinci yarıyılda kayıt yaptırmışlarsa toplamda 8 kredi değerinde dersten başarılı olmaları gerekir.(6) Kayıtlı olduğu fakültenin fakülte yönetim kurulu kararı ile bir öğrenci değişim programına katılıp yurtiçinde veya yurtdışında bulunan bir yükseköğretim kurumunda öğrenim gören öğrencinin, mezun olmaya hak kazanabilmesi için öğrenimi süresince yabancı diller bölümü tarafından verilen derslerden başarılı sayılması için gerekli kredi miktarı, Üniversite dışında öğrenim gördüğü her yarıyıl için 2 kredi eksiltilerek hesaplanır.(7) Bu Yönetmelik kapsamındaki lisans programlarından birine kayıtlı öğrenci, en az İngilizce CEF B2 seviyesini karşılamadıkça ilgili lisans programından mezun olmaya hak kazanamaz.(8) Üniversitenin bir çift anadal programı dahilinde birden fazla lisans programına kayıtlı olan öğrenci, devam ettiği lisans programlarından biri kapsamında yabancı diller bölümü tarafından verilen ve bir kez başarılı olarak tamamladığı dersten, kayıtlı olduğu diğer lisans programı kapsamında da başarılı sayılır.
+
+
+
+
+
+
+
+                            Yabancı Dil Eğitimi Sistemi
+                        
+
+
+
+
+
+
+
+
+
+
+
+Hazırlık sınıfını başarıyla tamamlayan ve/veya Fransızca Seviye Tespit Sınavı’nda başarısız olan öğrenciler lisans eğitimlerinin ilk senesinde Fransızca B2 seviyesi dersleri alırlar.
+Fransızca B2 seviyesi derslerine en az bir kere yazılmış olan öğrenciler, bu derslerden başarısız olsalar bile, İngilizce Seviye Tespit Sınavı’na girerler ve bu sınavın sonucuna göre lisans eğitimlerinin ikinci senesinde Yabancı Diller Bölümü tarafından sunulan derslere yazılırlar.
+İngilizce Seviye Tespit Sınavı’nda başarısız olan öğrenciler seviyelerine uygun sınıflara yerleştirilirler.
+İngilizce B2 seviyesini karşılayan öğrenciler almaları gereken kredileri tamamlamak için İleri İngilizce, Almanca veya İspanyolca derslerine yazılırlar.
+İngilizce veya Almanca eğitim-öğretim yapan liselerin mezunlarının B2 seviyesini karşıladıkları kabul edilir.
+Her ders dönemliktir ve 2 krediye denk gelir. Öğrencinin mezun olabilmesi için lisans eğitimi boyunca toplam 12 kredi değerinde dil dersinden başarılı olması ve bununla birlikte İngilizce B2 seviyesini de karşılaması zorunludur.
+Erasmus programına katılan öğrencilerin alması gereken toplam kredi miktarı, Üniversite dışında öğrenim gördükleri her yarıyıl için 2 kredi eksiltilerek hesaplanır.
+
+
+
+
+
+
+
+
+
+                            Derslerin İşlenmesi
+                        
+
+
+
+
+
+
+
+
+Güz Yarıyılı
+Ön koşul
+Bahar Yarıyılı
+Ön koşul
+
+
+
+
+FLE101 İngilizce A1-A2.1
+-
+FLE201 İngilizce CEF A1-A2.2
+-
+
+
+FLE102 İngilizce B1.1
+FLE101-201
+FLE202 İngilizce CEF B1.2
+FLE101-201
+
+
+FLE103 İngilizce B2.1
+FLE102-202
+FLE203 İngilizce CEF B2.2
+FLE102-202
+
+
+FLE105 İleri    Seviye İngilizce Yazılı Anlatım I
+İngilizce B2 ve üstü seviye
+FLE205 İleri Seviye İngilizce Yazılı Anlatım II
+İngilizce B2 ve üstü seviye
+
+
+FLE106 İleri    Seviye İngilizce Sözlü Anlatım I
+İngilizce B2 ve üstü seviye
+FLE206 İleri Seviye İngilizce Sözlü Anlatım II
+İngilizce B2 ve üstü seviye
+
+
+FLE107 TOEFL Hazırlık I
+İngilizce B2 ve üstü seviye
+FLE207 TOEFL Hazırlık II
+İngilizce B2 ve üstü seviye
+
+
+FLG101 Almanca A1.1
+İngilizce B2 ve üstü seviye
+FLG201 Almanca A1.2
+İngilizce B2 ve üstü seviye
+
+
+FLG102 Almanca A2.1
+FLG 101-201
+FLG202 Almanca A2.2
+FLG 101-201
+
+
+FLG103 Almanca B1.1
+FLG 102-202
+FLG203 Almanca B1.2
+FLG 102-202
+
+
+FLS101 İspanyolca A1-A2.1
+İngilizce B2 ve üstü seviye
+FLS201 İspanyolca A1-A2.2
+İngilizce B2 ve üstü seviye
+
+
+FLS102 İspanyolca B1.1
+FLS 101-201
+FLS202 İspanyolca B1.2
+FLS 101-201
+
+
+FLS103 İspanyolca B2.1
+FLS 102-202
+FLS203 İspanyolca B2.2
+FLS 102-202
+
+
+
+
+
+
+Yabancı Diller Bölümü sadece yukarıdaki tabloda verilen derslerden sorumludur. Bu derslerin dışında, Fransızca dahil, verilen tüm yabancı dil derslerinden öğrencinin kayıtlı olduğu Bölüm sorumludur.
+Öğrencilerin derslere yazılabilmeleri için kayıtlı oldukları lisans programı için belirlenmiş sınıf geçme ve başarı koşullarını sağlamaları şartı aranmaz.
+Herhangi bir dil seviyesinin bahar yarıyılı dersini alabilmek için o seviyenin güz yarıyılı dersini almış olmak gereklidir. Ancak güz yarıyılındaki dersi alıp bundan başarısız olan öğrenci bahar yarıyılındaki derse devam edebilir.
+Öğrenci, herhangi bir dil seviyesinin güz ve bahar yarıyıllarında açılan derslerinin her ikisinden başarılı olmadan bir üst seviyenin derslerine yazılamaz.
+Dikkat: Herhangi bir dil seviyesinin güz ve bahar yarıyıllarında açılan derslerinden en az birinden başarısız olan öğrencinin Seviye Yeterlilik Sınavı’na girmesi zorunludur. Birinci Seviye Yeterlilik Sınavı hemen bahar yarıyılı bütünleme sınavları sonrası yapılır. Bu sınavdan başarısız olan öğrenciler bir sonraki akademik yılın başında yapılan İkinci Seviye Yeterlilik Sınavına girerler.
+Seviye yeterlilik sınavından başarılı olan öğrencinin bu sınavdan aldığı not başarısız olduğu ders(ler)in notu yerine geçer. Hem birinci hem de ikinici Seviye Tespit Sınavı’nda başarısız olan öğrenci bir sonraki akademik yılda başarısız olduğu ders(ler)e tekrar yazılır. Tekrar alınan derse devam zorunludur.
+Yeterlik sınavına girmesi zorunlu olan öğrenci, sınavına gireceği seviye ile ilgili, o seviyede veya üstünde olduğunu gösteren uluslararası sınavların (ör.TOEFL, IELTS, TestDAF, DELE) birinden aldığı geçerli sonuç belgesiyle beraber, güz yarıyılı kayıt haftası öncesi herhangi bir zaman, Yabancı Diller Bölüm Başkanlığı’na yazılı olarak başvurması durumunda, Seviye Yeterlik Sınavında başarılı olmuş sayılır.
+Öğrencilerin derslere %80'den az olmamak üzere devamı zorunludur. Devam zorunluluğuna uymayan öğrenciler ilgili dersten başarısız sayılır.
+
+                                    Yabancı Diller Bölüm Başkanlığı’nca kabul edilen haklı bir nedene dayalı olarak, belirtilen tarihlerde ara sınava giremeyen öğrenciler için mazeret sınavı yapılabilir. Haklı nedenin en geç, ara sınavı izleyen 3 (üç) iş günü içerisinde Yabancı Diller Bölüm Başkanlığı’na yazılı olarak bildirilmesi gereklidir.
+                                
+
+
+
+
+
+
+
+
+
+                            Derslerin Değerlendirilmesi
+                        
+
+
+
+
+
+
+
+
+
+
+
+Bir dersten AA, BA, BB, CB ve CC başarı notlarından birisini alan öğrenci, o dersi başarmış sayılır. Öğrencinin bir derse ait başarı notu F ise, öğrenci o dersten başarısız sayılır.
+Final ve bütünleme sınavlarının mazeret sınavı yoktur.
+Yabancı Diller Bölümü tarafından açılan derslerle ilgili not yükseltme sınavı yapılmaz.
+Öğrenciler sınav sonucunun ilan tarihini izleyen üç iş günü içinde, Yabancı Diller Bölüm Başkanlığı’na dilekçe ile başvurarak, sınav kâğıdının maddi hata yönünden incelenmesini isteyebilirler.
+
+                                    Öğrenciler bir dersteki başarı notlarına, notlarının ilan tarihini izleyen üç iş günü içinde, Yabancı Diller Bölüm Başkanlığı’na dilekçe ile başvurarak itiraz edebilirler.
+                                
+
+
+
+
+
+
+
+
+
+                            Yabancı Dil Seviye ve Açıklamaları
+                        
+
+
+
+
+
+
+
+
+SEVİYE
+A1
+A2
+B1
+B2
+
+
+
+
+
+ANLAMA
+
+
+dinleme
+
+Benimle, ailemle ve yakın    çevremle ilgili tanıdık    sözcükleri ve çok temel kalıpları, yavaş ve    net konuşulduğunda anlayabilirim.
+Beni doğrudan    ilgilendiren konularla ilişkili kalıpları ve çok sık kullanılan sözcükleri anlayabilirim.    (Örneğin; En temel kişisel ve ailevi bilgiler, alışveriş, yerel çevre,    meslek). Kısa, net,    basit ileti ve duyurulardaki    temel düşünceyi kavrayabilirim.
+İş, okul, boş    zaman vb. ortamlarda sürekli    karşılaşılan bildik konulardaki net, standart    konuşmanın ana hatlarını anlayabilirim. Güncel olaylar ya da kişisel ilgi alanıma giren konularla    ilgili radyo ve televizyon programlarının    çoğunun ana    hatlarını yavaş ve net olduğunda anlayabilirim.
+Güncel bir konu    olması koşuluyla uzun konuşma    ve sunumları anlayabilir, karmaşık tümcelerle yapılan tartışmaları takip edebilirim. Televizyon    haberlerini ve güncel    olaylara ilişkin programların çoğunu anlayabilirim.    Standart dilin kullanıldığı filmlerin çoğunu    anlayabilirim.
+
+
+
+okuma
+
+Katalog, duyuru ya da afiş gibi    yazılı metinlerdeki bildik adları, sözcükleri ve çok basit tümceleri    anlayabilirim.
+Kısa ve basit    metinleri okuyabilirim. İlanlar, kullanım    kılavuzları, mönüler ve zaman    çizelgeleri gibi basit günlük    metinlerdeki genel bilgileri    kavrayabilir ve kısa    kişisel mektupları anlayabilirim.
+Meslekle ilgili ya da günlük dilde en sık kullanılan sözcükleri    içeren metinleri anlayabilirim. Kişisel    mektuplarda belirtilen olay, duygu ve dilekleri anlayabilirim.
+Yazarların belirli    tutum ya da görüşü benimsedikleri,    güncel sorunlarla ilgili makaleleri ve    raporları okuyabilirim. Çağdaş    edebi düzyazıyı anlayabilirim. .
+
+
+
+KONUŞMA
+
+
+diyalog
+
+Karşımdaki kişinin    söylediklerini daha yavaş bir konuşma hızında yinelemesi ve söylemek istediklerimi    oluşturmada bana yardımcı    olması koşuluyla, basit yoldan iletişim kurabilirim. O anki    gereksinime ya da    çok bildik konulara ilişkin alanlarda basit sorular sorabilir ve cevap verebilirim.
+Bildik konular ve faaliyetler hakkında doğrudan    bilgi alışverişini gerektiren basit ve alışılmış işlerde    iletişim kurabilirim. Genellikle konuşmayı sürdürebilecek    kadar anlamasam da kısa sohbetlere    katılabilirim.
+Dilin konuşulduğu ülkede seyahat ederken    ortaya çıkabilecek bir çok durumla başa çıkabilirim. Bildik, ilgi alanıma    giren ya da günlük yaşamla ilgili (Örneğin; aile, hobi,    iş, yolculuk ve güncel olaylar gibi) konularda hazırlık yapmadan konuşmalara katılabilirim.
+Öğrendiğim dili anadili    olarak konuşan kişilerle anlaşmayı    mümkün kılacak bir akıcılık    ve doğallıkla iletişim    kurabilirim. Bildik    konularlardaki tartışmalarda, kendi görüşlerimi açıklayıp destekleyerek    etkin bir rol oynayabilirim.
+
+
+
+söz. ifade
+
+Yaşadığım yeri ve tanıdığım insanları betimlemek için basit kalıpları ve tümceleri kullanabilirim.
+Basit bir dille    ailemi ve diğer insanları, yaşam koşullarımı, eğitim geçmişimi ve son işimi betimlemek için bir dizi kalıp    ve tümceyi kullanabilirim.
+Deneyimlerimi, hayallerimi, umutlarımı, isteklerimi ve olayları    betimlemek için çeşitli kalıpları yalın    bir yoldan birbirinebağlayabilirim.    Düşünce ve planlara ilişkin açıklamaları ve nedenleri kısaca sıralayabilirim. Bir öyküyü anlatabilirim,    bir kitap ya da filmin konusunu    aktarabilirim ve izlenimlerimi belirtebilirim.
+İlgi    alanıma giren çeşitli konularda açık ve ayrıntılı bilgi    verebilirim. Çeşitli seçeneklerin olumlu ve olumsuz yanlarını ortaya    koyarak bir konu hakkında görüş bildirebilirim.
+
+
+
+YAZMA
+
+
+yazma
+
+Kısa ve basit tümcelerle kartpostal yazabilirim. Örneğin; Tatil    kartpostalıyla selam göndermek    gibi. Kişisel bilgi    içeren formları doldurabilirim Örneğin: Otel kayıt formuna isim, uyruk    ve adres yazmak gibi.
+Kısa, basit notlar ve iletiler yazabilirim. Teşekkür    mektubu gibi çok kısa kişisel mektupları yazabilirim.
+Bildik ya da ilgi alanıma giren    konularla bağlantılı bir metin yazabilirim. Deneyim ve    izlenimlerimi betimleyen kişisel mektuplar yazabilirim.
+İlgi    alanıma giren çok çeşitli konularda anlaşılır, ayrıntılı metinler yazabilirim. Belirli    bir bakış açısına destek vererek    ya da karşı çıkarak bilgi    sunan ve nedenler ileri süren    bir kopozisyon ya da rapor yazabilirim. Olayların    ve deneyimlerin benim için taşıdıkları önemi ön plana    çıkaran mektuplar yazabilirim.
+
+
+
+
+
+
+
+
+
+
+",FLE101 İngilizce A1-A2.1,-,FLE201 İngilizce CEF A1-A2.2,-,FLE102 İngilizce B1.1,FLE101-201,FLE202 İngilizce CEF B1.2,FLE101-201,FLE103 İngilizce B2.1,FLE102-202,FLE203 İngilizce CEF B2.2,FLE102-202,FLE105 İleri    Seviye İngilizce Yazılı Anlatım I,İngilizce B2 ve üstü seviye,FLE205 İleri Seviye İngilizce Yazılı Anlatım II,İngilizce B2 ve üstü seviye,FLE106 İleri    Seviye İngilizce Sözlü Anlatım I,İngilizce B2 ve üstü seviye,FLE206 İleri Seviye İngilizce Sözlü Anlatım II,İngilizce B2 ve üstü seviye,FLE107 TOEFL Hazırlık I,İngilizce B2 ve üstü seviye,FLE207 TOEFL Hazırlık II,İngilizce B2 ve üstü seviye,FLG101 Almanca A1.1,İngilizce B2 ve üstü seviye,FLG201 Almanca A1.2,İngilizce B2 ve üstü seviye,FLG102 Almanca A2.1,FLG 101-201,FLG202 Almanca A2.2,FLG 101-201,FLG103 Almanca B1.1,FLG 102-202,FLG203 Almanca B1.2,FLG 102-202,FLS101 İspanyolca A1-A2.1,İngilizce B2 ve üstü seviye,FLS201 İspanyolca A1-A2.2,İngilizce B2 ve üstü seviye,FLS102 İspanyolca B1.1,FLS 101-201,FLS202 İspanyolca B1.2,FLS 101-201,FLS103 İspanyolca B2.1,FLS 102-202,FLS203 İspanyolca B2.2,FLS 102-202,SEVİYE,A1,A2,B1,B2,"
+ANLAMA
+","
+dinleme
+","Benimle, ailemle ve yakın    çevremle ilgili tanıdık    sözcükleri ve çok temel kalıpları, yavaş ve    net konuşulduğunda anlayabilirim.","Beni doğrudan    ilgilendiren konularla ilişkili kalıpları ve çok sık kullanılan sözcükleri anlayabilirim.    (Örneğin; En temel kişisel ve ailevi bilgiler, alışveriş, yerel çevre,    meslek). Kısa, net,    basit ileti ve duyurulardaki    temel düşünceyi kavrayabilirim.","İş, okul, boş    zaman vb. ortamlarda sürekli    karşılaşılan bildik konulardaki net, standart    konuşmanın ana hatlarını anlayabilirim. Güncel olaylar ya da kişisel ilgi alanıma giren konularla    ilgili radyo ve televizyon programlarının    çoğunun ana    hatlarını yavaş ve net olduğunda anlayabilirim.","Güncel bir konu    olması koşuluyla uzun konuşma    ve sunumları anlayabilir, karmaşık tümcelerle yapılan tartışmaları takip edebilirim. Televizyon    haberlerini ve güncel    olaylara ilişkin programların çoğunu anlayabilirim.    Standart dilin kullanıldığı filmlerin çoğunu    anlayabilirim.","
+okuma
+","Katalog, duyuru ya da afiş gibi    yazılı metinlerdeki bildik adları, sözcükleri ve çok basit tümceleri    anlayabilirim.","Kısa ve basit    metinleri okuyabilirim. İlanlar, kullanım    kılavuzları, mönüler ve zaman    çizelgeleri gibi basit günlük    metinlerdeki genel bilgileri    kavrayabilir ve kısa    kişisel mektupları anlayabilirim.","Meslekle ilgili ya da günlük dilde en sık kullanılan sözcükleri    içeren metinleri anlayabilirim. Kişisel    mektuplarda belirtilen olay, duygu ve dilekleri anlayabilirim.","Yazarların belirli    tutum ya da görüşü benimsedikleri,    güncel sorunlarla ilgili makaleleri ve    raporları okuyabilirim. Çağdaş    edebi düzyazıyı anlayabilirim. .","
+KONUŞMA
+","
+diyalog
+","Karşımdaki kişinin    söylediklerini daha yavaş bir konuşma hızında yinelemesi ve söylemek istediklerimi    oluşturmada bana yardımcı    olması koşuluyla, basit yoldan iletişim kurabilirim. O anki    gereksinime ya da    çok bildik konulara ilişkin alanlarda basit sorular sorabilir ve cevap verebilirim.",Bildik konular ve faaliyetler hakkında doğrudan    bilgi alışverişini gerektiren basit ve alışılmış işlerde    iletişim kurabilirim. Genellikle konuşmayı sürdürebilecek    kadar anlamasam da kısa sohbetlere    katılabilirim.,"Dilin konuşulduğu ülkede seyahat ederken    ortaya çıkabilecek bir çok durumla başa çıkabilirim. Bildik, ilgi alanıma    giren ya da günlük yaşamla ilgili (Örneğin; aile, hobi,    iş, yolculuk ve güncel olaylar gibi) konularda hazırlık yapmadan konuşmalara katılabilirim.","Öğrendiğim dili anadili    olarak konuşan kişilerle anlaşmayı    mümkün kılacak bir akıcılık    ve doğallıkla iletişim    kurabilirim. Bildik    konularlardaki tartışmalarda, kendi görüşlerimi açıklayıp destekleyerek    etkin bir rol oynayabilirim.","
+söz. ifade
+",Yaşadığım yeri ve tanıdığım insanları betimlemek için basit kalıpları ve tümceleri kullanabilirim.,"Basit bir dille    ailemi ve diğer insanları, yaşam koşullarımı, eğitim geçmişimi ve son işimi betimlemek için bir dizi kalıp    ve tümceyi kullanabilirim.","Deneyimlerimi, hayallerimi, umutlarımı, isteklerimi ve olayları    betimlemek için çeşitli kalıpları yalın    bir yoldan birbirinebağlayabilirim.    Düşünce ve planlara ilişkin açıklamaları ve nedenleri kısaca sıralayabilirim. Bir öyküyü anlatabilirim,    bir kitap ya da filmin konusunu    aktarabilirim ve izlenimlerimi belirtebilirim.",İlgi    alanıma giren çeşitli konularda açık ve ayrıntılı bilgi    verebilirim. Çeşitli seçeneklerin olumlu ve olumsuz yanlarını ortaya    koyarak bir konu hakkında görüş bildirebilirim.,"
+YAZMA
+","
+yazma
+","Kısa ve basit tümcelerle kartpostal yazabilirim. Örneğin; Tatil    kartpostalıyla selam göndermek    gibi. Kişisel bilgi    içeren formları doldurabilirim Örneğin: Otel kayıt formuna isim, uyruk    ve adres yazmak gibi.","Kısa, basit notlar ve iletiler yazabilirim. Teşekkür    mektubu gibi çok kısa kişisel mektupları yazabilirim.",Bildik ya da ilgi alanıma giren    konularla bağlantılı bir metin yazabilirim. Deneyim ve    izlenimlerimi betimleyen kişisel mektuplar yazabilirim.,"İlgi    alanıma giren çok çeşitli konularda anlaşılır, ayrıntılı metinler yazabilirim. Belirli    bir bakış açısına destek vererek    ya da karşı çıkarak bilgi    sunan ve nedenler ileri süren    bir kopozisyon ya da rapor yazabilirim. Olayların    ve deneyimlerin benim için taşıdıkları önemi ön plana    çıkaran mektuplar yazabilirim."
+
+FLE101 İngilizce A1-A2.1,-,FLE201 İngilizce CEF A1-A2.2,-
+FLE102 İngilizce B1.1,FLE101-201,FLE202 İngilizce CEF B1.2,FLE101-201
+FLE103 İngilizce B2.1,FLE102-202,FLE203 İngilizce CEF B2.2,FLE102-202
+FLE105 İleri    Seviye İngilizce Yazılı Anlatım I,İngilizce B2 ve üstü seviye,FLE205 İleri Seviye İngilizce Yazılı Anlatım II,İngilizce B2 ve üstü seviye
+FLE106 İleri    Seviye İngilizce Sözlü Anlatım I,İngilizce B2 ve üstü seviye,FLE206 İleri Seviye İngilizce Sözlü Anlatım II,İngilizce B2 ve üstü seviye
+FLE107 TOEFL Hazırlık I,İngilizce B2 ve üstü seviye,FLE207 TOEFL Hazırlık II,İngilizce B2 ve üstü seviye
+FLG101 Almanca A1.1,İngilizce B2 ve üstü seviye,FLG201 Almanca A1.2,İngilizce B2 ve üstü seviye
+FLG102 Almanca A2.1,FLG 101-201,FLG202 Almanca A2.2,FLG 101-201
+FLG103 Almanca B1.1,FLG 102-202,FLG203 Almanca B1.2,FLG 102-202
+FLS101 İspanyolca A1-A2.1,İngilizce B2 ve üstü seviye,FLS201 İspanyolca A1-A2.2,İngilizce B2 ve üstü seviye
+FLS102 İspanyolca B1.1,FLS 101-201,FLS202 İspanyolca B1.2,FLS 101-201
+FLS103 İspanyolca B2.1,FLS 102-202,FLS203 İspanyolca B2.2,FLS 102-202
+SEVİYE,A1,A2,B1,B2
+"
+ANLAMA
+","
+dinleme
+","Benimle, ailemle ve yakın    çevremle ilgili tanıdık    sözcükleri ve çok temel kalıpları, yavaş ve    net konuşulduğunda anlayabilirim.","Beni doğrudan    ilgilendiren konularla ilişkili kalıpları ve çok sık kullanılan sözcükleri anlayabilirim.    (Örneğin; En temel kişisel ve ailevi bilgiler, alışveriş, yerel çevre,    meslek). Kısa, net,    basit ileti ve duyurulardaki    temel düşünceyi kavrayabilirim.","İş, okul, boş    zaman vb. ortamlarda sürekli    karşılaşılan bildik konulardaki net, standart    konuşmanın ana hatlarını anlayabilirim. Güncel olaylar ya da kişisel ilgi alanıma giren konularla    ilgili radyo ve televizyon programlarının    çoğunun ana    hatlarını yavaş ve net olduğunda anlayabilirim.","Güncel bir konu    olması koşuluyla uzun konuşma    ve sunumları anlayabilir, karmaşık tümcelerle yapılan tartışmaları takip edebilirim. Televizyon    haberlerini ve güncel    olaylara ilişkin programların çoğunu anlayabilirim.    Standart dilin kullanıldığı filmlerin çoğunu    anlayabilirim."
+"
+okuma
+","Katalog, duyuru ya da afiş gibi    yazılı metinlerdeki bildik adları, sözcükleri ve çok basit tümceleri    anlayabilirim.","Kısa ve basit    metinleri okuyabilirim. İlanlar, kullanım    kılavuzları, mönüler ve zaman    çizelgeleri gibi basit günlük    metinlerdeki genel bilgileri    kavrayabilir ve kısa    kişisel mektupları anlayabilirim.","Meslekle ilgili ya da günlük dilde en sık kullanılan sözcükleri    içeren metinleri anlayabilirim. Kişisel    mektuplarda belirtilen olay, duygu ve dilekleri anlayabilirim.","Yazarların belirli    tutum ya da görüşü benimsedikleri,    güncel sorunlarla ilgili makaleleri ve    raporları okuyabilirim. Çağdaş    edebi düzyazıyı anlayabilirim. ."
+"
+KONUŞMA
+","
+diyalog
+","Karşımdaki kişinin    söylediklerini daha yavaş bir konuşma hızında yinelemesi ve söylemek istediklerimi    oluşturmada bana yardımcı    olması koşuluyla, basit yoldan iletişim kurabilirim. O anki    gereksinime ya da    çok bildik konulara ilişkin alanlarda basit sorular sorabilir ve cevap verebilirim.",Bildik konular ve faaliyetler hakkında doğrudan    bilgi alışverişini gerektiren basit ve alışılmış işlerde    iletişim kurabilirim. Genellikle konuşmayı sürdürebilecek    kadar anlamasam da kısa sohbetlere    katılabilirim.,"Dilin konuşulduğu ülkede seyahat ederken    ortaya çıkabilecek bir çok durumla başa çıkabilirim. Bildik, ilgi alanıma    giren ya da günlük yaşamla ilgili (Örneğin; aile, hobi,    iş, yolculuk ve güncel olaylar gibi) konularda hazırlık yapmadan konuşmalara katılabilirim.","Öğrendiğim dili anadili    olarak konuşan kişilerle anlaşmayı    mümkün kılacak bir akıcılık    ve doğallıkla iletişim    kurabilirim. Bildik    konularlardaki tartışmalarda, kendi görüşlerimi açıklayıp destekleyerek    etkin bir rol oynayabilirim."
+"
+söz. ifade
+",Yaşadığım yeri ve tanıdığım insanları betimlemek için basit kalıpları ve tümceleri kullanabilirim.,"Basit bir dille    ailemi ve diğer insanları, yaşam koşullarımı, eğitim geçmişimi ve son işimi betimlemek için bir dizi kalıp    ve tümceyi kullanabilirim.","Deneyimlerimi, hayallerimi, umutlarımı, isteklerimi ve olayları    betimlemek için çeşitli kalıpları yalın    bir yoldan birbirinebağlayabilirim.    Düşünce ve planlara ilişkin açıklamaları ve nedenleri kısaca sıralayabilirim. Bir öyküyü anlatabilirim,    bir kitap ya da filmin konusunu    aktarabilirim ve izlenimlerimi belirtebilirim.",İlgi    alanıma giren çeşitli konularda açık ve ayrıntılı bilgi    verebilirim. Çeşitli seçeneklerin olumlu ve olumsuz yanlarını ortaya    koyarak bir konu hakkında görüş bildirebilirim.
+"
+YAZMA
+","
+yazma
+","Kısa ve basit tümcelerle kartpostal yazabilirim. Örneğin; Tatil    kartpostalıyla selam göndermek    gibi. Kişisel bilgi    içeren formları doldurabilirim Örneğin: Otel kayıt formuna isim, uyruk    ve adres yazmak gibi.","Kısa, basit notlar ve iletiler yazabilirim. Teşekkür    mektubu gibi çok kısa kişisel mektupları yazabilirim.",Bildik ya da ilgi alanıma giren    konularla bağlantılı bir metin yazabilirim. Deneyim ve    izlenimlerimi betimleyen kişisel mektuplar yazabilirim.,"İlgi    alanıma giren çok çeşitli konularda anlaşılır, ayrıntılı metinler yazabilirim. Belirli    bir bakış açısına destek vererek    ya da karşı çıkarak bilgi    sunan ve nedenler ileri süren    bir kopozisyon ya da rapor yazabilirim. Olayların    ve deneyimlerin benim için taşıdıkları önemi ön plana    çıkaran mektuplar yazabilirim."
+
+FLE101 İngilizce A1-A2.1,-,FLE201 İngilizce CEF A1-A2.2,-
+FLE102 İngilizce B1.1,FLE101-201,FLE202 İngilizce CEF B1.2,FLE101-201
+FLE103 İngilizce B2.1,FLE102-202,FLE203 İngilizce CEF B2.2,FLE102-202
+FLE105 İleri    Seviye İngilizce Yazılı Anlatım I,İngilizce B2 ve üstü seviye,FLE205 İleri Seviye İngilizce Yazılı Anlatım II,İngilizce B2 ve üstü seviye
+FLE106 İleri    Seviye İngilizce Sözlü Anlatım I,İngilizce B2 ve üstü seviye,FLE206 İleri Seviye İngilizce Sözlü Anlatım II,İngilizce B2 ve üstü seviye
+FLE107 TOEFL Hazırlık I,İngilizce B2 ve üstü seviye,FLE207 TOEFL Hazırlık II,İngilizce B2 ve üstü seviye
+FLG101 Almanca A1.1,İngilizce B2 ve üstü seviye,FLG201 Almanca A1.2,İngilizce B2 ve üstü seviye
+FLG102 Almanca A2.1,FLG 101-201,FLG202 Almanca A2.2,FLG 101-201
+FLG103 Almanca B1.1,FLG 102-202,FLG203 Almanca B1.2,FLG 102-202
+FLS101 İspanyolca A1-A2.1,İngilizce B2 ve üstü seviye,FLS201 İspanyolca A1-A2.2,İngilizce B2 ve üstü seviye
+FLS102 İspanyolca B1.1,FLS 101-201,FLS202 İspanyolca B1.2,FLS 101-201
+FLS103 İspanyolca B2.1,FLS 102-202,FLS203 İspanyolca B2.2,FLS 102-202
+SEVİYE,A1,A2,B1,B2
+"
+ANLAMA
+","
+dinleme
+","Benimle, ailemle ve yakın    çevremle ilgili tanıdık    sözcükleri ve çok temel kalıpları, yavaş ve    net konuşulduğunda anlayabilirim.","Beni doğrudan    ilgilendiren konularla ilişkili kalıpları ve çok sık kullanılan sözcükleri anlayabilirim.    (Örneğin; En temel kişisel ve ailevi bilgiler, alışveriş, yerel çevre,    meslek). Kısa, net,    basit ileti ve duyurulardaki    temel düşünceyi kavrayabilirim.","İş, okul, boş    zaman vb. ortamlarda sürekli    karşılaşılan bildik konulardaki net, standart    konuşmanın ana hatlarını anlayabilirim. Güncel olaylar ya da kişisel ilgi alanıma giren konularla    ilgili radyo ve televizyon programlarının    çoğunun ana    hatlarını yavaş ve net olduğunda anlayabilirim.","Güncel bir konu    olması koşuluyla uzun konuşma    ve sunumları anlayabilir, karmaşık tümcelerle yapılan tartışmaları takip edebilirim. Televizyon    haberlerini ve güncel    olaylara ilişkin programların çoğunu anlayabilirim.    Standart dilin kullanıldığı filmlerin çoğunu    anlayabilirim."
+"
+okuma
+","Katalog, duyuru ya da afiş gibi    yazılı metinlerdeki bildik adları, sözcükleri ve çok basit tümceleri    anlayabilirim.","Kısa ve basit    metinleri okuyabilirim. İlanlar, kullanım    kılavuzları, mönüler ve zaman    çizelgeleri gibi basit günlük    metinlerdeki genel bilgileri    kavrayabilir ve kısa    kişisel mektupları anlayabilirim.","Meslekle ilgili ya da günlük dilde en sık kullanılan sözcükleri    içeren metinleri anlayabilirim. Kişisel    mektuplarda belirtilen olay, duygu ve dilekleri anlayabilirim.","Yazarların belirli    tutum ya da görüşü benimsedikleri,    güncel sorunlarla ilgili makaleleri ve    raporları okuyabilirim. Çağdaş    edebi düzyazıyı anlayabilirim. ."
+"
+KONUŞMA
+","
+diyalog
+","Karşımdaki kişinin    söylediklerini daha yavaş bir konuşma hızında yinelemesi ve söylemek istediklerimi    oluşturmada bana yardımcı    olması koşuluyla, basit yoldan iletişim kurabilirim. O anki    gereksinime ya da    çok bildik konulara ilişkin alanlarda basit sorular sorabilir ve cevap verebilirim.",Bildik konular ve faaliyetler hakkında doğrudan    bilgi alışverişini gerektiren basit ve alışılmış işlerde    iletişim kurabilirim. Genellikle konuşmayı sürdürebilecek    kadar anlamasam da kısa sohbetlere    katılabilirim.,"Dilin konuşulduğu ülkede seyahat ederken    ortaya çıkabilecek bir çok durumla başa çıkabilirim. Bildik, ilgi alanıma    giren ya da günlük yaşamla ilgili (Örneğin; aile, hobi,    iş, yolculuk ve güncel olaylar gibi) konularda hazırlık yapmadan konuşmalara katılabilirim.","Öğrendiğim dili anadili    olarak konuşan kişilerle anlaşmayı    mümkün kılacak bir akıcılık    ve doğallıkla iletişim    kurabilirim. Bildik    konularlardaki tartışmalarda, kendi görüşlerimi açıklayıp destekleyerek    etkin bir rol oynayabilirim."
+"
+söz. ifade
+",Yaşadığım yeri ve tanıdığım insanları betimlemek için basit kalıpları ve tümceleri kullanabilirim.,"Basit bir dille    ailemi ve diğer insanları, yaşam koşullarımı, eğitim geçmişimi ve son işimi betimlemek için bir dizi kalıp    ve tümceyi kullanabilirim.","Deneyimlerimi, hayallerimi, umutlarımı, isteklerimi ve olayları    betimlemek için çeşitli kalıpları yalın    bir yoldan birbirinebağlayabilirim.    Düşünce ve planlara ilişkin açıklamaları ve nedenleri kısaca sıralayabilirim. Bir öyküyü anlatabilirim,    bir kitap ya da filmin konusunu    aktarabilirim ve izlenimlerimi belirtebilirim.",İlgi    alanıma giren çeşitli konularda açık ve ayrıntılı bilgi    verebilirim. Çeşitli seçeneklerin olumlu ve olumsuz yanlarını ortaya    koyarak bir konu hakkında görüş bildirebilirim.
+"
+YAZMA
+","
+yazma
+","Kısa ve basit tümcelerle kartpostal yazabilirim. Örneğin; Tatil    kartpostalıyla selam göndermek    gibi. Kişisel bilgi    içeren formları doldurabilirim Örneğin: Otel kayıt formuna isim, uyruk    ve adres yazmak gibi.","Kısa, basit notlar ve iletiler yazabilirim. Teşekkür    mektubu gibi çok kısa kişisel mektupları yazabilirim.",Bildik ya da ilgi alanıma giren    konularla bağlantılı bir metin yazabilirim. Deneyim ve    izlenimlerimi betimleyen kişisel mektuplar yazabilirim.,"İlgi    alanıma giren çok çeşitli konularda anlaşılır, ayrıntılı metinler yazabilirim. Belirli    bir bakış açısına destek vererek    ya da karşı çıkarak bilgi    sunan ve nedenler ileri süren    bir kopozisyon ya da rapor yazabilirim. Olayların    ve deneyimlerin benim için taşıdıkları önemi ön plana    çıkaran mektuplar yazabilirim."

@@ -1,0 +1,185 @@
+"ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ
+			ENDÜSTRİ MÜHENDİSLİĞİ BÖLÜMÜ 2016 MÜFREDATI",
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,Dil
+RES103,Teknik Resim,"3,0",2,2,,5,TM,Z,1,T
+BIL101,Bilgi Teknolojileri Kullanımı,"1,5",1,1,,2,TB,Z,1,T
+TDB101,Türk Dili I,"2,0",2,0,,2,ITB,Z,1,T
+KIM101,Kimya,"3,0",3,0,,4,TB,Z,1,T
+FIZ101,Fizik I,"3,0",3,0,,4,TB,Z,1,T
+FIZ101L,Fizik I Lab,"1,0",0,0,2,1,TB,Z,1,T
+MAT101,Matematik I,"4,0",3,2,,5,TB,Z,1,T
+ING121,İngilizce I,"2,0",2,0,,2,ITB,Z,1,İ
+ETK101,Mühendislik Etiği,"1,0",1,0,,2,ITB,Z,1,T
+END101,Endüstri Mühendisliğine Giriş,"1,0",1,0,,3,TM,Z,1,T
+,Dönem 1:,"21,5",18,5,2,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END104,Yönetim ve Organizasyon,"2,0",2,0,,3,ITB,Z,2,T
+END106,Ekonomi,"3,0",3,0,,5,ITB,Z,2,T
+BIL102,Bilimsel Programlamaya Giriş,"3,0",2,2,,4,TM,Z,2,T
+TDB102,Türk Dili II,"2,0",2,0,,2,ITB,Z,2,T
+FIZ102,Fizik II,"3,0",3,0,,4,TB,Z,2,T
+FIZ102L,Fizik II Lab,"1,0",0,0,2,1,TB,Z,2,T
+MAT102,Matematik II,"4,0",3,2,,5,TB,Z,2,T
+ING122,İngilizce II,"2,0",2,0,,2,ITB,Z,2,İ
+END108,Üretim Yöntemleri,"2,0",2,0,,4,TM,Z,2,T
+,Dönem 2:,"22,0",19,4,2,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+MEK205,Mühendislik Mekaniği,"3,0",3,0,,5,TM,Z,3,T
+ISM207,Genel Muhasebe,"3,0",3,0,,4,ITB,Z,3,T
+MAT108,Lineer Cebir,"3,0",3,0,,4,TB,Z,3,T
+END203,İnsan Kaynakları Yönetiminin Temelleri,"3,0",3,0,,4,ITB,Z,3,T
+ISM201,Olasılık Teorisi,"3,0",3,0,,5,TB,Z,3,T
+ATA101,Atatürk İlkeleri ve İnkılap Tarihi I,"2,0",2,0,,2,ITB,Z,3,T
+,3.yy Secmeli Ders SGS (ITB),"2,0",2,0,,2,ITB,S,3,T
+,3.yy Secmeli Ders (TB),"3,0",3,0,,4,TB,S,3,T
+,Dönem 3:,"22,0",22,0,0,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END202,İstatistik Teorisi ve Uygulamaları,"3,0",2,2,,5,TB,Z,4,T
+END206,Sistem Analizi ve Tasarımı,"3,0",3,0,,5,TM,Z,4,T
+ISM206,Maliyet Muhasebesi,"3,0",3,0,,4,MT,Z,4,T
+MAT202,Diferansiyel Denklemler,"4,0",4,0,,5,TB,Z,4,T
+MAL102,Malzeme Bilimi,"3,0",3,0,,4,TM,Z,4,T
+ATA102,Atatürk İlkeleri ve İnkılap Tarihi II,"2,0",2,0,,2,ITB,Z,4,T
+END200,Endüstri Mühendisliği Staj I,"0,0",0,0,,0,,Z,4,T
+,4.yy Secmeli Ders (TM),"3,0",3,0,,5,TM,S,4,T
+,Dönem 4:,"21,0",20,2,0,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+,,,,,,,,,,
+END305,Mühendislik Ekonomisi,"3,0",3,0,,5,MT,Z,5,T
+END303,Kalite Yönetimi,"3,0",3,0,,5,MT,Z,5,T
+END309,Üretim Planlama ve Kontrol,"3,0",2,2,,6,TM,Z,5,T
+END301,Yöneylem Araştırması I,"3,0",2,2,,6,TM,Z,5,T
+BIL205,Veri Tabanı Sistemleri ve Yönetimi,"3,0",2,2,,4,TM,Z,5,T
+,5.yy Secmeli Ders (ITB),"3,0",3,0,,4,ITB,S,5,T
+,Dönem 5:,"18,0",15,6,0,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END308,Proje Yönetimi,"3,0",3,0,,5,MT,Z,6,T
+END306,İş Etüdü ve Ergonomi,"3,0",3,0,,5,MT,Z,6,T
+END304,Sistem Simülasyonu,"3,0",2,2,,5,TB,Z,6,T
+END302,Yöneylem Araştırması II,"3,0",2,2,,6,TM,Z,6,T
+END310,Tesis Planlama,"3,0",2,2,,5,MT,Z,6,T
+END300,Endüstri Mühendisliği Staj II,"0,0",0,0,,0,MT,Z,6,T
+,6.yy Secmeli Ders (ITB),"3,0",3,0,,4,ITB,S,6,T
+,Dönem 6:,"18,0",15,6,0,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END403,Endüstri Mühendisliği Tasarımı,"1,0",0,2,,4,MT,Z,7,T
+END401,İş Sağlığı ve Güvenliği I,"2,0",2,0,,2,TB,Z,7,T
+,7.yy Secmeli Ders (ITB),"3,0",3,0,,4,ITB,S,7,T
+,7.yy Secmeli Ders I (MT),"3,0",3,0,,5,MT,S,7,T
+,7.yy Secmeli Ders II (MT),"3,0",3,0,,5,MT,S,7,T
+,7.yy Secmeli Ders III (MT),"3,0",3,0,,5,MT,S,7,T
+,7.yy Secmeli Ders IV (MT),"3,0",3,0,,5,MT,S,7,T
+,Dönem 7:,"18,0",17,2,0,30,,,,
+Ders Kodu,Ders Adı,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,T
+END492,Bitirme Projesi,"3,0",0,6,,8,MT,Z,8,T
+END402,İş Sağlığı ve Güvenliği II,"1,0",1,0,,1,TB,Z,8,T
+`,8.yy Secmeli Ders SGS (ITB),"2,0",2,0,,2,ITB,S,4,T
+,8.yy Secmeli Ders (ITB),"3,0",3,0,,4,ITB,S,8,T
+,8.yy Secmeli Ders I (MT),"3,0",3,0,,5,MT,S,8,T
+,8.yy Secmeli Ders II (MT),"3,0",3,0,,5,MT,S,8,T
+,8.yy Secmeli Ders III (MT),"3,0",3,0,,5,MT,S,8,T
+,Dönem 8:,"18,0",15,6,0,30,,,,
+,TOPLAM:,"158,5","141,0","31,0","4,0","240,0",,,,
+,,,,,,,,,,
+,Temel Bilim (TB),"42,5","26,8",25 min,,,,,,
+,Temel Mühendislik (TM),"33,0","20,8",20min,,,,,,
+,Mühendislik Tasarım (MT),"43,0","27,1",25-35,,,,,,
+,İnsan & Toplum Bilim (ITB),"40,0","25,2",20min,,,,,,
+,Toplam Kredi,"158,5","100,0",,,,,,,
+,Zorunlu Ders Kredisi,"115,5","72,9",,,,,,,
+,Seçmeli Ders Kredisi,"43,0","27,1",min20,,,,,,
+,Toplam Kredi,"158,5","100,0",,,,,,,
+,,,,,,,,,,
+,Bologna Kriterleri,,,,,,,,,
+,Toplam AKTS,"240,0","100,0",,,,,,,
+,Seçmeli,"64,0","26,7",min 25,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+SEÇMELİ DERSLER:,,,,,,,,,
+,,,,,,,,,,
+3.YY-TB Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END211,Rapor Yazma ve Sunum Teknikleri,3,3,0,0,4,TB,S,3,
+END213,Elektrik Makinaları,3,3,0,0,4,TB,S,3,
+END215,Makine ve İmalat Bilgisi,3,3,0,0,4,TB,S,3,
+,,,,,,,,,,
+3.YY ve 8.YY - ITB Secmeli Ders Grubu (SGS),Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+SGS101,Sanat Tarihi,2,2,0,0,2,ITB,S,3/8,
+SGS103,Bilim Tarihi ve Felsefesi,2,2,0,0,2,ITB,S,3/8,
+SGS105,Afet Bilinci,2,2,0,0,2,ITB,S,3/8,
+SGS107,Etkili ve Güzel Konuşma,2,2,0,0,2,ITB,S,3/8,
+SGS109,Temel İlk Yardım ve Acil Eğitimi,2,2,0,0,2,ITB,S,3/8,
+SGS111,Okçuluk,2,2,0,0,2,ITB,S,3/8,
+SGS113,"Boks, Karate ve Tekvando",2,2,0,0,2,ITB,S,3/8,
+SGS115,Futbol,2,2,0,0,2,ITB,S,3/8,
+SGS117,Voleybol,2,2,0,0,2,ITB,S,3/8,
+SGS119,Basketbol,2,2,0,0,2,ITB,S,3/8,
+SGS121,Tenis,2,2,0,0,2,ITB,S,3/8,
+SGS123,Masa Tenisi,2,2,0,0,2,ITB,S,3/8,
+SGS125,Halk Oyunları,2,2,0,0,2,ITB,S,3/8,
+SGS127,Müzik Kültürü,2,2,0,0,2,ITB,S,3/8,
+SGS129,Resim,2,2,0,0,2,ITB,S,3/8,
+SGS131,Tiyatro ve Sinema,2,2,0,0,2,ITB,S,3/8,
+SGS133,Sağlıklı Yaşam,2,2,0,0,2,ITB,S,3/8,
+SGS135,Beslenme,2,2,0,0,2,ITB,S,3/8,
+SGS137,Medya Okuryazarlığı,2,2,0,0,2,ITB,S,3/8,
+SGS139,Matematiksel Estetik,2,2,0,0,2,ITB,S,3/8,
+SGS141,Endüstriyel Tasarım,2,2,0,0,2,ITB,S,3/8,
+SGS143,Temel Fotoğrafçılık,2,2,0,0,2,ITB,S,3/8,
+SGS145,Sörf,2,2,0,0,2,ITB,S,3/8,
+SGS147,Mitoloji,2,2,0,0,2,ITB,S,3/8,
+SGS149,Antik Kentler,2,2,0,0,2,ITB,S,3/8,
+SGS151,Sosyoloji,2,2,0,0,2,ITB,S,3/8,
+SGS153,Felsefe,2,2,0,0,2,ITB,S,3/8,
+,,,,,,,,,,
+4.YY-TM Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END220,Karar Destek Sistemleri,3,3,0,0,5,TM,S,4,
+END222,Bilişim Sistemleri,3,3,0,0,5,TM,S,4,
+BIL202,Programlama Dilleri ve Teknikleri,3,2,2,0,5,TM,S,4,
+BIL206,E-Ticaret Tasarım,3,3,0,0,5,TM,S,4,
+MEK206,Termodinamik,3,3,0,0,5,TM,S,4,
+,,,,,,,,,,
+5.YY-ITB Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END307,İş Hukuku,3,3,0,0,4,ITB,S,5,
+END313,İşletme Finansı,3,3,0,0,4,ITB,S,5,
+END311,Esnek İmalat Sistemlerine Giriş,3,3,0,0,4,ITB,S,5,
+,,,,,,,,,,
+6.YY-ITB Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END320,Kurumsal Bilgi Yönetimi,3,3,0,0,4,ITB,S,6,
+END316,İşletme Hukuku,3,3,0,0,4,ITB,S,6,
+END314,Kalite Güvence Sistemi,3,3,0,0,4,ITB,S,6,
+,,,,,,,,,,
+7.YY-ITB Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END423,Hizmet Sistemleri Yönetimi,3,3,0,0,4,ITB,S,7,
+END421,Pazarlama ve Satış,3,3,0,0,4,ITB,S,7,
+END425,Girişimcilik,3,3,0,0,4,ITB,S,7,
+END419,İleri İmalat Sistemleri,3,3,0,0,4,ITB,S,7,
+,,,,,,,,,,
+7.YY-MT Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END411,Sezgisel Optimizasyon,3,3,0,0,5,MT,S,7,
+END407,Lojistik Yönetimi,3,3,0,0,5,MT,S,7,
+END413,Yalın Üretim,3,3,0,0,5,MT,S,7,
+END409,Doğrusal Olmayan Programlama,3,3,0,0,5,MT,S,7,
+END417,Bilgisayar Bütünleşik Üretim,3,3,0,0,5,MT,S,7,
+END415,Stratejik Yönetim,3,3,0,0,5,MT,S,7,
+END427,Matematiksel Modelleme Teknikleri,3,3,0,0,5,MT,S,7,
+END417,Yapay Zeka ve Uzman Sistemler,3,3,0,0,5,MT,S,7,
+END429,İstatistiksel Tahmin Metodları,3,3,0,0,5,MT,S,7,
+END431,Planlama Kontrol ve Esasları,3,3,0,0,5,MT,S,7,
+,,,,,,,,,,
+8.YY-ITB Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END412,İnovasyon Yönetimi,3,3,0,0,4,ITB,S,8,
+END410,Yalın Altı Sigma,3,3,0,0,4,ITB,S,8,
+END408,Teknoloji ve AR-GE,3,3,0,0,4,ITB,S,8,
+,,,,,,,,,,
+8.YY-MT Secmeli Ders Grubu,Kredi,Ders,Uyg,Lab,AKTS,Türü,Z/S,YY,
+END420,Bulanık Doğrusal Programlama,3,3,0,0,5,MT,S,8,
+END416,Mühendislik Ekonomisi Uygulamaları,3,3,0,0,5,MT,S,8,
+END418,Olasılıklı Model Kurma,3,3,0,0,5,MT,S,8,
+END422,İstatistiksel Kalite Kontrol,3,2,2,0,5,MT,S,8,
+END424,Bakım Planlama,3,3,0,0,5,MT,S,8,
+END426,İşletme Kaynakları Planlaması,3,3,0,0,5,MT,S,8,
+END414,Endüstride Bilgisayar Uygulamaları,3,3,0,0,5,MT,S,8,
+END428,Bulanık Mantık,3,3,0,0,5,MT,S,8,
+END430,Çok Kriterli Karar Verme,3,3,0,0,5,MT,S,8,
+END432,Stok Yönetimi,3,3,0,0,5,MT,S,8,
+END434,Tedarik Zinciri ve Satınalma Yönetimi,3,3,0,0,5,MT,S,8,

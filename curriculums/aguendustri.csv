@@ -1,0 +1,142 @@
+Code,Course,PreReq,T,P,Credits,ECTS
+MATH 151,Calculus I ,–,5,0,5,6
+PHYS 101,Physics I ,–,3,2,4,5
+COMP 101,Art of Computing,–,3,2,4,6
+ENG 101,English I,–,4,0,4,4
+GLB 101,AGU Ways,–,3,0,3,4
+CHEM 101,Chemistry for Engineers,–,3,2,4,5
+Total,21,6,24,30
+Code,Course,PreReq,T,P,Credits,ECTS
+MATH152,Calculus II,MATH151,5,0,5,6
+BIO101* ,Biology for Engineers I ,–,3,2,4,5
+COMP 112,Object Oriented Programming,COMP101,3,2,4,6
+ENG 102,English II,ENG101,4,0,4,4
+GLB XXX,Global Issues Elective I ,–,3,0,3,4
+IE102,Exploring Profession,–,3,2,4,5
+,Total,,21,6,24,30
+Code,Course,PreReq,T,P,Credits,ECTS
+MATH 203,Linear Algebra ,,3,0,3,5
+IE 221,Probability,,3,0,3,6
+IE 213,Mathematical Modeling,MATH152,3,2,4,7
+ECON 222,Economics for Engineers,,3,0,3,4
+TURK 101,Turkish I,,2,0,2,2
+GLB XXX,Global Issues Elective II,,3,0,3,4
+,Elective (Non-technical),,,,,1
+Total,,,,29
+Code,Course,PreReq,T,P,Credits,ECTS
+IE 222,Statistics,IE221,4,0,4,7
+IE 212,Deterministic Optimization,MATH203IE213,4,0,4,7
+IE 242,Business Process Analysis and Design,,3,0,3,5
+COMP 204,Database Management Systems,,3,0,3,6
+TURK 102,Turkish II,,2,0,2,2
+GLB XXX,Global Issues Elective III,,3,0,3,4
+Total,19,0,19,31
+Code,Course,PreReq,T,P,Credits,ECTS
+IE 375,Production and Service Systems Management I,IE222IE212,4,0,4,6
+IE 325,System Simulation,IE222,3,2,4,7
+IE 335,Stochastic Models,IE221,3,0,3,5
+IE 346,Engineering Economics and Cost Analysis,,3,0,3,5
+HIST 201,History of Modern Turkey I,,2,0,2,2
+GLB XXX,Global Issues Elective IV,,3,0,3,4 
+Total,18,2,19,29
+Code,Course,PreReq,T,P,Credits,ECTS
+IE 376,Production and Service Systems Management II,IE375,4,0,4,6
+IE 345,Financial andManagerial Accounting,,3,0,3,4
+IE 380,Quality Control and Assurance ,IE222,3,0,3,4
+IE 326,Business Analytics,IE212 IE222,3,0,3,5
+IE 395,Decision and Risk Analysis,IE221IE212,3,0,3,5
+HIST 202,History of Modern Turkey II,,2,0,2,2
+,Elective (Non-technical),,,,,5
+Total,,,,31
+Code,Course,PreReq,T,P,Credits,ECTS
+IE 499,Capstone Design Project,"IE212,IE222, IE376",4,0,4,20
+Code,Course,PreReq,T,P,Credits,ECTS
+OHS 401,Occupational Health and Safety I,,2,0,2,1
+IE 197,Summer Training I,,–,–,–,4
+,Elective ,,,,,5
+,Elective,,,,,5
+,Elective (Non-technical),,,,,5
+Total,,,,20
+Code,Course,PreReq,T,P,Credits,ECTS
+OHS 402,Occupational Health and Safety II,,1,0,1,1
+IE 297,Summer Training II,,–,–,–,5
+IE 397,Summer Training III,,–,–,–,6
+,Elective ,,,,,4
+,Elective (Non-technical) ,,,,,4
+Total,,,,20
+Code,Course,T,P,Credits,ECTS
+IE 348,Marketing Engineering,3,0,3,5
+IE 351,Project Management,3,0,3,5
+IE 353,Strategic Management,3,0,3,5
+IE 355 ,Human Resources Management,3,0,3,5
+IE 356,Organizational Behavior and Work Psychology,3,0,3,5
+IE 357,International Business,3,0,3,5
+IE358,Ergonomics,3,0,3,5
+IE 374,Supply Chain Management,3,0,3,5
+IE 391,Industry Applications I,3,0,3,5
+IE 392,Industry Applications II,3,0,3,5
+IE 393,Industry Applications III,3,0,3,5
+IE 394,Industry Applications IV,3,0,3,5
+IE 396,High-Tech Product Development I,3,0,3,5
+IE 398,High-Tech Product Development II,3,0,3,5
+IE404,Social Network Analysis,3,0,3,5
+IE 412,Network Optimization,3,0,3,5
+IE 414,Advanced Linear Programming,3,0,3,5
+IE 415,Discrete Math,3,0,3,5
+IE 416,Nonlinear Programming,3,0,3,5
+IE 417,Heuristic Methods in Optimization ,3,0,3,5
+IE 418,Discrete Optimization,3,0,3,5
+IE 422,Advanced Simulation,3,0,3,5
+IE 425,System Dynamics,3,0,3,5
+IE 426 ,Data Mining,3,0,3,5
+IE 442,Operations Analysis and Design,3,0,3,5
+IE 446,Supply Chain Economics,3,0,3,5
+IE 448,International Marketing Tool:Turquality,3,0,3,5
+IE 449,Financial Engineering,3,0,3,5
+IE 454,Sustainable Energy Systems,3,0,3,5
+IE 455,Green Buildings,3,0,3,5
+IE 456,Operations Research in Sustainability,3,0,3,5
+IE 457,Operations Research Applications in Energy Systems,3,0,3,5
+IE 458 ,Smart Transportation Systems,3,0,3,5
+IE 459,Smart Cities ,3,0,3,5
+IE 461 ,Manufacturing Processes,3,0,3,5
+IE 462,Lean Manufacturing,3,0,3,5
+IE 463,Disaster and Emergency Management ,3,0,3,5
+IE 464,Operations Research Models in Disaster Management,3,0,3,5
+IE 465,Operations Research and Homeland Security ,3,0,3,5
+IE 466,Vulnerability and Resilience,3,0,3,5
+IE 467,Critical InfrastructurePlanning,3,0,3,5
+IE 472,Production Planing and Scheduling,3,0,3,5
+IE 474,Humanitarian Logistics,3,0,3,5
+IE 475,Facility Layout and Location,3,0,3,5
+IE 476,Logistics Engineering,3,0,3,5
+IE 477,Inventory Models,3,0,3,5
+IE 478,Scheduling,3,0,3,5
+IE 482,Economics of Healthcare,3,0,3,5
+IE 484 ,Optimization Models in Health Care,3,0,3,5
+IE 486,Healthcare Operations Management,3,0,3,5
+IE 488,Healthcare Policy Analysis,3,0,3,5
+IE 489,Optimization in Medicine and Biology,3,0,3,5
+IE 490,Decision Support Systems,3,0,3,5
+IE494,Industry 4.0,3,0,3,5
+IE 495,High-Tech Product Development III,3,0,3,5
+IE 496,High-Tech Product Development IV,3,0,3,5
+IE 497,Systems Analysis and Design Project I,4,0,4,10
+IE 498,Systems Analysis and Design Project II,4,0,4,10
+Code,Course Name,T,P,Credits,ECTS
+GLB 102,Innovation andEntrepreneurship,3,0,3,4
+GLB 201,Food and Health,3,0,3,4
+GLB 202,Immigration and Population,3,0,3,4
+GLB 301,Sustainability,3,0,3,4
+Dersin Kodu,Dersin Adı,Teorik,Pratik,Kredi,ECTS
+IE 221,Probability,3,0,3,6
+IE 213,Mathematical Modeling,4,0,4,7
+IE 212,Deterministic Optimization,4,0,4,7
+IE 325,System Simulation,3,2,4,7
+IE 335,Stochastic Models,3,0,3,5
+IE 395,Decision and Risk Analysis,3,0,3,5
+IE 222,Statistics,4,0,4,7
+IE 242,BusinessProcesssAnalysis,3,0,3,5
+IE326,Business Analytics,3,0,3,5
+IE375,Production and Service Systems Management I,4,0,4,6
+IE 376,Production and Service Systems Management II,4,0,4,6

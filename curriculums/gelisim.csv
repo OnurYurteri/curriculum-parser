@@ -1,0 +1,390 @@
+
+
+END101,ENDÜSTRİ MÜHENDİSLİĞİNE GİRİŞ,2,0,0,2,2, Görüntüle,  Görüntüle
+FIZ107,FİZİK I,3,0,2,4,6, Görüntüle,  Görüntüle
+KIM102,KİMYA,3,0,2,4,6, Görüntüle,  Görüntüle
+MAT105,MATEMATİK I,3,2,0,4,6, Görüntüle,  Görüntüle
+MEK111,BİLGİSAYAR DESTEKLİ TEKNİK RESİM,1,0,2,2,5, Görüntüle,  Görüntüle
+TRD101,TÜRK DİLİ I,2,0,0,2,2, Görüntüle,  Görüntüle
+YDL101,YABANCI DİL I (İNG.),3,0,0,3,3, Görüntüle,  Görüntüle
+
+
+
+BIL103,BİLGİSAYAR PROGRAMLAMAYA GİRİŞ,2,0,2,3,6, Görüntüle,  Görüntüle
+END102,GENEL EKONOMİ,3,0,0,3,7, Görüntüle,  Görüntüle
+FIZ108,FİZİK II,3,0,2,4,6, Görüntüle,  Görüntüle
+MAT106,MATEMATİK II,3,2,0,4,6, Görüntüle,  Görüntüle
+TRD102,TÜRK DİLİ II,2,0,0,2,2, Görüntüle,  Görüntüle
+YDL102,YABANCI DİL II (İNG.),3,0,0,3,3, Görüntüle,  Görüntüle
+
+
+
+ATA201,ATATÜRK İLK. VE İNK. TARİHİ I,2,0,0,2,2, Görüntüle,  Görüntüle
+END209,GENEL MUHASEBE,2,0,0,2,3, Görüntüle,  Görüntüle
+MAT104,LİNEER CEBİR,3,0,0,3,5, Görüntüle,  Görüntüle
+MAT203,DİFERANSİYEL DENKLEMLER,2,2,0,3,5, Görüntüle,  Görüntüle
+MAT207,OLASILIK VE İSTATİSTİK,3,0,0,3,5, Görüntüle,  Görüntüle
+MEK203,MALZEME BİLİMİ,3,0,0,3,5, Görüntüle,  Görüntüle
+-,SOSYAL SEÇMELİ I,3,0,0,3,5, Görüntüle,
+
+
+
+ATA202,ATATÜRK İLK. VE İNK. TARİHİ II,2,0,0,2,2, Görüntüle,  Görüntüle
+END202,İŞ ETÜDÜ,1,0,2,2,4, Görüntüle,  Görüntüle
+END210,ÜRETİM YÖNTEMLERİ,3,0,0,3,5, Görüntüle,  Görüntüle
+END218,MALİYET MUHASEBESİ,2,0,0,2,4, Görüntüle,  Görüntüle
+END224,ÜRETİM VE İŞLEMLER YÖNETİMİ,1,2,0,2,5, Görüntüle,  Görüntüle
+MAT217,İSTATİSTİKSEL ANALİZ,3,0,0,3,5, Görüntüle,  Görüntüle
+-,SOSYAL SEÇMELİ II,3,0,0,3,5, Görüntüle,
+
+
+
+-,BÖLÜM SEÇMELİ I,3,0,0,3,6, Görüntüle,
+END311,YÖNEYLEM ARAŞTIRMASI I,2,1,1,4,5, Görüntüle,  Görüntüle
+END317,ERGONOMİ,2,0,0,2,3, Görüntüle,  Görüntüle
+END319,MÜHENDİSLİK EKONOMİSİ,3,0,0,3,5, Görüntüle,  Görüntüle
+END329,BENZETİM,2,0,2,3,5, Görüntüle,  Görüntüle
+END381,ENDÜSTRİ STAJI I,0,0,0,0,1, Görüntüle,  Görüntüle
+-,SOSYAL SEÇMELİ III,3,0,0,3,5, Görüntüle,
+
+
+
+-,BÖLÜM SEÇMELİ II,3,0,0,3,6, Görüntüle,
+-,BÖLÜM SEÇMELİ III,3,0,0,3,6, Görüntüle,
+END316,YÖNETİM VE ORGANİZASYON,3,0,0,3,6, Görüntüle,  Görüntüle
+END322,YÖNEYLEM ARAŞTIRMASI II,2,0,2,3,7, Görüntüle,  Görüntüle
+MEK311,TERMODİNAMİK,3,0,0,3,5, Görüntüle,  Görüntüle
+
+
+
+-,BÖLÜM SEÇMELİ IV,3,0,0,3,6, Görüntüle,
+-,BÖLÜM SEÇMELİ V,1,0,2,2,6, Görüntüle,
+END401,ENDÜSTRİ MÜHENDİSLİĞİ PROJESİ,0,2,0,1,4, Görüntüle,  Görüntüle
+END421,ÜRETİM PLANLAMA VE KONTROL,2,1,1,4,7, Görüntüle,  Görüntüle
+END481,ENDÜSTRİ STAJI II,0,0,0,0,1, Görüntüle,  Görüntüle
+GIR402,GİRİŞİMCİLİK,2,2,0,3,5, Görüntüle,  Görüntüle
+ISG401,İŞ SAĞLIĞI VE GÜVENLİĞİ I,1,0,0,1,1, Görüntüle,  Görüntüle
+
+
+
+-,BÖLÜM DIŞI SEÇMELİ I,3,0,0,3,5, Görüntüle,
+-,BÖLÜM DIŞI SEÇMELİ II,3,0,0,3,5, Görüntüle,
+-,BÖLÜM SEÇMELİ VI,3,0,0,3,6, Görüntüle,
+END404,İNSAN KAYNAKLARI YÖNETİMİ,2,0,0,2,4, Görüntüle,  Görüntüle
+END410,TESİS PLANLAMASI,2,2,0,3,4, Görüntüle,  Görüntüle
+END498,BİTİRME TASARIM PROJESİ,0,2,0,1,5, Görüntüle,  Görüntüle
+ISG402,İŞ SAĞLIĞI VE GÜVENLİĞİ II,1,0,0,1,1, Görüntüle,  Görüntüle
+
+
+
+ARA101,ARAPÇA I,3,0,0,3,6, Görüntüle, Görüntüle
+ARA102,ARAPÇA II,3,0,0,3,6, Görüntüle, Görüntüle
+CGY413,BİLİMSEL ARAŞTIRMA YÖNTEMLERİ,3,0,0,3,5, Görüntüle, Görüntüle
+CHI101,ÇİNCE I,3,0,0,3,6, Görüntüle, Görüntüle
+CHI102,ÇİNCE II,3,0,0,3,6, Görüntüle, Görüntüle
+EKF450,SÜRDÜRÜLEBİLİRLİK,3,0,0,3,6, Görüntüle, Görüntüle
+FEL450,FELSEFE,3,0,0,3,6, Görüntüle, Görüntüle
+FRE101,FRANSIZCA I,3,0,0,3,6, Görüntüle, Görüntüle
+FRE102,FRANSIZCA II,3,0,0,3,6, Görüntüle, Görüntüle
+HIT207,TÜRKİYENİN YÖNETİM YAPISI,3,0,0,3,6, Görüntüle, Görüntüle
+HRY208,SOSYAL PSİKOLOJİ,3,0,0,3,5, Görüntüle, Görüntüle
+ISF450,AKADEMİK BAŞARI VE SOSYAL YAŞAM BECERİLERİNE GİRİŞ,3,0,0,3,6, Görüntüle, Görüntüle
+ISL401,YENİ YÖNETİM YAKLAŞIMLARI VE TOPLAM KALİTE,3,0,0,3,6, Görüntüle, Görüntüle
+ISY304,İŞ VE SOSYAL GÜVENLİK HUKUKU,3,0,0,3,6, Görüntüle, Görüntüle
+JAP101,JAPONCA I,3,0,0,3,6, Görüntüle, Görüntüle
+JAP102,JAPONCA II,3,0,0,3,6, Görüntüle, Görüntüle
+PSI201,SOSYAL PSİKOLOJİ I,3,0,0,3,6, Görüntüle, Görüntüle
+PSI211,PSİKOLOJİDE ARAŞTIRMA YÖNTEMLERİ I,1,2,0,2,5, Görüntüle, Görüntüle
+PSI328,LİDERLİK PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+PSI425,TRAFİK PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+PSI429,ÖNYARGI VE ŞİDDET,3,0,0,3,5, Görüntüle, Görüntüle
+PSI464,AİLE PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+RTS210,İLETİŞİM KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+RUS101,RUSÇA I,3,0,0,3,6, Görüntüle, Görüntüle
+RUS102,RUSÇA II,3,0,0,3,6, Görüntüle, Görüntüle
+SBU107,SOSYOLOJİYE GİRİŞ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS375,GENÇLİK SOSYOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS445,BİLİM FELSEFESİ,3,0,0,3,5, Görüntüle, Görüntüle
+SPA101,İSPANYOLCA I,3,0,0,3,6, Görüntüle, Görüntüle
+SPA102,İSPANYOLCA II,3,0,0,3,6, Görüntüle, Görüntüle
+SSD230,İLK YARDIM,2,0,0,2,5, Görüntüle, Görüntüle
+SYY204,TEMEL HUKUK,3,0,0,3,5, Görüntüle, Görüntüle
+SYY213,İŞLETME YÖNETİMİ I,3,0,0,3,8, Görüntüle, Görüntüle
+UBY401,SOSYAL BİLİMLERDE ARAŞTIRMA YÖNTEMLERİ,3,0,0,3,5, Görüntüle, Görüntüle
+UBY405,SOSYAL BİLİMLERDE ARAŞTIRMA YÖNTEMLERİ II,3,0,0,3,5, Görüntüle, Görüntüle
+URH105,İLETİŞİME GİRİŞ,3,0,0,3,5, Görüntüle, Görüntüle
+UYG401,UYGARLIKLAR TARİHİ I,3,0,0,3,6, Görüntüle, Görüntüle
+UYG402,UYGARLIKLAR TARİHİ II,3,0,0,3,6, Görüntüle, Görüntüle
+
+
+
+ARA101,ARAPÇA I,3,0,0,3,6, Görüntüle, Görüntüle
+ARA102,ARAPÇA II,3,0,0,3,6, Görüntüle, Görüntüle
+CGY413,BİLİMSEL ARAŞTIRMA YÖNTEMLERİ,3,0,0,3,5, Görüntüle, Görüntüle
+CHI101,ÇİNCE I,3,0,0,3,6, Görüntüle, Görüntüle
+CHI102,ÇİNCE II,3,0,0,3,6, Görüntüle, Görüntüle
+EKF450,SÜRDÜRÜLEBİLİRLİK,3,0,0,3,6, Görüntüle, Görüntüle
+FEL450,FELSEFE,3,0,0,3,6, Görüntüle, Görüntüle
+FRE101,FRANSIZCA I,3,0,0,3,6, Görüntüle, Görüntüle
+FRE102,FRANSIZCA II,3,0,0,3,6, Görüntüle, Görüntüle
+HIT207,TÜRKİYENİN YÖNETİM YAPISI,3,0,0,3,6, Görüntüle, Görüntüle
+HRY208,SOSYAL PSİKOLOJİ,3,0,0,3,5, Görüntüle, Görüntüle
+ISF450,AKADEMİK BAŞARI VE SOSYAL YAŞAM BECERİLERİNE GİRİŞ,3,0,0,3,6, Görüntüle, Görüntüle
+ISL401,YENİ YÖNETİM YAKLAŞIMLARI VE TOPLAM KALİTE,3,0,0,3,6, Görüntüle, Görüntüle
+ISY304,İŞ VE SOSYAL GÜVENLİK HUKUKU,3,0,0,3,6, Görüntüle, Görüntüle
+JAP101,JAPONCA I,3,0,0,3,6, Görüntüle, Görüntüle
+JAP102,JAPONCA II,3,0,0,3,6, Görüntüle, Görüntüle
+PSI201,SOSYAL PSİKOLOJİ I,3,0,0,3,6, Görüntüle, Görüntüle
+PSI211,PSİKOLOJİDE ARAŞTIRMA YÖNTEMLERİ I,1,2,0,2,5, Görüntüle, Görüntüle
+PSI328,LİDERLİK PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+PSI425,TRAFİK PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+PSI429,ÖNYARGI VE ŞİDDET,3,0,0,3,5, Görüntüle, Görüntüle
+PSI464,AİLE PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+RTS210,İLETİŞİM KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+RUS101,RUSÇA I,3,0,0,3,6, Görüntüle, Görüntüle
+RUS102,RUSÇA II,3,0,0,3,6, Görüntüle, Görüntüle
+SBU107,SOSYOLOJİYE GİRİŞ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS375,GENÇLİK SOSYOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS445,BİLİM FELSEFESİ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS498,KARİYER PLANLAMA,3,0,0,3,6, Görüntüle, Görüntüle
+SOS499,SOSYAL SORUMLULUK,0,6,0,3,6, Görüntüle, Görüntüle
+SPA101,İSPANYOLCA I,3,0,0,3,6, Görüntüle, Görüntüle
+SPA102,İSPANYOLCA II,3,0,0,3,6, Görüntüle, Görüntüle
+SSD230,İLK YARDIM,2,0,0,2,5, Görüntüle, Görüntüle
+SYY204,TEMEL HUKUK,3,0,0,3,5, Görüntüle, Görüntüle
+SYY213,İŞLETME YÖNETİMİ I,3,0,0,3,8, Görüntüle, Görüntüle
+UBY401,SOSYAL BİLİMLERDE ARAŞTIRMA YÖNTEMLERİ,3,0,0,3,5, Görüntüle, Görüntüle
+UBY405,SOSYAL BİLİMLERDE ARAŞTIRMA YÖNTEMLERİ II,3,0,0,3,5, Görüntüle, Görüntüle
+URH105,İLETİŞİME GİRİŞ,3,0,0,3,5, Görüntüle, Görüntüle
+UYG401,UYGARLIKLAR TARİHİ I,3,0,0,3,6, Görüntüle, Görüntüle
+UYG402,UYGARLIKLAR TARİHİ II,3,0,0,3,6, Görüntüle, Görüntüle
+
+
+
+ARA101,ARAPÇA I,3,0,0,3,6, Görüntüle, Görüntüle
+ARA102,ARAPÇA II,3,0,0,3,6, Görüntüle, Görüntüle
+CGY413,BİLİMSEL ARAŞTIRMA YÖNTEMLERİ,3,0,0,3,5, Görüntüle, Görüntüle
+CHI101,ÇİNCE I,3,0,0,3,6, Görüntüle, Görüntüle
+CHI102,ÇİNCE II,3,0,0,3,6, Görüntüle, Görüntüle
+EKF450,SÜRDÜRÜLEBİLİRLİK,3,0,0,3,6, Görüntüle, Görüntüle
+END208,SİSTEM ANALİZİ VE TASARIMI,2,0,0,2,6, Görüntüle, Görüntüle
+END310,PAZARLAMA YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END330,ENDÜSTRİ İŞLETMELERİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END336,YATIRIM ANALİZİ VE PORTFOY YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END339,STOK VE ENVANTER YÖNETİMİ,1,1,1,3,6, Görüntüle, Görüntüle
+END340,ENDÜSTRİYEL ROBOTLAR,3,0,0,3,6, Görüntüle, Görüntüle
+END341,HÜCRESEL ÜRETİM SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END342,MALZEME TAŞIMA SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END343,ÜRETİM KAYNAKLARI PLANLAMASI,1,1,1,3,6, Görüntüle, Görüntüle
+END344,MODERN İMALAT SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END345,ÇİZELGELEME,1,2,0,2,6, Görüntüle, Görüntüle
+END346,ÜRETİM BİLGİ SİTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END348,DENEY TASARIMI,3,0,0,3,6, Görüntüle, Görüntüle
+END349,İLERİ KALİTE MÜHENDİSLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END350,İSTATİSTİKSEL KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END351,STOKASTİK SÜREÇLER,3,0,0,3,6, Görüntüle, Görüntüle
+END353,DİNAMİK PROGRAMLAMA,3,0,0,3,6, Görüntüle, Görüntüle
+END354,KARAR VE OYUN KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+END356,SEZGİSEL YÖNTEMLER,3,0,0,3,6, Görüntüle, Görüntüle
+END409,ALTI SİGMA UYGULAMALARI,3,0,0,3,6, Görüntüle, Görüntüle
+END415,YATIRIM PLANLAMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END428,İSTATİSTİKSEL KALİTE KONTROL,3,0,0,3,6, Görüntüle, Görüntüle
+END434,TEKNOLOJİ GİRİŞİMCİLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END437,TEDARİK ZİNCİRİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END439,KURUMSAL KAYNAK PLANLAMASI-ERP,1,0,2,2,6, Görüntüle, Görüntüle
+END440,KUYRUK KURAMI,3,0,0,3,6, Görüntüle, Görüntüle
+END442,SİMÜLASYON DİLLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END444,ÇOK ÖLÇÜTLÜ KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END447,SİSTEM DİNAMİĞİ,2,0,0,2,6, Görüntüle, Görüntüle
+END448,İLERİ YÖNEYLEM ARAŞTIRMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END449,YALIN ÜRETİM,1,2,0,2,6, Görüntüle, Görüntüle
+END450,BAKIM YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END452,TERSİNE MÜHENDİSLİK,3,0,0,3,6, Görüntüle, Görüntüle
+END453,İŞ DEĞERLENDİRMESİ VE ÜCRET SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END454,ENERJİ EKONOMİSİ,3,0,0,3,6, Görüntüle, Görüntüle
+END455,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR I,3,0,0,3,6, Görüntüle, Görüntüle
+END456,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR II,2,0,2,3,6, Görüntüle, Görüntüle
+END458,PROJE YÖNETİMİ,2,0,2,3,6, Görüntüle, Görüntüle
+END459,BİLGİSAYARLA BÜTÜNLEŞİK İMALAT SİSTEMLERİ,1,0,2,2,6, Görüntüle, Görüntüle
+END460,TOPLAM KALİTE YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+FEL450,FELSEFE,3,0,0,3,6, Görüntüle, Görüntüle
+FRE101,FRANSIZCA I,3,0,0,3,6, Görüntüle, Görüntüle
+FRE102,FRANSIZCA II,3,0,0,3,6, Görüntüle, Görüntüle
+HIT207,TÜRKİYENİN YÖNETİM YAPISI,3,0,0,3,6, Görüntüle, Görüntüle
+HRY208,SOSYAL PSİKOLOJİ,3,0,0,3,5, Görüntüle, Görüntüle
+ISF450,AKADEMİK BAŞARI VE SOSYAL YAŞAM BECERİLERİNE GİRİŞ,3,0,0,3,6, Görüntüle, Görüntüle
+ISL401,YENİ YÖNETİM YAKLAŞIMLARI VE TOPLAM KALİTE,3,0,0,3,6, Görüntüle, Görüntüle
+ISY304,İŞ VE SOSYAL GÜVENLİK HUKUKU,3,0,0,3,6, Görüntüle, Görüntüle
+JAP101,JAPONCA I,3,0,0,3,6, Görüntüle, Görüntüle
+JAP102,JAPONCA II,3,0,0,3,6, Görüntüle, Görüntüle
+PSI201,SOSYAL PSİKOLOJİ I,3,0,0,3,6, Görüntüle, Görüntüle
+PSI211,PSİKOLOJİDE ARAŞTIRMA YÖNTEMLERİ I,1,2,0,2,5, Görüntüle, Görüntüle
+PSI328,LİDERLİK PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+PSI425,TRAFİK PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+PSI429,ÖNYARGI VE ŞİDDET,3,0,0,3,5, Görüntüle, Görüntüle
+PSI464,AİLE PSİKOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+RTS210,İLETİŞİM KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+RUS101,RUSÇA I,3,0,0,3,6, Görüntüle, Görüntüle
+RUS102,RUSÇA II,3,0,0,3,6, Görüntüle, Görüntüle
+SBU107,SOSYOLOJİYE GİRİŞ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS375,GENÇLİK SOSYOLOJİSİ,3,0,0,3,5, Görüntüle, Görüntüle
+SOS445,BİLİM FELSEFESİ,3,0,0,3,5, Görüntüle, Görüntüle
+SPA101,İSPANYOLCA I,3,0,0,3,6, Görüntüle, Görüntüle
+SPA102,İSPANYOLCA II,3,0,0,3,6, Görüntüle, Görüntüle
+SSD230,İLK YARDIM,2,0,0,2,5, Görüntüle, Görüntüle
+SYY204,TEMEL HUKUK,3,0,0,3,5, Görüntüle, Görüntüle
+SYY213,İŞLETME YÖNETİMİ I,3,0,0,3,8, Görüntüle, Görüntüle
+UBY401,SOSYAL BİLİMLERDE ARAŞTIRMA YÖNTEMLERİ,3,0,0,3,5, Görüntüle, Görüntüle
+UBY405,SOSYAL BİLİMLERDE ARAŞTIRMA YÖNTEMLERİ II,3,0,0,3,5, Görüntüle, Görüntüle
+URH105,İLETİŞİME GİRİŞ,3,0,0,3,5, Görüntüle, Görüntüle
+UYG401,UYGARLIKLAR TARİHİ I,3,0,0,3,6, Görüntüle, Görüntüle
+UYG402,UYGARLIKLAR TARİHİ II,3,0,0,3,6, Görüntüle, Görüntüle
+
+
+
+END208,SİSTEM ANALİZİ VE TASARIMI,2,0,0,2,6, Görüntüle, Görüntüle
+END310,PAZARLAMA YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END330,ENDÜSTRİ İŞLETMELERİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END336,YATIRIM ANALİZİ VE PORTFOY YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END339,STOK VE ENVANTER YÖNETİMİ,1,0,2,2,6, Görüntüle, Görüntüle
+END340,ENDÜSTRİYEL ROBOTLAR,3,0,0,3,6, Görüntüle, Görüntüle
+END341,HÜCRESEL ÜRETİM SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END342,MALZEME TAŞIMA SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END343,ÜRETİM KAYNAKLARI PLANLAMASI,1,0,2,2,6, Görüntüle, Görüntüle
+END344,MODERN İMALAT SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END345,ÇİZELGELEME,1,2,0,2,6, Görüntüle, Görüntüle
+END346,ÜRETİM BİLGİ SİTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END348,DENEY TASARIMI,3,0,0,3,6, Görüntüle, Görüntüle
+END349,İLERİ KALİTE MÜHENDİSLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END350,İSTATİSTİKSEL KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END351,STOKASTİK SÜREÇLER,3,0,0,3,6, Görüntüle, Görüntüle
+END353,DİNAMİK PROGRAMLAMA,3,0,0,3,6, Görüntüle, Görüntüle
+END354,KARAR VE OYUN KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+END356,SEZGİSEL YÖNTEMLER,3,0,0,3,6, Görüntüle, Görüntüle
+END409,ALTI SİGMA UYGULAMALARI,3,0,0,3,6, Görüntüle, Görüntüle
+END415,YATIRIM PLANLAMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END428,İSTATİSTİKSEL KALİTE KONTROL,3,0,0,3,6, Görüntüle, Görüntüle
+END434,TEKNOLOJİ GİRİŞİMCİLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END437,TEDARİK ZİNCİRİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END439,KURUMSAL KAYNAK PLANLAMASI-ERP,1,0,2,2,6, Görüntüle, Görüntüle
+END440,KUYRUK KURAMI,3,0,0,3,6, Görüntüle, Görüntüle
+END442,SİMÜLASYON DİLLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END444,ÇOK ÖLÇÜTLÜ KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END447,SİSTEM DİNAMİĞİ,2,0,0,2,6, Görüntüle, Görüntüle
+END448,İLERİ YÖNEYLEM ARAŞTIRMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END449,YALIN ÜRETİM,1,2,0,2,6, Görüntüle, Görüntüle
+END450,BAKIM YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END452,TERSİNE MÜHENDİSLİK,3,0,0,3,6, Görüntüle, Görüntüle
+END453,İŞ DEĞERLENDİRMESİ VE ÜCRET SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END454,ENERJİ EKONOMİSİ,3,0,0,3,6, Görüntüle, Görüntüle
+END455,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR I,3,0,0,3,6, Görüntüle, Görüntüle
+END456,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR II,2,0,2,3,6, Görüntüle, Görüntüle
+END458,PROJE YÖNETİMİ,2,0,2,3,6, Görüntüle, Görüntüle
+END459,BİLGİSAYARLA BÜTÜNLEŞİK İMALAT SİSTEMLERİ,1,0,2,2,6, Görüntüle, Görüntüle
+END460,TOPLAM KALİTE YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+FIZ453,FİZİK III,5,0,0,5,6, Görüntüle, Görüntüle
+
+
+
+END208,SİSTEM ANALİZİ VE TASARIMI,2,0,0,2,6, Görüntüle, Görüntüle
+END310,PAZARLAMA YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END330,ENDÜSTRİ İŞLETMELERİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END336,YATIRIM ANALİZİ VE PORTFOY YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END339,STOK VE ENVANTER YÖNETİMİ,1,1,1,2,6, Görüntüle, Görüntüle
+END340,ENDÜSTRİYEL ROBOTLAR,3,0,0,3,6, Görüntüle, Görüntüle
+END341,HÜCRESEL ÜRETİM SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END342,MALZEME TAŞIMA SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END343,ÜRETİM KAYNAKLARI PLANLAMASI,1,1,1,2,6, Görüntüle, Görüntüle
+END344,MODERN İMALAT SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END345,ÇİZELGELEME,1,2,0,2,6, Görüntüle, Görüntüle
+END346,ÜRETİM BİLGİ SİTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END348,DENEY TASARIMI,3,0,0,3,6, Görüntüle, Görüntüle
+END349,İLERİ KALİTE MÜHENDİSLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END350,İSTATİSTİKSEL KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END351,STOKASTİK SÜREÇLER,3,0,0,3,6, Görüntüle, Görüntüle
+END353,DİNAMİK PROGRAMLAMA,3,0,0,3,6, Görüntüle, Görüntüle
+END354,KARAR VE OYUN KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+END356,SEZGİSEL YÖNTEMLER,3,0,0,3,6, Görüntüle, Görüntüle
+END409,ALTI SİGMA UYGULAMALARI,3,0,0,3,6, Görüntüle, Görüntüle
+END415,YATIRIM PLANLAMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END428,İSTATİSTİKSEL KALİTE KONTROL,3,0,0,3,6, Görüntüle, Görüntüle
+END434,TEKNOLOJİ GİRİŞİMCİLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END437,TEDARİK ZİNCİRİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END439,KURUMSAL KAYNAK PLANLAMASI-ERP,1,0,2,2,6, Görüntüle, Görüntüle
+END440,KUYRUK KURAMI,3,0,0,3,6, Görüntüle, Görüntüle
+END442,SİMÜLASYON DİLLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END444,ÇOK ÖLÇÜTLÜ KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END447,SİSTEM DİNAMİĞİ,2,0,0,2,6, Görüntüle, Görüntüle
+END448,İLERİ YÖNEYLEM ARAŞTIRMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END449,YALIN ÜRETİM,1,2,0,2,6, Görüntüle, Görüntüle
+END450,BAKIM YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END452,TERSİNE MÜHENDİSLİK,3,0,0,3,6, Görüntüle, Görüntüle
+END453,İŞ DEĞERLENDİRMESİ VE ÜCRET SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END454,ENERJİ EKONOMİSİ,3,0,0,3,6, Görüntüle, Görüntüle
+END455,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR I,3,0,0,3,6, Görüntüle, Görüntüle
+END456,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR II,2,0,2,3,6, Görüntüle, Görüntüle
+END458,PROJE YÖNETİMİ,2,0,2,3,6, Görüntüle, Görüntüle
+END459,BİLGİSAYARLA BÜTÜNLEŞİK İMALAT SİSTEMLERİ,1,0,2,2,6, Görüntüle, Görüntüle
+END460,TOPLAM KALİTE YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+
+
+
+BIL201,NESNE YÖNELİMLİ PROGRAMLAMA,3,2,0,4,6, Görüntüle, Görüntüle
+BIL202,VERİ YAPILARI VE ALGORİTMALAR,3,0,0,3,6, Görüntüle, Görüntüle
+BIL206,BİLGİSAYAR MİMARİSİ,2,2,0,3,6, Görüntüle, Görüntüle
+BIL216,GÖRSEL PROGRAMLAMA,2,2,0,3,6, Görüntüle, Görüntüle
+BIL308,YAZILIM MÜHENDİSLİĞİ,2,2,0,3,6, Görüntüle, Görüntüle
+BIL309,VERİTABANI YÖNETİMİ,2,0,2,3,6, Görüntüle, Görüntüle
+BIL314,AĞ TEKNOLOJİLERİ,2,0,2,3,6, Görüntüle, Görüntüle
+EEM207,ELEKTRONİK I,2,0,2,3,6, Görüntüle, Görüntüle
+EEM209,MANTIKSAL DEVRE TASARIMI,2,0,2,3,6, Görüntüle, Görüntüle
+EEM213,DEVRE ANALİZİ I,2,0,2,3,6, Görüntüle, Görüntüle
+EEM301,ELEKTRİK MAKİNALARI,3,0,2,4,5, Görüntüle, Görüntüle
+EEM303,GÜÇ ELEKTRONİĞİ,2,0,2,3,5, Görüntüle, Görüntüle
+EEM304,HABERLEŞME SİSTEMLERİ,3,0,2,4,6, Görüntüle, Görüntüle
+EEM306,KONTROL SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END208,SİSTEM ANALİZİ VE TASARIMI,2,0,0,2,6, Görüntüle, Görüntüle
+END310,PAZARLAMA YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END330,ENDÜSTRİ İŞLETMELERİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END336,YATIRIM ANALİZİ VE PORTFOY YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END339,STOK VE ENVANTER YÖNETİMİ,1,0,2,2,6, Görüntüle, Görüntüle
+END340,ENDÜSTRİYEL ROBOTLAR,3,0,0,3,6, Görüntüle, Görüntüle
+END341,HÜCRESEL ÜRETİM SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END342,MALZEME TAŞIMA SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END343,ÜRETİM KAYNAKLARI PLANLAMASI,1,0,2,2,6, Görüntüle, Görüntüle
+END344,MODERN İMALAT SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END345,ÇİZELGELEME,1,2,0,2,6, Görüntüle, Görüntüle
+END346,ÜRETİM BİLGİ SİTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END348,DENEY TASARIMI,3,0,0,3,6, Görüntüle, Görüntüle
+END349,İLERİ KALİTE MÜHENDİSLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END350,İSTATİSTİKSEL KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END351,STOKASTİK SÜREÇLER,3,0,0,3,6, Görüntüle, Görüntüle
+END353,DİNAMİK PROGRAMLAMA,3,0,0,3,6, Görüntüle, Görüntüle
+END354,KARAR VE OYUN KURAMLARI,3,0,0,3,6, Görüntüle, Görüntüle
+END356,SEZGİSEL YÖNTEMLER,3,0,0,3,6, Görüntüle, Görüntüle
+END409,ALTI SİGMA UYGULAMALARI,3,0,0,3,6, Görüntüle, Görüntüle
+END415,YATIRIM PLANLAMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END428,İSTATİSTİKSEL KALİTE KONTROL,3,0,0,3,6, Görüntüle, Görüntüle
+END434,TEKNOLOJİ GİRİŞİMCİLİĞİ,3,0,0,3,6, Görüntüle, Görüntüle
+END437,TEDARİK ZİNCİRİ YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END439,KURUMSAL KAYNAK PLANLAMASI-ERP,1,0,2,2,6, Görüntüle, Görüntüle
+END440,KUYRUK KURAMI,3,0,0,3,6, Görüntüle, Görüntüle
+END442,SİMÜLASYON DİLLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END444,ÇOK ÖLÇÜTLÜ KARAR VERME,3,0,0,3,6, Görüntüle, Görüntüle
+END447,SİSTEM DİNAMİĞİ,2,0,0,2,6, Görüntüle, Görüntüle
+END448,İLERİ YÖNEYLEM ARAŞTIRMASI,3,0,0,3,6, Görüntüle, Görüntüle
+END449,YALIN ÜRETİM,1,2,0,2,6, Görüntüle, Görüntüle
+END450,BAKIM YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+END452,TERSİNE MÜHENDİSLİK,3,0,0,3,6, Görüntüle, Görüntüle
+END453,İŞ DEĞERLENDİRMESİ VE ÜCRET SİSTEMLERİ,3,0,0,3,6, Görüntüle, Görüntüle
+END454,ENERJİ EKONOMİSİ,3,0,0,3,6, Görüntüle, Görüntüle
+END455,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR I,3,0,0,3,6, Görüntüle, Görüntüle
+END456,ENDÜSTRİ MÜHENDİSLİĞİNDE ÖZEL KONULAR II,2,0,2,3,6, Görüntüle, Görüntüle
+END458,PROJE YÖNETİMİ,2,0,2,3,6, Görüntüle, Görüntüle
+END459,BİLGİSAYARLA BÜTÜNLEŞİK İMALAT SİSTEMLERİ,1,0,2,2,6, Görüntüle, Görüntüle
+END460,TOPLAM KALİTE YÖNETİMİ,3,0,0,3,6, Görüntüle, Görüntüle
+FIZ453,FİZİK III,5,0,0,5,6, Görüntüle, Görüntüle
+KIM452,ANALİTİK KİMYA,5,0,0,5,6, Görüntüle, Görüntüle
+MAT451,İLERİ MATEMATİK,5,0,0,5,6, Görüntüle, Görüntüle
+MEK207,STATİK VE MUKAVEMET,3,0,0,3,6, Görüntüle, Görüntüle
+

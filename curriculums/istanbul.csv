@@ -1,0 +1,144 @@
+ODAI0001, ATATÜRK İLKELERİ VE İNKILAP TARİHİ I ,2,2,"
+Z                                ",2/0/0
+ODBE0001, BEDEN EĞİTİMİ I ,0,1,"
+S                                ",1/0/0
+ENMU1920, BİLGİSAYAR TEMELLERİ VE PROGRAMLAMAYA GİRİŞ ,3,5,"
+Z                                ",2/0/2
+ENMU1003, ENDÜSTRİ MÜHENDİSLİĞİNE GİRİŞ ,2,2,"
+Z                                ",2/0/0
+ENMU1900, FİZİK I ,4,6,"
+Z                                ",3/0/2
+ENMU1906, GENEL KİMYA ,3,4,"
+Z                                ",3/0/0
+ODGS0001, GÜZEL SANATLAR I ,0,1,"
+S                                ",1/0/0
+ENMU1902, MATEMATİK I ,5,6,"
+Z                                ",4/2/0
+ENMU1063, TEKNİK İNGİLİZCE I ,2,2,"
+Z                                ",2/0/0
+ODTD0001, TÜRK DİLİ I ,2,2,"
+Z                                ",2/0/0
+YUAI0001, YABANCI ÖĞRENCİLER İÇİN ATATÜRK İLKELERİ VE İNKILAP TARİHİ I ,2,2,"
+S                                ",2/0/0
+YUTD0001, YABANCI ÖĞRENCİLER İÇİN TÜRK DİLİ I ,2,2,"
+S                                ",2/0/0
+ODAI0002, ATATÜRK İLKELERİ VE İNKILAP TARİHİ II ,2,2,"
+Z                                ",2/0/0
+ODBE0002, BEDEN EĞİTİMİ II ,0,1,"
+S                                ",1/0/0
+ENMU901, FİZİK II ,4,6,"
+Z                                ",3/0/2
+ODGS0002, GÜZEL SANATLAR II ,0,1,"
+S                                ",1/0/0
+ENMU1903, MATEMATİK II ,5,6,"
+Z                                ",4/2/0
+ENMU1064, TEKNİK İNGİLİZCE II ,2,2,"
+Z                                ",2/0/0
+ENMU1919, TEKNİK RESİM ,3,5,"
+Z                                ",3/1/0
+ODTD0002, TÜRK DİLİ II ,2,2,"
+Z                                ",2/0/0
+YUAI0002, YABANCI ÖĞRENCİLER İÇİN ATATÜRK İLKELERİ VE İNKILAP TARİHİ II ,2,2,"
+S                                ",2/0/0
+YUTD0002, YABANCI ÖĞRENCİLER İÇİN TÜRK DİLİ II ,2,2,"
+S                                ",2/0/0
+ENMU1004, YAPISAL PROGRAMLAMA ,3,6,"
+Z                                ",2/0/2
+ENMU2001, EKONOMİ I ,2,2,"
+Z                                ",2/0/0
+ENMU2007, ENDÜSTRİ MÜHENDİSLİĞİ İÇİN MUHASEBE ,3,5,"
+Z                                ",3/0/0
+ENMU2047, MULTIVARIANT FUNCTIONS AND APPLICATIONS ,3,7,"
+Z                                ",2/2/0
+ENMU2008, MÜHENDİSLİK MEKANİĞİ ,3,4,"
+S                                ",3/0/0
+ENMU2005, NESNEYE YÖNELİK PROGRAMLAMA ,3,6,"
+Z                                ",2/0/2
+ENMU2006, OLASILIK TEORİSİ VE İSTATİSTİĞE GİRİŞ ,3,6,"
+Z                                ",3/0/0
+ENMU2009, TERMODİNAMİK ,3,4,"
+S                                ",3/0/0
+ENMU2046, DATABASE SYSTEMS AND MANAGEMENT ,3,6,"
+Z                                ",2/0/2
+ENMU2048, DIFFERENTIAL EQUATIONS ,4,6,"
+Z                                ",4/0/0
+ENMU2002, EKONOMİ II ,2,2,"
+Z                                ",2/0/0
+ENMU2045, INTRODUCTION TO SYSTEM ANALYSIS ,3,3,"
+Z                                ",3/0/0
+ENMU2043, İSTATİSTİK ,3,4,"
+Z                                ",3/0/0
+ENMU2049, LINEAR ALGEBRA ,3,3,"
+Z                                ",3/0/0
+ENMU2012, MALİYET MUHASEBESİ ,3,3,"
+Z                                ",3/0/0
+ENMU2044, MANAGEMENT AND ORGANIZATION ,2,3,"
+Z                                ",2/0/0
+ENMU3062, FACILITY DESIGN ,3,5,"
+Z                                ",2/2/0
+ENMU3017, İŞLETME FİNANSI ,3,4,"
+S                                ",3/0/0
+ENMU3022, MALZEME BİLİMİ ,3,4,"
+S                                ",3/0/0
+ENMU3055, OPERATIONS RESEARCH I ,4,8,"
+Z                                ",3/2/0
+ENMU3059, TECHNOLOGY AND R&D MANAGEMENT ,3,4,"
+S                                ",3/0/0
+ENMU3058, TOTAL QUALITY MANAGEMENT ,3,5,"
+Z                                ",3/0/0
+ENMU3063, WORK STUDY AND ERGONOMICS ,3,4,"
+S                                ",3/0/0
+ENMU3038, ENDÜSTRİYEL SOSYOLOJİ VE PSİKOLOJİ ,3,4,"
+S                                ",3/0/0
+ENMU3061, ENGINEERING ECONOMICS ,3,4,"
+S                                ",3/0/0
+ENMU3060, HUMAN RESOURCES PLANNING ,3,4,"
+S                                ",3/0/0
+ENMU3025, LOJİSTİK YÖNETİMİ ,3,5,"
+Z                                ",2/2/0
+ENMU3056, OPERATIONS RESEARCH II ,4,8,"
+Z                                ",3/2/0
+ENMU3057, PROJECT MANAGEMENT ,3,5,"
+Z                                ",2/2/0
+ENMU3054, ZAMAN SERİLERİNİN ANALİZİ ,3,4,"
+S                                ",3/0/0
+ENMU4029, BİTİRME PROJESİ I ,2,4,"
+Z                                ",0/4/0
+ENMU4034, ELEKTRONİK TİCARET VE PAZARLAMA ,2,3,"
+S                                ",2/0/0
+ENMU4042, İNOVASYON YÖNETİMİ ,2,3,"
+S                                ",2/0/0
+ENMU4035, SEZGİSEL OPTİMİZASYON ,3,4,"
+S                                ",3/0/0
+ENMU4055, TÜMEVARIM YÖNTEMLERİNE GİRİŞ ,3,4,"
+S                                ",3/0/0
+ENMU4058, VERİ MADENCİLİĞİ VE BİLGİ KEŞFİ ,3,4,"
+S                                ",3/0/0
+ODAK0001, AFET KÜLTÜRÜ ,2,2,"
+S                                ",2/0/0
+ENMU4040, ALTI SİGMA İLE SÜREÇ YÖNETİMİ ,3,4,"
+S                                ",3/0/0
+ENMU4062, AR-GE VE İNOVASYON PROJELERİNİN YÖNETİMİ ,3,5,"
+S                                ",2/2/0
+ENMU4030, BİTİRME PROJESİ II ,2,8,"
+Z                                ",0/4/0
+ENMU4056, DENEY TASARIMI ,3,4,"
+S                                ",3/0/0
+ENMU4060, HİZMET SİSTEMLERİ YÖNETİMİ ,3,4,"
+S                                ",3/0/0
+ENMU4031, İSTATİSTİKSEL KALİTE KONTROL ,3,5,"
+Z                                ",2/2/0
+ENMU4924, İŞ HUKUKU ,2,2,"
+S                                ",2/0/0
+ENMU4904, İŞ SAĞLIĞI VE GÜVENLİĞİ ,2,2,"
+S                                ",2/0/0
+ENMU4052, MODERN ÜRETİM SİSTEMLERİ ,3,4,"
+S                                ",3/0/0
+ENMU4059, PARAMETRİK OLMAYAN İSTATİSTİK YÖNTEMLER ,3,4,"
+S                                ",3/0/0
+ODSK0001, ŞEHİR VE KÜLTÜR-İSTANBUL ,2,2,"
+S                                ",2/0/0
+MUHG0001, UYGULAMALI GİRİŞİMCİLİK ,3,5,"
+S                                ",2/2/0
+ENMU4036, YAPAY ZEKAYA GİRİŞ ,3,4,"
+S                                ",3/0/0
