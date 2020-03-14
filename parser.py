@@ -4,7 +4,7 @@ from googlesearch import search
 import csv
 from tldextract import extract as extractTLD
 
-query="endüstri mühendisliği lisans ders programı müfredat"
+query="endüstri mühendisliği lisans ders programı"
 
 urls = []
 
@@ -16,6 +16,9 @@ print("Retrieved " + str(len(urls)) + " urls.")
 print("Starting to iterate through urls..")
 for url in urls:
     rowsToPrint = [] # To CSV
+    if extractTLD(url).suffix != "edu.tr":
+        print(str(url) + " does not include 'edu.tr' suffix, skipping url..")
+        continue
     try:
         html = requests.get(url).text
     except requests.exceptions.RequestException: # In case of commucation failure we want our script to continue

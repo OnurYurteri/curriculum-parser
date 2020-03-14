@@ -1,21 +1,216 @@
-Ders Kodu,Ders Adı,"
-Kredi
+
 "
-IE 102,Endüstri Mühendisliğinin Esasları (Principles of Industrial Engineering),3
-IE 215,Bilgisayar Destekli Çizim (Computer-Aided Technical Drawing),3
-IE 241,İmalat Süreçleri (Manufacturing Processes),3
-IE 222,Ergonomi ve İnsan Faktörleri Mühendisliği(Ergonomics and Human Factors Engineering),3
-IE 214,Endüstri Mühendisleri için Programlama Araçları (Programming Tools for Industrial Engineers),3
-IE 311,Operations Research I (Yöneylem Araştırması I),3
-IE 312,Operations Research II (Yöneylem Araştırması II),3
-IE 313,Statistical Decision Making (İstatistiksel Karar Verme),3
-IE 332,Sistemlerin Benzetimi (Systems Simulation),3
-IE 342,Malzeme Yönetimi (Materials Management),3
-IE 401,Production Planning and Control (Üretim Planlama ve Kontrol),3
-IE 412,Statistical Quality Control (İstatistiksel Kalite Kontrol),3
-GE 103,Engineering Guide and Ethics (Mühendislik Rehberliği ve Etik),3
-GE 401,Engineering Problem Solving and Project Management (Mühendislik Problem Çözme ve Proje Yönetimi),2
-GE 400,Engineering Design Project (Mühendislik Tasarım Projesi),4
-BA 213,Introduction to Accounting (Muhasebeye Giriş),3
-EC 309,Economics for Engineers (Mühendisler için Ekonomi),3
-CH 201,Materials Science (Malzeme yönetimi),2
+EL101
+",Z,İngilizce I,İngilizce,03,00,00,3,4
+"
+GE103
+",Z,Mühendislik Rehberliği ve Etik,İngilizce,03,00,00,3,5
+"
+MA101
+",Z,Analiz I,İngilizce,03,02,00,4,7
+"
+MA103
+",Z,Doğrusal Cebir,İngilizce,03,00,00,3,6
+"
+PH121
+",Z,Fizik I,İngilizce,03,00,00,3,5
+"
+PH131
+",Z,Fizik Laboratuvarı I,İngilizce,00,00,02,1,2
+"
+TD101
+",Z,Türk Dili I,Türkçe,02,00,00,2,1
+DÖNEM TOPLAMI:,17,02,02,19,30
+
+"
+CH101
+",Z,Kimya,İngilizce,03,00,02,4,6
+"
+EL102
+",Z,İngilizce II,İngilizce,03,00,00,3,4
+"
+IE102
+",Z,Endüstri Mühendisliğinin İlkeleri,İngilizce,03,00,00,3,5
+"
+MA102
+",Z,Analiz II,İngilizce,03,02,00,4,7
+"
+PH122
+",Z,Fizik II,İngilizce,03,00,00,3,5
+"
+PH132
+",Z,Fizik Laboratuvarı II,İngilizce,00,00,02,1,2
+"
+TD102
+",Z,Türk Dili II,Türkçe,02,00,00,2,1
+DÖNEM TOPLAMI:,17,02,04,20,30
+
+"
+AT101
+",Z,Atatürk İlkeleri ve Inkılap Tarihi I,Türkçe,02,00,00,2,1
+"
+CE140
+",Z,Bilgisayar Programlama I,İngilizce,02,00,02,3,5
+"
+EL201
+",Z,İngilizce-III,İngilizce,03,00,00,3,4
+"
+GE204
+",Z,Mühendisler için Olasılık ve İstatistik,İngilizce,03,00,00,3,5
+"
+IE205
+",Z,Bilgisayar Destekli Teknik Çizim,İngilizce,03,00,00,3,5
+"
+MA201
+",Z,Diferansiyel Denklemler,İngilizce,03,00,00,3,6
+KHAS,S,KHAS Seçmeli,İngilizce,0,0,0,0,1
+DÖNEM TOPLAMI:,16,00,02,17,27
+
+"
+AT102
+",Z,Atatürk İlkeleri ve Inkılap Tarihi II,Türkçe,02,00,00,2,1
+"
+CH201
+",Z,Malzeme Bilimi,İngilizce,02,00,00,2,3
+"
+EL202
+",Z,İngilizce-IV,İngilizce,03,00,00,3,4
+"
+IE214
+",Z,Endüstri Mühendisleri İçin Programlama A,İngilizce,03,00,00,3,5
+"
+IE216
+",Z,Mühendislik Ekonomisi,İngilizce,03,00,00,3,4
+"
+IE222
+",Z,Ergonomi ve İnsan Faktörleri Mühendisliğ,İngilizce,03,00,00,3,5
+"
+IE241
+",Z,İmalat Süreçleri,İngilizce,03,00,00,3,5
+"
+MDBF299
+",Z,Staj I,İngilizce,00,00,00,0,6
+DÖNEM TOPLAMI:,19,00,00,19,33
+
+"
+EC309
+",Z,Mühendisler için Ekonomi,İngilizce,03,00,00,3,4
+"
+IE311
+",Z,Yöneylem Araştırması I,İngilizce,03,00,00,3,6
+"
+IE313
+",Z,İstatistiksel Karar Verme,İngilizce,03,00,00,3,6
+"
+LW217
+",Z,İşletme Hukuku,İngilizce,03,00,00,3,5
+IE,S,Departman Seçmeli I,İngilizce,3,0,0,3,6
+DÖNEM TOPLAMI:,15,00,00,15,27
+
+"
+IE312
+",Z,Yöneylem Araştırması II,İngilizce,03,00,00,3,6
+"
+IE324
+",Z,Endüstriyel Sistemlerde Veri Analitiği,İngilizce,03,00,00,3,3
+"
+IE332
+",Z,Sistemlerin Benzetimi,İngilizce,03,00,00,3,6
+"
+IE342
+",Z,Malzeme Yönetimi,İngilizce,03,00,00,3,6
+"
+MDBF399
+",Z,Staj II,İngilizce,00,00,00,0,6
+IE,S,Departman Seçmeli II,İngilizce,3,0,0,3,6
+DÖNEM TOPLAMI:,15,00,00,15,33
+
+"
+GE401
+",Z,Mühendislikte Problem Çözme ve Proje Yönetimi,İngilizce,02,00,00,2,6
+"
+IE401
+",Z,Üretim Planlama ve Kontrol,İngilizce,03,00,00,3,8
+,S,Sosyal Seçmeli-I,İngilizce,3,0,0,3,3
+,S,Teknik Seçmeli-I,İngilizce,3,0,0,3,6
+IE,S,Departman Seçmeli III,İngilizce,3,0,0,3,6
+DÖNEM TOPLAMI:,14,00,00,14,29
+
+"
+GE400
+",Z,Mühendislik Tasarım Projesi,İngilizce,00,08,00,4,10
+"
+IE412
+",Z,İstatistiksel Kalite Kontrolü,İngilizce,03,00,00,3,6
+,S,Sosyal Seçmeli-II,İngilizce,3,0,0,3,3
+,S,Teknik Seçmeli-II,İngilizce,3,0,0,3,6
+IE,S,Departman Seçmeli IV,İngilizce,3,0,0,3,6
+DÖNEM TOPLAMI:,12,08,00,16,31
+TOPLAM:,125,12,08,135,240
+
+"
+IE315
+",S,Deney Tasarımı,İngilizce,03,00,00,3,6
+"
+IE317
+",S,Çok Ölçütlü Karar Verme,İngilizce,03,00,00,3,6
+"
+IE318
+",S,Yöneylem Araştırması Uygulamaları,İngilizce,03,00,00,3,6
+"
+IE321
+",S,Fabrika Tasarımı ve Tesis Yerleşimi,İngilizce,03,00,00,3,6
+"
+IE323
+",S,Ürün Tasarım ve Geliştirme,İngilizce,03,00,00,3,6
+"
+IE324
+",S,Endüstriyel Sistemlerde Veri Analitiği,İngilizce,03,00,00,3,3
+"
+IE325
+",S,Tesis Yerleşim ve Yerleştirme Problemleri için Analitik Yöntemler,İngilizce,03,00,00,3,6
+"
+IE341
+",S,Taşıma ve Lojistik Mühendisliği,İngilizce,03,00,00,3,6
+"
+IE344
+",S,Bilgisayarla Bütünleşik İmalat,İngilizce,03,00,00,3,6
+"
+IE351
+",S,Endüstri Mühendisliği İçin Hesaplama Yön,Türkçe,03,00,00,3,6
+"
+IE354
+",S,Mühendislik Ekonomisi ve Maliyet Analizi,İngilizce,03,00,00,3,6
+"
+IE374
+",S,Finans Mühendisliğinde Simülasyon Teknikleri,İngilizce,03,00,00,3,6
+"
+IE411
+",S,Yönetim ve Organizasyon,İngilizce,03,00,00,3,6
+"
+IE415
+",S,Tedarik Zinciri Yönetiminde Modelleme,İngilizce,03,00,00,3,6
+"
+IE421
+",S,İnovasyon ve Teknoloji Yönetimi,İngilizce,03,00,00,3,6
+"
+IE422
+",S,Stratejik Planlama,İngilizce,03,00,00,3,6
+"
+IE423
+",S,Operasyon Yönetiminde Karar Destek Siste,İngilizce,03,00,00,3,6
+"
+IE425
+",S,Stokastik Süreçler,İngilizce,03,00,00,3,6
+"
+IE427
+",S,Müşteri İlişkileri Yönetimi,İngilizce,03,00,00,3,6
+"
+IE431
+",S,Kurumsal Kaynak Planlaması,İngilizce,03,00,00,3,6
+"
+IE464
+",S,Mühendislikte Toplam Kalite Yönetimi,İngilizce,03,00,00,3,6
+"
+IE488
+",S,Endüstri Mühendisliğinde Özel Konular,İngilizce,03,00,00,3,6
